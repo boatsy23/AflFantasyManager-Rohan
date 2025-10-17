@@ -1,0 +1,95 @@
+AFL FANTASY PRICE CHANGE ALGORITHM - MATHEMATICAL FORMULA
+===========================================================
+
+CORE FORMULA:
+P_n = (1 - β) * P_{n-1} + M_n - Σ(α_k * S_k)
+
+WHERE:
+- P_n = New price after round n
+- P_{n-1} = Current price before the round
+- β = Beta weight (price stability factor) = 0.15
+- M_n = Magic number = 3500
+- α_k = Score weight for position k = [5, 4, 3, 2, 1] (most recent first)
+- S_k = Score for position k in the weighted score history
+
+STEP-BY-STEP CALCULATION:
+========================
+
+1. GATHER SCORE HISTORY
+   - Take projected score for the round
+   - Combine with player's last 4 actual scores
+   - Create array: [projected_score, last_score, score_2, score_3, score_4]
+   - Limit to maximum 5 scores
+
+2. APPLY SCORE WEIGHTS
+   - Multiply each score by its weight:
+     * Most recent (projected): score × 5
+     * 1 round ago: score × 4  
+     * 2 rounds ago: score × 3
+     * 3 rounds ago: score × 2
+     * 4 rounds ago: score × 1
+   - Sum all weighted scores = Σ(α_k * S_k)
+
+3. CALCULATE NEW PRICE
+   - Apply the main formula:
+     new_price = (1 - 0.15) × current_price + 3500 - weighted_score_sum
+     new_price = 0.85 × current_price + 3500 - weighted_score_sum
+   - Round to nearest whole number
+   - Apply minimum price floor of $100,000
+
+4. CALCULATE PRICE CHANGE
+   - price_change = new_price - current_price
+
+5. UPDATE BREAKEVEN
+   - current_weighted_avg = weighted_score_sum ÷ total_weights_used
+   - new_breakeven = current_weighted_avg + (price_change ÷ 150)
+   - Round to nearest whole number
+   - Apply minimum breakeven floor of 0
+
+6. ITERATE FOR MULTIPLE ROUNDS
+   - Use the new price as starting price for next round
+   - Add the projected score to recent score history
+   - Remove oldest score from history
+   - Repeat steps 2-5 for each additional round
+
+EXAMPLE CALCULATION:
+===================
+
+PLAYER: Josh Dunkley
+Current Price: $1,157,142
+Current Breakeven: 95
+Projected Scores: [85, 90, 88]
+Recent Actual Scores: [78, 82, 91, 85]
+
+ROUND 1:
+- Score array: [85, 78, 82, 91, 85]
+- Weighted sum: (85×5) + (78×4) + (82×3) + (91×2) + (85×1) = 425 + 312 + 246 + 182 + 85 = 1,250
+- New price: 0.85 × 1,157,142 + 3500 - 1,250 = 983,571 + 3500 - 1,250 = 985,821
+- Price change: 985,821 - 1,157,142 = -171,321
+- New breakeven: (1,250 ÷ 15) + (-171,321 ÷ 150) = 83.33 - 1,142.14 = -1,058.81 → 0 (floor)
+
+ROUND 2:
+- Start with: $985,821
+- Score array: [90, 85, 78, 82, 91] 
+- Weighted sum: (90×5) + (85×4) + (78×3) + (82×2) + (91×1) = 450 + 340 + 234 + 164 + 91 = 1,279
+- New price: 0.85 × 985,821 + 3500 - 1,279 = 837,948 + 3500 - 1,279 = 840,169
+- Price change: -145,652
+
+ROUND 3:
+- Start with: $840,169
+- Score array: [88, 90, 85, 78, 82]
+- Weighted sum: (88×5) + (90×4) + (85×3) + (78×2) + (82×1) = 440 + 360 + 255 + 156 + 82 = 1,293
+- New price: 0.85 × 840,169 + 3500 - 1,293 = 714,144 + 3500 - 1,293 = 716,351
+- Price change: -123,818
+
+TOTAL CHANGE: -171,321 + -145,652 + -123,818 = -440,791
+FINAL PRICE: $716,351
+
+CONSTANTS USED:
+===============
+- Magic Number: 3500 (authentic AFL Fantasy constant)
+- Beta Weight: 0.15 (price stability factor)
+- Score Weights: [5, 4, 3, 2, 1] (recency bias)
+- Price Sensitivity: 150 (breakeven adjustment factor)
+- Minimum Price: $100,000
+- Minimum Breakeven: 0

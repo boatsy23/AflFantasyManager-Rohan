@@ -1,0 +1,26 @@
+{
+  "team_counts": {
+    "Adelaide": 44,
+    "West Coast": 44,
+    "Collingwood": 43,
+    "Western Bulldogs": 42,
+    "Geelong": 44,
+    "Carlton": 45,
+    "Port Adelaide": 44,
+    "Melbourne": 45,
+    "Greater Western Sydney": 29,
+    "Essendon": 29,
+    "Brisbane": 30,
+    "Fremantle": 32,
+    "St Kilda": 31,
+    "North Melbourne": 31,
+    "Hawthorn": 29,
+    "Gold Coast": 26,
+    "Sydney": 29,
+    "Richmond": 31
+  },
+  "unknown_teams": [
+    "Greater Western Sydney"
+  ],
+  "total_players": 648
+}

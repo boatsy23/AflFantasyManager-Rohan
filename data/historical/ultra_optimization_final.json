@@ -1,0 +1,15 @@
+{
+  "ultra_optimization_date": "2025-09-28",
+  "target_achieved": false,
+  "max_error": 79523.0,
+  "mean_error": 16389.38,
+  "players_within_target": 14,
+  "success_rate_pct": 14.000000000000002,
+  "optimized_parameters": {
+    "low_max": 250000,
+    "high_min": 1300000,
+    "low_boost": 2.0,
+    "high_dampening": 0.5,
+    "weight_decay": 0.8
+  }
+}

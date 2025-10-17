@@ -1,0 +1,5462 @@
+[
+  {
+    "player_id": "5000",
+    "player_name": "Aaron Cadman",
+    "player_url": "aaron-cadman",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/aaron-cadman/"
+  },
+  {
+    "player_id": "5001",
+    "player_name": "Aaron Francis",
+    "player_url": "aaron-francis",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/aaron-francis/"
+  },
+  {
+    "player_id": "5002",
+    "player_name": "Aaron Naughton",
+    "player_url": "aaron-naughton",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/aaron-naughton/"
+  },
+  {
+    "player_id": "5003",
+    "player_name": "Adam Cerra",
+    "player_url": "adam-cerra",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/adam-cerra/"
+  },
+  {
+    "player_id": "5004",
+    "player_name": "Adam Saad",
+    "player_url": "adam-saad",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/adam-saad/"
+  },
+  {
+    "player_id": "5005",
+    "player_name": "Adam Treloar",
+    "player_url": "adam-treloar",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/adam-treloar/"
+  },
+  {
+    "player_id": "5006",
+    "player_name": "Aidan Corr",
+    "player_url": "aidan-corr",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/aidan-corr/"
+  },
+  {
+    "player_id": "5007",
+    "player_name": "Aidan Johnson",
+    "player_url": "aidan-johnson",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/aidan-johnson/"
+  },
+  {
+    "player_id": "5008",
+    "player_name": "Aiden Riddle",
+    "player_url": "aiden-riddle",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/aiden-riddle/"
+  },
+  {
+    "player_id": "5009",
+    "player_name": "Alex Cincotta",
+    "player_url": "alex-cincotta",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/alex-cincotta/"
+  },
+  {
+    "player_id": "5010",
+    "player_name": "Alex Davies",
+    "player_url": "alex-davies",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/alex-davies/"
+  },
+  {
+    "player_id": "5011",
+    "player_name": "Alex Dodson ",
+    "player_url": "alex-dodson-",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/alex-dodson-/"
+  },
+  {
+    "player_id": "5012",
+    "player_name": "Alex Neal-Bullen",
+    "player_url": "alex-neal-bullen",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/alex-neal-bullen/"
+  },
+  {
+    "player_id": "5013",
+    "player_name": "Alex Pearce",
+    "player_url": "alex-pearce",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/alex-pearce/"
+  },
+  {
+    "player_id": "5014",
+    "player_name": "Alex Sexton",
+    "player_url": "alex-sexton",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/alex-sexton/"
+  },
+  {
+    "player_id": "5015",
+    "player_name": "Aliir Aliir",
+    "player_url": "aliir-aliir",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/aliir-aliir/"
+  },
+  {
+    "player_id": "5016",
+    "player_name": "Alixzander Tauru",
+    "player_url": "alixzander-tauru",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/alixzander-tauru/"
+  },
+  {
+    "player_id": "5017",
+    "player_name": "Alwyn Davey Jnr",
+    "player_url": "alwyn-davey-jnr",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/alwyn-davey-jnr/"
+  },
+  {
+    "player_id": "5018",
+    "player_name": "Andrew Brayshaw",
+    "player_url": "andrew-brayshaw",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/andrew-brayshaw/"
+  },
+  {
+    "player_id": "5019",
+    "player_name": "Andrew McGrath",
+    "player_url": "andrew-mcgrath",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/andrew-mcgrath/"
+  },
+  {
+    "player_id": "5020",
+    "player_name": "Andy Moniz-Wakefield",
+    "player_url": "andy-moniz-wakefield",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/andy-moniz-wakefield/"
+  },
+  {
+    "player_id": "5021",
+    "player_name": "Angus Clarke ",
+    "player_url": "angus-clarke-",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/angus-clarke-/"
+  },
+  {
+    "player_id": "5022",
+    "player_name": "Angus Hastie",
+    "player_url": "angus-hastie",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/angus-hastie/"
+  },
+  {
+    "player_id": "5023",
+    "player_name": "Angus McLennan",
+    "player_url": "angus-mclennan",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/angus-mclennan/"
+  },
+  {
+    "player_id": "5024",
+    "player_name": "Angus Sheldrick",
+    "player_url": "angus-sheldrick",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/angus-sheldrick/"
+  },
+  {
+    "player_id": "5025",
+    "player_name": "Anthony Caminiti",
+    "player_url": "anthony-caminiti",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/anthony-caminiti/"
+  },
+  {
+    "player_id": "5026",
+    "player_name": "Anthony Scott",
+    "player_url": "anthony-scott",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/anthony-scott/"
+  },
+  {
+    "player_id": "5027",
+    "player_name": "Archer Day-Wicks",
+    "player_url": "archer-day-wicks",
+    "team": "ESS ",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/archer-day-wicks/"
+  },
+  {
+    "player_id": "5028",
+    "player_name": "Archer Reid",
+    "player_url": "archer-reid",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/archer-reid/"
+  },
+  {
+    "player_id": "5029",
+    "player_name": "Archie Perkins",
+    "player_url": "archie-perkins",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/archie-perkins/"
+  },
+  {
+    "player_id": "5030",
+    "player_name": "Archie Roberts",
+    "player_url": "archie-roberts",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/archie-roberts/"
+  },
+  {
+    "player_id": "5031",
+    "player_name": "Arie Schoenmaker",
+    "player_url": "arie-schoenmaker",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/arie-schoenmaker/"
+  },
+  {
+    "player_id": "5032",
+    "player_name": "Arthur Jones",
+    "player_url": "arthur-jones",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/arthur-jones/"
+  },
+  {
+    "player_id": "5033",
+    "player_name": "Ash Johnson",
+    "player_url": "ash-johnson",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ash-johnson/"
+  },
+  {
+    "player_id": "5034",
+    "player_name": "Asher Eastham",
+    "player_url": "asher-eastham",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/asher-eastham/"
+  },
+  {
+    "player_id": "5035",
+    "player_name": "Ashton Moir",
+    "player_url": "ashton-moir",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ashton-moir/"
+  },
+  {
+    "player_id": "5036",
+    "player_name": "Bailey Banfield",
+    "player_url": "bailey-banfield",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/bailey-banfield/"
+  },
+  {
+    "player_id": "5037",
+    "player_name": "Bailey Dale",
+    "player_url": "bailey-dale",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/bailey-dale/"
+  },
+  {
+    "player_id": "5038",
+    "player_name": "Bailey Humphrey",
+    "player_url": "bailey-humphrey",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/bailey-humphrey/"
+  },
+  {
+    "player_id": "5039",
+    "player_name": "Bailey J. Williams",
+    "player_url": "bailey-j-williams",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/bailey-j-williams/"
+  },
+  {
+    "player_id": "5040",
+    "player_name": "Bailey Laurie",
+    "player_url": "bailey-laurie",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/bailey-laurie/"
+  },
+  {
+    "player_id": "5041",
+    "player_name": "Bailey Macdonald",
+    "player_url": "bailey-macdonald",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/bailey-macdonald/"
+  },
+  {
+    "player_id": "5042",
+    "player_name": "Bailey Scott",
+    "player_url": "bailey-scott",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/bailey-scott/"
+  },
+  {
+    "player_id": "5043",
+    "player_name": "Bailey Smith",
+    "player_url": "bailey-smith",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/bailey-smith/"
+  },
+  {
+    "player_id": "5044",
+    "player_name": "Bailey Williams",
+    "player_url": "bailey-williams",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/bailey-williams/"
+  },
+  {
+    "player_id": "5045",
+    "player_name": "Bayley Fritsch",
+    "player_url": "bayley-fritsch",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/bayley-fritsch/"
+  },
+  {
+    "player_id": "5046",
+    "player_name": "Beau McCreery",
+    "player_url": "beau-mccreery",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/beau-mccreery/"
+  },
+  {
+    "player_id": "5047",
+    "player_name": "Ben Ainsworth",
+    "player_url": "ben-ainsworth",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ben-ainsworth/"
+  },
+  {
+    "player_id": "5048",
+    "player_name": "Ben Camporeale",
+    "player_url": "ben-camporeale",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ben-camporeale/"
+  },
+  {
+    "player_id": "5049",
+    "player_name": "Ben Hobbs",
+    "player_url": "ben-hobbs",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ben-hobbs/"
+  },
+  {
+    "player_id": "5050",
+    "player_name": "Ben Keays",
+    "player_url": "ben-keays",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ben-keays/"
+  },
+  {
+    "player_id": "5051",
+    "player_name": "Ben King",
+    "player_url": "ben-king",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ben-king/"
+  },
+  {
+    "player_id": "5052",
+    "player_name": "Ben Long",
+    "player_url": "ben-long",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ben-long/"
+  },
+  {
+    "player_id": "5053",
+    "player_name": "Ben McKay",
+    "player_url": "ben-mckay",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ben-mckay/"
+  },
+  {
+    "player_id": "5054",
+    "player_name": "Ben Miller",
+    "player_url": "ben-miller",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ben-miller/"
+  },
+  {
+    "player_id": "5055",
+    "player_name": "Ben Paton",
+    "player_url": "ben-paton",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ben-paton/"
+  },
+  {
+    "player_id": "5056",
+    "player_name": "Benny Barrett ",
+    "player_url": "benny-barrett-",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/benny-barrett-/"
+  },
+  {
+    "player_id": "5057",
+    "player_name": "Billy Dowling",
+    "player_url": "billy-dowling",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/billy-dowling/"
+  },
+  {
+    "player_id": "5058",
+    "player_name": "Billy Frampton",
+    "player_url": "billy-frampton",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/billy-frampton/"
+  },
+  {
+    "player_id": "5059",
+    "player_name": "Billy Wilson",
+    "player_url": "billy-wilson",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/billy-wilson/"
+  },
+  {
+    "player_id": "5060",
+    "player_name": "Blake Acres",
+    "player_url": "blake-acres",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/blake-acres/"
+  },
+  {
+    "player_id": "5061",
+    "player_name": "Blake Hardwick",
+    "player_url": "blake-hardwick",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/blake-hardwick/"
+  },
+  {
+    "player_id": "5062",
+    "player_name": "Blake Howes",
+    "player_url": "blake-howes",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/blake-howes/"
+  },
+  {
+    "player_id": "5063",
+    "player_name": "Blake Leidler",
+    "player_url": "blake-leidler",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/blake-leidler/"
+  },
+  {
+    "player_id": "5064",
+    "player_name": "Bo Allan ",
+    "player_url": "bo-allan-",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/bo-allan-/"
+  },
+  {
+    "player_id": "5065",
+    "player_name": "Bobby Hill",
+    "player_url": "bobby-hill",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/bobby-hill/"
+  },
+  {
+    "player_id": "5066",
+    "player_name": "Bodhi Uwland",
+    "player_url": "bodhi-uwland",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/bodhi-uwland/"
+  },
+  {
+    "player_id": "5067",
+    "player_name": "Bodie Ryan",
+    "player_url": "bodie-ryan",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/bodie-ryan/"
+  },
+  {
+    "player_id": "5068",
+    "player_name": "Brad Close",
+    "player_url": "brad-close",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/brad-close/"
+  },
+  {
+    "player_id": "5069",
+    "player_name": "Brad Crouch",
+    "player_url": "brad-crouch",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/brad-crouch/"
+  },
+  {
+    "player_id": "5070",
+    "player_name": "Bradley Hill",
+    "player_url": "bradley-hill",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/bradley-hill/"
+  },
+  {
+    "player_id": "5071",
+    "player_name": "Brady Hough",
+    "player_url": "brady-hough",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/brady-hough/"
+  },
+  {
+    "player_id": "5072",
+    "player_name": "Braeden Campbell",
+    "player_url": "braeden-campbell",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/braeden-campbell/"
+  },
+  {
+    "player_id": "5073",
+    "player_name": "Brandon Ryan",
+    "player_url": "brandon-ryan",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/brandon-ryan/"
+  },
+  {
+    "player_id": "5074",
+    "player_name": "Brandon Starcevich",
+    "player_url": "brandon-starcevich",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/brandon-starcevich/"
+  },
+  {
+    "player_id": "5075",
+    "player_name": "Brandon Walker",
+    "player_url": "brandon-walker",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/brandon-walker/"
+  },
+  {
+    "player_id": "5076",
+    "player_name": "Brandon Zerk-Thatcher",
+    "player_url": "brandon-zerk-thatcher",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/brandon-zerk-thatcher/"
+  },
+  {
+    "player_id": "5077",
+    "player_name": "Brayden Cook",
+    "player_url": "brayden-cook",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/brayden-cook/"
+  },
+  {
+    "player_id": "5078",
+    "player_name": "Brayden Fiorini",
+    "player_url": "brayden-fiorini",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/brayden-fiorini/"
+  },
+  {
+    "player_id": "5079",
+    "player_name": "Brayden George",
+    "player_url": "brayden-george",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/brayden-george/"
+  },
+  {
+    "player_id": "5080",
+    "player_name": "Brayden Maynard",
+    "player_url": "brayden-maynard",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/brayden-maynard/"
+  },
+  {
+    "player_id": "5081",
+    "player_name": "Brennan Cox",
+    "player_url": "brennan-cox",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/brennan-cox/"
+  },
+  {
+    "player_id": "5082",
+    "player_name": "Brent Daniels",
+    "player_url": "brent-daniels",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/brent-daniels/"
+  },
+  {
+    "player_id": "5083",
+    "player_name": "Brodie Grundy",
+    "player_url": "brodie-grundy",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/brodie-grundy/"
+  },
+  {
+    "player_id": "5084",
+    "player_name": "Brodie Kemp",
+    "player_url": "brodie-kemp",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/brodie-kemp/"
+  },
+  {
+    "player_id": "5085",
+    "player_name": "Brodie Smith",
+    "player_url": "brodie-smith",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/brodie-smith/"
+  },
+  {
+    "player_id": "5086",
+    "player_name": "Brody Mihocek",
+    "player_url": "brody-mihocek",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/brody-mihocek/"
+  },
+  {
+    "player_id": "5087",
+    "player_name": "Bruce Reville",
+    "player_url": "bruce-reville",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/bruce-reville/"
+  },
+  {
+    "player_id": "5088",
+    "player_name": "Brynn Teakle",
+    "player_url": "brynn-teakle",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/brynn-teakle/"
+  },
+  {
+    "player_id": "5089",
+    "player_name": "Buku Khamis",
+    "player_url": "buku-khamis",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/buku-khamis/"
+  },
+  {
+    "player_id": "5090",
+    "player_name": "Caiden Cleary",
+    "player_url": "caiden-cleary",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/caiden-cleary/"
+  },
+  {
+    "player_id": "5091",
+    "player_name": "Caleb Daniel",
+    "player_url": "caleb-daniel",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/caleb-daniel/"
+  },
+  {
+    "player_id": "5092",
+    "player_name": "Caleb Graham",
+    "player_url": "caleb-graham",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/caleb-graham/"
+  },
+  {
+    "player_id": "5093",
+    "player_name": "Caleb Mitchell",
+    "player_url": "caleb-mitchell",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/caleb-mitchell/"
+  },
+  {
+    "player_id": "5094",
+    "player_name": "Caleb Poulter",
+    "player_url": "caleb-poulter",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/caleb-poulter/"
+  },
+  {
+    "player_id": "5095",
+    "player_name": "Caleb Serong",
+    "player_url": "caleb-serong",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/caleb-serong/"
+  },
+  {
+    "player_id": "5096",
+    "player_name": "Caleb Windsor",
+    "player_url": "caleb-windsor",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/caleb-windsor/"
+  },
+  {
+    "player_id": "5097",
+    "player_name": "Callan Ward",
+    "player_url": "callan-ward",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/callan-ward/"
+  },
+  {
+    "player_id": "5098",
+    "player_name": "Callum Ah Chee",
+    "player_url": "callum-ah-chee",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/callum-ah-chee/"
+  },
+  {
+    "player_id": "5099",
+    "player_name": "Callum Coleman-Jones",
+    "player_url": "callum-coleman-jones",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/callum-coleman-jones/"
+  },
+  {
+    "player_id": "5100",
+    "player_name": "Callum Jamieson",
+    "player_url": "callum-jamieson",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/callum-jamieson/"
+  },
+  {
+    "player_id": "5101",
+    "player_name": "Callum M. Brown",
+    "player_url": "callum-m-brown",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/callum-m-brown/"
+  },
+  {
+    "player_id": "5102",
+    "player_name": "Callum Mills",
+    "player_url": "callum-mills",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/callum-mills/"
+  },
+  {
+    "player_id": "5103",
+    "player_name": "Callum Wilkie",
+    "player_url": "callum-wilkie",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/callum-wilkie/"
+  },
+  {
+    "player_id": "5104",
+    "player_name": "Calsher Dear",
+    "player_url": "calsher-dear",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/calsher-dear/"
+  },
+  {
+    "player_id": "5105",
+    "player_name": "Cam Mackenzie",
+    "player_url": "cam-mackenzie",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/cam-mackenzie/"
+  },
+  {
+    "player_id": "5106",
+    "player_name": "Cam Rayner",
+    "player_url": "cam-rayner",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/cam-rayner/"
+  },
+  {
+    "player_id": "5107",
+    "player_name": "Cameron Guthrie",
+    "player_url": "cameron-guthrie",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/cameron-guthrie/"
+  },
+  {
+    "player_id": "5108",
+    "player_name": "Cameron Zurhaar",
+    "player_url": "cameron-zurhaar",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/cameron-zurhaar/"
+  },
+  {
+    "player_id": "5109",
+    "player_name": "Campbell Chesser",
+    "player_url": "campbell-chesser",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/campbell-chesser/"
+  },
+  {
+    "player_id": "5110",
+    "player_name": "Campbell Gray",
+    "player_url": "campbell-gray",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/campbell-gray/"
+  },
+  {
+    "player_id": "5111",
+    "player_name": "Chad Warner",
+    "player_url": "chad-warner",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/chad-warner/"
+  },
+  {
+    "player_id": "5112",
+    "player_name": "Changkuoth Jiath",
+    "player_url": "changkuoth-jiath",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/changkuoth-jiath/"
+  },
+  {
+    "player_id": "5113",
+    "player_name": "Charlie Ballard",
+    "player_url": "charlie-ballard",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/charlie-ballard/"
+  },
+  {
+    "player_id": "5114",
+    "player_name": "Charlie Cameron",
+    "player_url": "charlie-cameron",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/charlie-cameron/"
+  },
+  {
+    "player_id": "5115",
+    "player_name": "Charlie Comben",
+    "player_url": "charlie-comben",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/charlie-comben/"
+  },
+  {
+    "player_id": "5116",
+    "player_name": "Charlie Curnow",
+    "player_url": "charlie-curnow",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/charlie-curnow/"
+  },
+  {
+    "player_id": "5117",
+    "player_name": "Charlie Dean",
+    "player_url": "charlie-dean",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/charlie-dean/"
+  },
+  {
+    "player_id": "5118",
+    "player_name": "Charlie Edwards",
+    "player_url": "charlie-edwards",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/charlie-edwards/"
+  },
+  {
+    "player_id": "5119",
+    "player_name": "Charlie Nicholls",
+    "player_url": "charlie-nicholls",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/charlie-nicholls/"
+  },
+  {
+    "player_id": "5120",
+    "player_name": "Charlie Spargo",
+    "player_url": "charlie-spargo",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/charlie-spargo/"
+  },
+  {
+    "player_id": "5121",
+    "player_name": "Charlie West",
+    "player_url": "charlie-west",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/charlie-west/"
+  },
+  {
+    "player_id": "5122",
+    "player_name": "Chayce Jones",
+    "player_url": "chayce-jones",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/chayce-jones/"
+  },
+  {
+    "player_id": "5123",
+    "player_name": "Chris Burgess",
+    "player_url": "chris-burgess",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/chris-burgess/"
+  },
+  {
+    "player_id": "5124",
+    "player_name": "Christian Moraes",
+    "player_url": "christian-moraes",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/christian-moraes/"
+  },
+  {
+    "player_id": "5125",
+    "player_name": "Christian Petracca",
+    "player_url": "christian-petracca",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/christian-petracca/"
+  },
+  {
+    "player_id": "5126",
+    "player_name": "Christian Salem",
+    "player_url": "christian-salem",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/christian-salem/"
+  },
+  {
+    "player_id": "5127",
+    "player_name": "Cillian Burke",
+    "player_url": "cillian-burke",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/cillian-burke/"
+  },
+  {
+    "player_id": "5128",
+    "player_name": "Clay Hall",
+    "player_url": "clay-hall",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/clay-hall/"
+  },
+  {
+    "player_id": "5129",
+    "player_name": "Clayton Oliver",
+    "player_url": "clayton-oliver",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/clayton-oliver/"
+  },
+  {
+    "player_id": "5130",
+    "player_name": "Cody Anderson",
+    "player_url": "cody-anderson",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/cody-anderson/"
+  },
+  {
+    "player_id": "5131",
+    "player_name": "Cody Angove ",
+    "player_url": "cody-angove-",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/cody-angove-/"
+  },
+  {
+    "player_id": "5132",
+    "player_name": "Cody Weightman",
+    "player_url": "cody-weightman",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/cody-weightman/"
+  },
+  {
+    "player_id": "5133",
+    "player_name": "Coen Livingstone",
+    "player_url": "coen-livingstone",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/coen-livingstone/"
+  },
+  {
+    "player_id": "5134",
+    "player_name": "Colby McKercher",
+    "player_url": "colby-mckercher",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/colby-mckercher/"
+  },
+  {
+    "player_id": "5135",
+    "player_name": "Connor Budarick",
+    "player_url": "connor-budarick",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/connor-budarick/"
+  },
+  {
+    "player_id": "5136",
+    "player_name": "Connor Idun",
+    "player_url": "connor-idun",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/connor-idun/"
+  },
+  {
+    "player_id": "5137",
+    "player_name": "Connor Macdonald",
+    "player_url": "connor-macdonald",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/connor-macdonald/"
+  },
+  {
+    "player_id": "5138",
+    "player_name": "Connor O'Sullivan",
+    "player_url": "connor-osullivan",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/connor-osullivan/"
+  },
+  {
+    "player_id": "5139",
+    "player_name": "Connor Rozee",
+    "player_url": "connor-rozee",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/connor-rozee/"
+  },
+  {
+    "player_id": "5140",
+    "player_name": "Conor McKenna",
+    "player_url": "conor-mckenna",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/conor-mckenna/"
+  },
+  {
+    "player_id": "5141",
+    "player_name": "Conor Nash",
+    "player_url": "conor-nash",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/conor-nash/"
+  },
+  {
+    "player_id": "5142",
+    "player_name": "Conor Stone",
+    "player_url": "conor-stone",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/conor-stone/"
+  },
+  {
+    "player_id": "5143",
+    "player_name": "Cooper Bell",
+    "player_url": "cooper-bell",
+    "team": "GCS ",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/cooper-bell/"
+  },
+  {
+    "player_id": "5144",
+    "player_name": "Cooper Harvey",
+    "player_url": "cooper-harvey",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/cooper-harvey/"
+  },
+  {
+    "player_id": "5145",
+    "player_name": "Cooper Hynes",
+    "player_url": "cooper-hynes",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/cooper-hynes/"
+  },
+  {
+    "player_id": "5146",
+    "player_name": "Cooper Lord",
+    "player_url": "cooper-lord",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/cooper-lord/"
+  },
+  {
+    "player_id": "5147",
+    "player_name": "Cooper Sharman",
+    "player_url": "cooper-sharman",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/cooper-sharman/"
+  },
+  {
+    "player_id": "5148",
+    "player_name": "Cooper Simpson",
+    "player_url": "cooper-simpson",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/cooper-simpson/"
+  },
+  {
+    "player_id": "5149",
+    "player_name": "Corey Durdin",
+    "player_url": "corey-durdin",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/corey-durdin/"
+  },
+  {
+    "player_id": "5150",
+    "player_name": "Corey Wagner",
+    "player_url": "corey-wagner",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/corey-wagner/"
+  },
+  {
+    "player_id": "5151",
+    "player_name": "Corey Warner",
+    "player_url": "corey-warner",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/corey-warner/"
+  },
+  {
+    "player_id": "5152",
+    "player_name": "Dan Butler",
+    "player_url": "dan-butler",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/dan-butler/"
+  },
+  {
+    "player_id": "5153",
+    "player_name": "Dan Houston",
+    "player_url": "dan-houston",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/dan-houston/"
+  },
+  {
+    "player_id": "5154",
+    "player_name": "Dane Rampe",
+    "player_url": "dane-rampe",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/dane-rampe/"
+  },
+  {
+    "player_id": "5155",
+    "player_name": "Daniel Curtin",
+    "player_url": "daniel-curtin",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/daniel-curtin/"
+  },
+  {
+    "player_id": "5156",
+    "player_name": "Daniel McStay",
+    "player_url": "daniel-mcstay",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/daniel-mcstay/"
+  },
+  {
+    "player_id": "5157",
+    "player_name": "Daniel Rioli",
+    "player_url": "daniel-rioli",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/daniel-rioli/"
+  },
+  {
+    "player_id": "5158",
+    "player_name": "Daniel Turner",
+    "player_url": "daniel-turner",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/daniel-turner/"
+  },
+  {
+    "player_id": "5159",
+    "player_name": "Dante Visentini",
+    "player_url": "dante-visentini",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/dante-visentini/"
+  },
+  {
+    "player_id": "5160",
+    "player_name": "Darcy Byrne-Jones",
+    "player_url": "darcy-byrne-jones",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/darcy-byrne-jones/"
+  },
+  {
+    "player_id": "5161",
+    "player_name": "Darcy Cameron",
+    "player_url": "darcy-cameron",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/darcy-cameron/"
+  },
+  {
+    "player_id": "5162",
+    "player_name": "Darcy Craven",
+    "player_url": "darcy-craven",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/darcy-craven/"
+  },
+  {
+    "player_id": "5163",
+    "player_name": "Darcy Fogarty",
+    "player_url": "darcy-fogarty",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/darcy-fogarty/"
+  },
+  {
+    "player_id": "5164",
+    "player_name": "Darcy Fort",
+    "player_url": "darcy-fort",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/darcy-fort/"
+  },
+  {
+    "player_id": "5165",
+    "player_name": "Darcy Gardiner",
+    "player_url": "darcy-gardiner",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/darcy-gardiner/"
+  },
+  {
+    "player_id": "5166",
+    "player_name": "Darcy Jones",
+    "player_url": "darcy-jones",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/darcy-jones/"
+  },
+  {
+    "player_id": "5167",
+    "player_name": "Darcy Moore",
+    "player_url": "darcy-moore",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/darcy-moore/"
+  },
+  {
+    "player_id": "5168",
+    "player_name": "Darcy Parish",
+    "player_url": "darcy-parish",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/darcy-parish/"
+  },
+  {
+    "player_id": "5169",
+    "player_name": "Darcy Tucker",
+    "player_url": "darcy-tucker",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/darcy-tucker/"
+  },
+  {
+    "player_id": "5170",
+    "player_name": "Darcy Wilmot",
+    "player_url": "darcy-wilmot",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/darcy-wilmot/"
+  },
+  {
+    "player_id": "5171",
+    "player_name": "Darcy Wilson",
+    "player_url": "darcy-wilson",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/darcy-wilson/"
+  },
+  {
+    "player_id": "5172",
+    "player_name": "Darragh Joyce",
+    "player_url": "darragh-joyce",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/darragh-joyce/"
+  },
+  {
+    "player_id": "5173",
+    "player_name": "David Swallow",
+    "player_url": "david-swallow",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/david-swallow/"
+  },
+  {
+    "player_id": "5174",
+    "player_name": "Dayne Zorko",
+    "player_url": "dayne-zorko",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/dayne-zorko/"
+  },
+  {
+    "player_id": "5175",
+    "player_name": "Deven Robertson",
+    "player_url": "deven-robertson",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/deven-robertson/"
+  },
+  {
+    "player_id": "5176",
+    "player_name": "Dion Prestia",
+    "player_url": "dion-prestia",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/dion-prestia/"
+  },
+  {
+    "player_id": "5177",
+    "player_name": "Dom Sheed",
+    "player_url": "dom-sheed",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/dom-sheed/"
+  },
+  {
+    "player_id": "5178",
+    "player_name": "Dougal Howard",
+    "player_url": "dougal-howard",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/dougal-howard/"
+  },
+  {
+    "player_id": "5179",
+    "player_name": "Dylan Moore",
+    "player_url": "dylan-moore",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/dylan-moore/"
+  },
+  {
+    "player_id": "5180",
+    "player_name": "Dylan Shiel",
+    "player_url": "dylan-shiel",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/dylan-shiel/"
+  },
+  {
+    "player_id": "5181",
+    "player_name": "Dylan Stephens",
+    "player_url": "dylan-stephens",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/dylan-stephens/"
+  },
+  {
+    "player_id": "5182",
+    "player_name": "Dylan Williams",
+    "player_url": "dylan-williams",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/dylan-williams/"
+  },
+  {
+    "player_id": "5183",
+    "player_name": "Ed Langdon",
+    "player_url": "ed-langdon",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ed-langdon/"
+  },
+  {
+    "player_id": "5184",
+    "player_name": "Ed Richards",
+    "player_url": "ed-richards",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ed-richards/"
+  },
+  {
+    "player_id": "5185",
+    "player_name": "Eddie Ford",
+    "player_url": "eddie-ford",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/eddie-ford/"
+  },
+  {
+    "player_id": "5186",
+    "player_name": "Edward Allan",
+    "player_url": "edward-allan",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/edward-allan/"
+  },
+  {
+    "player_id": "5187",
+    "player_name": "Elijah Hewett",
+    "player_url": "elijah-hewett",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/elijah-hewett/"
+  },
+  {
+    "player_id": "5188",
+    "player_name": "Elijah Hollands",
+    "player_url": "elijah-hollands",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/elijah-hollands/"
+  },
+  {
+    "player_id": "5189",
+    "player_name": "Elijah Tsatas",
+    "player_url": "elijah-tsatas",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/elijah-tsatas/"
+  },
+  {
+    "player_id": "5190",
+    "player_name": "Elliot Yeo",
+    "player_url": "elliot-yeo",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/elliot-yeo/"
+  },
+  {
+    "player_id": "5191",
+    "player_name": "Elliott Himmelberg",
+    "player_url": "elliott-himmelberg",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/elliott-himmelberg/"
+  },
+  {
+    "player_id": "5192",
+    "player_name": "Eric Hipwood",
+    "player_url": "eric-hipwood",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/eric-hipwood/"
+  },
+  {
+    "player_id": "5193",
+    "player_name": "Errol Gulden",
+    "player_url": "errol-gulden",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/errol-gulden/"
+  },
+  {
+    "player_id": "5194",
+    "player_name": "Esava Ratugolea",
+    "player_url": "esava-ratugolea",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/esava-ratugolea/"
+  },
+  {
+    "player_id": "5195",
+    "player_name": "Ethan Read",
+    "player_url": "ethan-read",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ethan-read/"
+  },
+  {
+    "player_id": "5196",
+    "player_name": "Finlay Macrae",
+    "player_url": "finlay-macrae",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/finlay-macrae/"
+  },
+  {
+    "player_id": "5197",
+    "player_name": "Finn Callaghan",
+    "player_url": "finn-callaghan",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/finn-callaghan/"
+  },
+  {
+    "player_id": "5198",
+    "player_name": "Finn Maginness",
+    "player_url": "finn-maginness",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/finn-maginness/"
+  },
+  {
+    "player_id": "5199",
+    "player_name": "Finn O?Sullivan ",
+    "player_url": "finn-o?sullivan-",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/finn-o?sullivan-/"
+  },
+  {
+    "player_id": "5200",
+    "player_name": "Finnbar Maley",
+    "player_url": "finnbar-maley",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/finnbar-maley/"
+  },
+  {
+    "player_id": "5201",
+    "player_name": "Geordie Payne",
+    "player_url": "geordie-payne",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/geordie-payne/"
+  },
+  {
+    "player_id": "5202",
+    "player_name": "George Hewett",
+    "player_url": "george-hewett",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/george-hewett/"
+  },
+  {
+    "player_id": "5203",
+    "player_name": "George Stevens",
+    "player_url": "george-stevens",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/george-stevens/"
+  },
+  {
+    "player_id": "5204",
+    "player_name": "George Wardlaw",
+    "player_url": "george-wardlaw",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/george-wardlaw/"
+  },
+  {
+    "player_id": "5205",
+    "player_name": "Griffin Logue",
+    "player_url": "griffin-logue",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/griffin-logue/"
+  },
+  {
+    "player_id": "5206",
+    "player_name": "Gryan Miers",
+    "player_url": "gryan-miers",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/gryan-miers/"
+  },
+  {
+    "player_id": "5207",
+    "player_name": "Hamish Davis",
+    "player_url": "hamish-davis",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/hamish-davis/"
+  },
+  {
+    "player_id": "5208",
+    "player_name": "Harley Reid",
+    "player_url": "harley-reid",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harley-reid/"
+  },
+  {
+    "player_id": "5209",
+    "player_name": "Harris Andrews",
+    "player_url": "harris-andrews",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harris-andrews/"
+  },
+  {
+    "player_id": "5210",
+    "player_name": "Harrison Jones",
+    "player_url": "harrison-jones",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harrison-jones/"
+  },
+  {
+    "player_id": "5211",
+    "player_name": "Harrison Oliver",
+    "player_url": "harrison-oliver",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harrison-oliver/"
+  },
+  {
+    "player_id": "5212",
+    "player_name": "Harrison Petty",
+    "player_url": "harrison-petty",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harrison-petty/"
+  },
+  {
+    "player_id": "5213",
+    "player_name": "Harry Armstrong ",
+    "player_url": "harry-armstrong-",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harry-armstrong-/"
+  },
+  {
+    "player_id": "5214",
+    "player_name": "Harry Barnett",
+    "player_url": "harry-barnett",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harry-barnett/"
+  },
+  {
+    "player_id": "5215",
+    "player_name": "Harry Boyd",
+    "player_url": "harry-boyd",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harry-boyd/"
+  },
+  {
+    "player_id": "5216",
+    "player_name": "Harry Charleson",
+    "player_url": "harry-charleson",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harry-charleson/"
+  },
+  {
+    "player_id": "5217",
+    "player_name": "Harry Cunningham",
+    "player_url": "harry-cunningham",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harry-cunningham/"
+  },
+  {
+    "player_id": "5218",
+    "player_name": "Harry DeMattia",
+    "player_url": "harry-demattia",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harry-demattia/"
+  },
+  {
+    "player_id": "5219",
+    "player_name": "Harry Edwards",
+    "player_url": "harry-edwards",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harry-edwards/"
+  },
+  {
+    "player_id": "5220",
+    "player_name": "Harry Himmelberg",
+    "player_url": "harry-himmelberg",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harry-himmelberg/"
+  },
+  {
+    "player_id": "5221",
+    "player_name": "Harry Lemmey",
+    "player_url": "harry-lemmey",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harry-lemmey/"
+  },
+  {
+    "player_id": "5222",
+    "player_name": "Harry McKay",
+    "player_url": "harry-mckay",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harry-mckay/"
+  },
+  {
+    "player_id": "5223",
+    "player_name": "Harry Morrison",
+    "player_url": "harry-morrison",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harry-morrison/"
+  },
+  {
+    "player_id": "5224",
+    "player_name": "Harry O?Farrell",
+    "player_url": "harry-o?farrell",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harry-o?farrell/"
+  },
+  {
+    "player_id": "5225",
+    "player_name": "Harry Perryman",
+    "player_url": "harry-perryman",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harry-perryman/"
+  },
+  {
+    "player_id": "5226",
+    "player_name": "Harry Rowston",
+    "player_url": "harry-rowston",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harry-rowston/"
+  },
+  {
+    "player_id": "5227",
+    "player_name": "Harry Schoenberg",
+    "player_url": "harry-schoenberg",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harry-schoenberg/"
+  },
+  {
+    "player_id": "5228",
+    "player_name": "Harry Sharp",
+    "player_url": "harry-sharp",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harry-sharp/"
+  },
+  {
+    "player_id": "5229",
+    "player_name": "Harry Sheezel",
+    "player_url": "harry-sheezel",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harry-sheezel/"
+  },
+  {
+    "player_id": "5230",
+    "player_name": "Harvey Gallagher",
+    "player_url": "harvey-gallagher",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harvey-gallagher/"
+  },
+  {
+    "player_id": "5231",
+    "player_name": "Harvey Harrison",
+    "player_url": "harvey-harrison",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harvey-harrison/"
+  },
+  {
+    "player_id": "5232",
+    "player_name": "Harvey Johnston",
+    "player_url": "harvey-johnston",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harvey-johnston/"
+  },
+  {
+    "player_id": "5233",
+    "player_name": "Harvey Langford ",
+    "player_url": "harvey-langford-",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harvey-langford-/"
+  },
+  {
+    "player_id": "5234",
+    "player_name": "Harvey Thomas",
+    "player_url": "harvey-thomas",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/harvey-thomas/"
+  },
+  {
+    "player_id": "5235",
+    "player_name": "Hayden McLean",
+    "player_url": "hayden-mclean",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/hayden-mclean/"
+  },
+  {
+    "player_id": "5236",
+    "player_name": "Hayden Young",
+    "player_url": "hayden-young",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/hayden-young/"
+  },
+  {
+    "player_id": "5237",
+    "player_name": "Heath Chapman",
+    "player_url": "heath-chapman",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/heath-chapman/"
+  },
+  {
+    "player_id": "5238",
+    "player_name": "Henry Hustwaite",
+    "player_url": "henry-hustwaite",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/henry-hustwaite/"
+  },
+  {
+    "player_id": "5239",
+    "player_name": "Henry Smith",
+    "player_url": "henry-smith",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/henry-smith/"
+  },
+  {
+    "player_id": "5240",
+    "player_name": "Hudson O'Keeffe",
+    "player_url": "hudson-okeeffe",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/hudson-okeeffe/"
+  },
+  {
+    "player_id": "5241",
+    "player_name": "Hugh Bond",
+    "player_url": "hugh-bond",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/hugh-bond/"
+  },
+  {
+    "player_id": "5242",
+    "player_name": "Hugh Boxshall",
+    "player_url": "hugh-boxshall",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/hugh-boxshall/"
+  },
+  {
+    "player_id": "5243",
+    "player_name": "Hugh Davies",
+    "player_url": "hugh-davies",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/hugh-davies/"
+  },
+  {
+    "player_id": "5244",
+    "player_name": "Hugh Jackson",
+    "player_url": "hugh-jackson",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/hugh-jackson/"
+  },
+  {
+    "player_id": "5245",
+    "player_name": "Hugh McCluggage",
+    "player_url": "hugh-mccluggage",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/hugh-mccluggage/"
+  },
+  {
+    "player_id": "5246",
+    "player_name": "Hugo Garcia",
+    "player_url": "hugo-garcia",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/hugo-garcia/"
+  },
+  {
+    "player_id": "5247",
+    "player_name": "Hugo Ralphsmith",
+    "player_url": "hugo-ralphsmith",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/hugo-ralphsmith/"
+  },
+  {
+    "player_id": "5248",
+    "player_name": "Hunter Clark",
+    "player_url": "hunter-clark",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/hunter-clark/"
+  },
+  {
+    "player_id": "5249",
+    "player_name": "Iliro Smit",
+    "player_url": "iliro-smit",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/iliro-smit/"
+  },
+  {
+    "player_id": "5250",
+    "player_name": "Indhi Kirk",
+    "player_url": "indhi-kirk",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/indhi-kirk/"
+  },
+  {
+    "player_id": "5251",
+    "player_name": "Isaac Cumming",
+    "player_url": "isaac-cumming",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/isaac-cumming/"
+  },
+  {
+    "player_id": "5252",
+    "player_name": "Isaac Heeney",
+    "player_url": "isaac-heeney",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/isaac-heeney/"
+  },
+  {
+    "player_id": "5253",
+    "player_name": "Isaac Kako",
+    "player_url": "isaac-kako",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/isaac-kako/"
+  },
+  {
+    "player_id": "5254",
+    "player_name": "Isaac Keeler",
+    "player_url": "isaac-keeler",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/isaac-keeler/"
+  },
+  {
+    "player_id": "5255",
+    "player_name": "Isaac Quaynor",
+    "player_url": "isaac-quaynor",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/isaac-quaynor/"
+  },
+  {
+    "player_id": "5256",
+    "player_name": "Ivan Soldo",
+    "player_url": "ivan-soldo",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ivan-soldo/"
+  },
+  {
+    "player_id": "5257",
+    "player_name": "Izak Rankine",
+    "player_url": "izak-rankine",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/izak-rankine/"
+  },
+  {
+    "player_id": "5258",
+    "player_name": "Jack Billings",
+    "player_url": "jack-billings",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-billings/"
+  },
+  {
+    "player_id": "5259",
+    "player_name": "Jack Bowes",
+    "player_url": "jack-bowes",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-bowes/"
+  },
+  {
+    "player_id": "5260",
+    "player_name": "Jack Buckley",
+    "player_url": "jack-buckley",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-buckley/"
+  },
+  {
+    "player_id": "5261",
+    "player_name": "Jack Buller",
+    "player_url": "jack-buller",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-buller/"
+  },
+  {
+    "player_id": "5262",
+    "player_name": "Jack Carroll",
+    "player_url": "jack-carroll",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-carroll/"
+  },
+  {
+    "player_id": "5263",
+    "player_name": "Jack Crisp",
+    "player_url": "jack-crisp",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-crisp/"
+  },
+  {
+    "player_id": "5264",
+    "player_name": "Jack Darling",
+    "player_url": "jack-darling",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-darling/"
+  },
+  {
+    "player_id": "5265",
+    "player_name": "Jack Delean",
+    "player_url": "jack-delean",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-delean/"
+  },
+  {
+    "player_id": "5266",
+    "player_name": "Jack Ginnivan",
+    "player_url": "jack-ginnivan",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-ginnivan/"
+  },
+  {
+    "player_id": "5267",
+    "player_name": "Jack Graham",
+    "player_url": "jack-graham",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-graham/"
+  },
+  {
+    "player_id": "5268",
+    "player_name": "Jack Gunston",
+    "player_url": "jack-gunston",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-gunston/"
+  },
+  {
+    "player_id": "5269",
+    "player_name": "Jack Henry",
+    "player_url": "jack-henry",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-henry/"
+  },
+  {
+    "player_id": "5270",
+    "player_name": "Jack Higgins",
+    "player_url": "jack-higgins",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-higgins/"
+  },
+  {
+    "player_id": "5271",
+    "player_name": "Jack Hutchinson",
+    "player_url": "jack-hutchinson",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-hutchinson/"
+  },
+  {
+    "player_id": "5272",
+    "player_name": "Jack Lukosius",
+    "player_url": "jack-lukosius",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-lukosius/"
+  },
+  {
+    "player_id": "5273",
+    "player_name": "Jack Macrae",
+    "player_url": "jack-macrae",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-macrae/"
+  },
+  {
+    "player_id": "5274",
+    "player_name": "Jack Martin",
+    "player_url": "jack-martin",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-martin/"
+  },
+  {
+    "player_id": "5275",
+    "player_name": "Jack Ough",
+    "player_url": "jack-ough",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-ough/"
+  },
+  {
+    "player_id": "5276",
+    "player_name": "Jack Payne",
+    "player_url": "jack-payne",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-payne/"
+  },
+  {
+    "player_id": "5277",
+    "player_name": "Jack Petruccelle",
+    "player_url": "jack-petruccelle",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-petruccelle/"
+  },
+  {
+    "player_id": "5278",
+    "player_name": "Jack Ross",
+    "player_url": "jack-ross",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-ross/"
+  },
+  {
+    "player_id": "5279",
+    "player_name": "Jack Scrimshaw",
+    "player_url": "jack-scrimshaw",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-scrimshaw/"
+  },
+  {
+    "player_id": "5280",
+    "player_name": "Jack Silvagni",
+    "player_url": "jack-silvagni",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-silvagni/"
+  },
+  {
+    "player_id": "5281",
+    "player_name": "Jack Sinclair",
+    "player_url": "jack-sinclair",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-sinclair/"
+  },
+  {
+    "player_id": "5282",
+    "player_name": "Jack Steele",
+    "player_url": "jack-steele",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-steele/"
+  },
+  {
+    "player_id": "5283",
+    "player_name": "Jack Viney",
+    "player_url": "jack-viney",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-viney/"
+  },
+  {
+    "player_id": "5284",
+    "player_name": "Jack Whitlock",
+    "player_url": "jack-whitlock",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-whitlock/"
+  },
+  {
+    "player_id": "5285",
+    "player_name": "Jack Williams",
+    "player_url": "jack-williams",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jack-williams/"
+  },
+  {
+    "player_id": "5286",
+    "player_name": "Jackson Archer",
+    "player_url": "jackson-archer",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jackson-archer/"
+  },
+  {
+    "player_id": "5287",
+    "player_name": "Jackson Mead",
+    "player_url": "jackson-mead",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jackson-mead/"
+  },
+  {
+    "player_id": "5288",
+    "player_name": "Jacob Bauer",
+    "player_url": "jacob-bauer",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jacob-bauer/"
+  },
+  {
+    "player_id": "5289",
+    "player_name": "Jacob Blight",
+    "player_url": "jacob-blight",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jacob-blight/"
+  },
+  {
+    "player_id": "5290",
+    "player_name": "Jacob Hopper",
+    "player_url": "jacob-hopper",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jacob-hopper/"
+  },
+  {
+    "player_id": "5291",
+    "player_name": "Jacob Konstanty",
+    "player_url": "jacob-konstanty",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jacob-konstanty/"
+  },
+  {
+    "player_id": "5292",
+    "player_name": "Jacob Koschitzke",
+    "player_url": "jacob-koschitzke",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jacob-koschitzke/"
+  },
+  {
+    "player_id": "5293",
+    "player_name": "Jacob Molier",
+    "player_url": "jacob-molier",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jacob-molier/"
+  },
+  {
+    "player_id": "5294",
+    "player_name": "Jacob Moss",
+    "player_url": "jacob-moss",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jacob-moss/"
+  },
+  {
+    "player_id": "5295",
+    "player_name": "Jacob van Rooyen",
+    "player_url": "jacob-van-rooyen",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jacob-van-rooyen/"
+  },
+  {
+    "player_id": "5296",
+    "player_name": "Jacob Wehr",
+    "player_url": "jacob-wehr",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jacob-wehr/"
+  },
+  {
+    "player_id": "5297",
+    "player_name": "Jacob Weitering",
+    "player_url": "jacob-weitering",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jacob-weitering/"
+  },
+  {
+    "player_id": "5298",
+    "player_name": "Jade Gresham",
+    "player_url": "jade-gresham",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jade-gresham/"
+  },
+  {
+    "player_id": "5299",
+    "player_name": "Jaeger O'Meara",
+    "player_url": "jaeger-omeara",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jaeger-omeara/"
+  },
+  {
+    "player_id": "5300",
+    "player_name": "Jagga Smith ",
+    "player_url": "jagga-smith-",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jagga-smith-/"
+  },
+  {
+    "player_id": "5301",
+    "player_name": "Jai Newcombe",
+    "player_url": "jai-newcombe",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jai-newcombe/"
+  },
+  {
+    "player_id": "5302",
+    "player_name": "Jai Serong",
+    "player_url": "jai-serong",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jai-serong/"
+  },
+  {
+    "player_id": "5303",
+    "player_name": "Jaime Uhr-Henry",
+    "player_url": "jaime-uhr-henry",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jaime-uhr-henry/"
+  },
+  {
+    "player_id": "5304",
+    "player_name": "Jake Bowey",
+    "player_url": "jake-bowey",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jake-bowey/"
+  },
+  {
+    "player_id": "5305",
+    "player_name": "Jake Kolodjashnij",
+    "player_url": "jake-kolodjashnij",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jake-kolodjashnij/"
+  },
+  {
+    "player_id": "5306",
+    "player_name": "Jake Lever",
+    "player_url": "jake-lever",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jake-lever/"
+  },
+  {
+    "player_id": "5307",
+    "player_name": "Jake Lloyd",
+    "player_url": "jake-lloyd",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jake-lloyd/"
+  },
+  {
+    "player_id": "5308",
+    "player_name": "Jake Melksham",
+    "player_url": "jake-melksham",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jake-melksham/"
+  },
+  {
+    "player_id": "5309",
+    "player_name": "Jake Riccardi",
+    "player_url": "jake-riccardi",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jake-riccardi/"
+  },
+  {
+    "player_id": "5310",
+    "player_name": "Jake Rogers",
+    "player_url": "jake-rogers",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jake-rogers/"
+  },
+  {
+    "player_id": "5311",
+    "player_name": "Jake Soligo",
+    "player_url": "jake-soligo",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jake-soligo/"
+  },
+  {
+    "player_id": "5312",
+    "player_name": "Jake Stringer",
+    "player_url": "jake-stringer",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jake-stringer/"
+  },
+  {
+    "player_id": "5313",
+    "player_name": "Jake Waterman",
+    "player_url": "jake-waterman",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jake-waterman/"
+  },
+  {
+    "player_id": "5314",
+    "player_name": "Jakob Ryan",
+    "player_url": "jakob-ryan",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jakob-ryan/"
+  },
+  {
+    "player_id": "5315",
+    "player_name": "Jamarra Ugle-Hagan",
+    "player_url": "jamarra-ugle-hagan",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jamarra-ugle-hagan/"
+  },
+  {
+    "player_id": "5316",
+    "player_name": "James Aish",
+    "player_url": "james-aish",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/james-aish/"
+  },
+  {
+    "player_id": "5317",
+    "player_name": "James Barrat",
+    "player_url": "james-barrat",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/james-barrat/"
+  },
+  {
+    "player_id": "5318",
+    "player_name": "James Blanck",
+    "player_url": "james-blanck",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/james-blanck/"
+  },
+  {
+    "player_id": "5319",
+    "player_name": "James Borlase",
+    "player_url": "james-borlase",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/james-borlase/"
+  },
+  {
+    "player_id": "5320",
+    "player_name": "James Harmes",
+    "player_url": "james-harmes",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/james-harmes/"
+  },
+  {
+    "player_id": "5321",
+    "player_name": "James Jordon",
+    "player_url": "james-jordon",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/james-jordon/"
+  },
+  {
+    "player_id": "5322",
+    "player_name": "James Leake",
+    "player_url": "james-leake",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/james-leake/"
+  },
+  {
+    "player_id": "5323",
+    "player_name": "James O'Donnell",
+    "player_url": "james-odonnell",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/james-odonnell/"
+  },
+  {
+    "player_id": "5324",
+    "player_name": "James Peatling",
+    "player_url": "james-peatling",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/james-peatling/"
+  },
+  {
+    "player_id": "5325",
+    "player_name": "James Rowbottom",
+    "player_url": "james-rowbottom",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/james-rowbottom/"
+  },
+  {
+    "player_id": "5326",
+    "player_name": "James Sicily",
+    "player_url": "james-sicily",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/james-sicily/"
+  },
+  {
+    "player_id": "5327",
+    "player_name": "James Trezise",
+    "player_url": "james-trezise",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/james-trezise/"
+  },
+  {
+    "player_id": "5328",
+    "player_name": "James Tunstill",
+    "player_url": "james-tunstill",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/james-tunstill/"
+  },
+  {
+    "player_id": "5329",
+    "player_name": "James Worpel",
+    "player_url": "james-worpel",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/james-worpel/"
+  },
+  {
+    "player_id": "5330",
+    "player_name": "Jamie Cripps",
+    "player_url": "jamie-cripps",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jamie-cripps/"
+  },
+  {
+    "player_id": "5331",
+    "player_name": "Jamie Elliott",
+    "player_url": "jamie-elliott",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jamie-elliott/"
+  },
+  {
+    "player_id": "5332",
+    "player_name": "Jaren Carr",
+    "player_url": "jaren-carr",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jaren-carr/"
+  },
+  {
+    "player_id": "5333",
+    "player_name": "Jarman Impey",
+    "player_url": "jarman-impey",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jarman-impey/"
+  },
+  {
+    "player_id": "5334",
+    "player_name": "Jarrod Berry",
+    "player_url": "jarrod-berry",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jarrod-berry/"
+  },
+  {
+    "player_id": "5335",
+    "player_name": "Jarrod Witts",
+    "player_url": "jarrod-witts",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jarrod-witts/"
+  },
+  {
+    "player_id": "5336",
+    "player_name": "Jase Burgoyne",
+    "player_url": "jase-burgoyne",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jase-burgoyne/"
+  },
+  {
+    "player_id": "5337",
+    "player_name": "Jason Horne-Francis",
+    "player_url": "jason-horne-francis",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jason-horne-francis/"
+  },
+  {
+    "player_id": "5338",
+    "player_name": "Jason Johannisen",
+    "player_url": "jason-johannisen",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jason-johannisen/"
+  },
+  {
+    "player_id": "5339",
+    "player_name": "Jaspa Fletcher",
+    "player_url": "jaspa-fletcher",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jaspa-fletcher/"
+  },
+  {
+    "player_id": "5340",
+    "player_name": "Jasper Alger",
+    "player_url": "jasper-alger",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jasper-alger/"
+  },
+  {
+    "player_id": "5341",
+    "player_name": "Jasper Scaife",
+    "player_url": "jasper-scaife",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jasper-scaife/"
+  },
+  {
+    "player_id": "5342",
+    "player_name": "Jaxon Binns",
+    "player_url": "jaxon-binns",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jaxon-binns/"
+  },
+  {
+    "player_id": "5343",
+    "player_name": "Jaxon Prior",
+    "player_url": "jaxon-prior",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jaxon-prior/"
+  },
+  {
+    "player_id": "5344",
+    "player_name": "Jay Polkinghorne",
+    "player_url": "jay-polkinghorne",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jay-polkinghorne/"
+  },
+  {
+    "player_id": "5345",
+    "player_name": "Jayden Hunt",
+    "player_url": "jayden-hunt",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jayden-hunt/"
+  },
+  {
+    "player_id": "5346",
+    "player_name": "Jayden Laverde",
+    "player_url": "jayden-laverde",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jayden-laverde/"
+  },
+  {
+    "player_id": "5347",
+    "player_name": "Jayden Nguyen",
+    "player_url": "jayden-nguyen",
+    "team": "ESS ",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jayden-nguyen/"
+  },
+  {
+    "player_id": "5348",
+    "player_name": "Jayden Short",
+    "player_url": "jayden-short",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jayden-short/"
+  },
+  {
+    "player_id": "5349",
+    "player_name": "Jed Adams",
+    "player_url": "jed-adams",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jed-adams/"
+  },
+  {
+    "player_id": "5350",
+    "player_name": "Jed Bews",
+    "player_url": "jed-bews",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jed-bews/"
+  },
+  {
+    "player_id": "5351",
+    "player_name": "Jed McEntee",
+    "player_url": "jed-mcentee",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jed-mcentee/"
+  },
+  {
+    "player_id": "5352",
+    "player_name": "Jed Walter",
+    "player_url": "jed-walter",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jed-walter/"
+  },
+  {
+    "player_id": "5353",
+    "player_name": "Jedd Busslinger",
+    "player_url": "jedd-busslinger",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jedd-busslinger/"
+  },
+  {
+    "player_id": "5354",
+    "player_name": "Jeremy Cameron",
+    "player_url": "jeremy-cameron",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jeremy-cameron/"
+  },
+  {
+    "player_id": "5355",
+    "player_name": "Jeremy Finlayson",
+    "player_url": "jeremy-finlayson",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jeremy-finlayson/"
+  },
+  {
+    "player_id": "5356",
+    "player_name": "Jeremy Howe",
+    "player_url": "jeremy-howe",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jeremy-howe/"
+  },
+  {
+    "player_id": "5357",
+    "player_name": "Jeremy McGovern",
+    "player_url": "jeremy-mcgovern",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jeremy-mcgovern/"
+  },
+  {
+    "player_id": "5358",
+    "player_name": "Jeremy Sharp",
+    "player_url": "jeremy-sharp",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jeremy-sharp/"
+  },
+  {
+    "player_id": "5359",
+    "player_name": "Jesse Dattoli",
+    "player_url": "jesse-dattoli",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jesse-dattoli/"
+  },
+  {
+    "player_id": "5360",
+    "player_name": "Jesse Hogan",
+    "player_url": "jesse-hogan",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jesse-hogan/"
+  },
+  {
+    "player_id": "5361",
+    "player_name": "Jesse Motlop",
+    "player_url": "jesse-motlop",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jesse-motlop/"
+  },
+  {
+    "player_id": "5362",
+    "player_name": "Jhye Clark",
+    "player_url": "jhye-clark",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jhye-clark/"
+  },
+  {
+    "player_id": "5363",
+    "player_name": "Jimmy Webster",
+    "player_url": "jimmy-webster",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jimmy-webster/"
+  },
+  {
+    "player_id": "5364",
+    "player_name": "Jobe Shanahan",
+    "player_url": "jobe-shanahan",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jobe-shanahan/"
+  },
+  {
+    "player_id": "5365",
+    "player_name": "Joe Berry",
+    "player_url": "joe-berry",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/joe-berry/"
+  },
+  {
+    "player_id": "5366",
+    "player_name": "Joe Fonti",
+    "player_url": "joe-fonti",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/joe-fonti/"
+  },
+  {
+    "player_id": "5367",
+    "player_name": "Joe Pike",
+    "player_url": "joe-pike",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/joe-pike/"
+  },
+  {
+    "player_id": "5368",
+    "player_name": "Joe Richards",
+    "player_url": "joe-richards",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/joe-richards/"
+  },
+  {
+    "player_id": "5369",
+    "player_name": "Joel Amartey",
+    "player_url": "joel-amartey",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/joel-amartey/"
+  },
+  {
+    "player_id": "5370",
+    "player_name": "Joel Cochran",
+    "player_url": "joel-cochran",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/joel-cochran/"
+  },
+  {
+    "player_id": "5371",
+    "player_name": "Joel Freijah",
+    "player_url": "joel-freijah",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/joel-freijah/"
+  },
+  {
+    "player_id": "5372",
+    "player_name": "Joel Hamling",
+    "player_url": "joel-hamling",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/joel-hamling/"
+  },
+  {
+    "player_id": "5373",
+    "player_name": "Joel Jeffrey",
+    "player_url": "joel-jeffrey",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/joel-jeffrey/"
+  },
+  {
+    "player_id": "5374",
+    "player_name": "John Noble",
+    "player_url": "john-noble",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/john-noble/"
+  },
+  {
+    "player_id": "5375",
+    "player_name": "Jonty Faull",
+    "player_url": "jonty-faull",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jonty-faull/"
+  },
+  {
+    "player_id": "5376",
+    "player_name": "Jordan Boyd",
+    "player_url": "jordan-boyd",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jordan-boyd/"
+  },
+  {
+    "player_id": "5377",
+    "player_name": "Jordan Clark",
+    "player_url": "jordan-clark",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jordan-clark/"
+  },
+  {
+    "player_id": "5378",
+    "player_name": "Jordan Croft",
+    "player_url": "jordan-croft",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jordan-croft/"
+  },
+  {
+    "player_id": "5379",
+    "player_name": "Jordan Dawson",
+    "player_url": "jordan-dawson",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jordan-dawson/"
+  },
+  {
+    "player_id": "5380",
+    "player_name": "Jordan De Goey",
+    "player_url": "jordan-de-goey",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jordan-de-goey/"
+  },
+  {
+    "player_id": "5381",
+    "player_name": "Jordan Ridley",
+    "player_url": "jordan-ridley",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jordan-ridley/"
+  },
+  {
+    "player_id": "5382",
+    "player_name": "Jordon Butts",
+    "player_url": "jordon-butts",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jordon-butts/"
+  },
+  {
+    "player_id": "5383",
+    "player_name": "Jordon Sweet",
+    "player_url": "jordon-sweet",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jordon-sweet/"
+  },
+  {
+    "player_id": "5384",
+    "player_name": "Josaia Delana",
+    "player_url": "josaia-delana",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/josaia-delana/"
+  },
+  {
+    "player_id": "5385",
+    "player_name": "Josh Battle",
+    "player_url": "josh-battle",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/josh-battle/"
+  },
+  {
+    "player_id": "5386",
+    "player_name": "Josh Daicos",
+    "player_url": "josh-daicos",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/josh-daicos/"
+  },
+  {
+    "player_id": "5387",
+    "player_name": "Josh Dolan",
+    "player_url": "josh-dolan",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/josh-dolan/"
+  },
+  {
+    "player_id": "5388",
+    "player_name": "Josh Dunkley",
+    "player_url": "josh-dunkley",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/josh-dunkley/"
+  },
+  {
+    "player_id": "5389",
+    "player_name": "Josh Fahey",
+    "player_url": "josh-fahey",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/josh-fahey/"
+  },
+  {
+    "player_id": "5390",
+    "player_name": "Josh Gibcus",
+    "player_url": "josh-gibcus",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/josh-gibcus/"
+  },
+  {
+    "player_id": "5391",
+    "player_name": "Josh Goater",
+    "player_url": "josh-goater",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/josh-goater/"
+  },
+  {
+    "player_id": "5392",
+    "player_name": "Josh Kelly",
+    "player_url": "josh-kelly",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/josh-kelly/"
+  },
+  {
+    "player_id": "5393",
+    "player_name": "Josh Rachele",
+    "player_url": "josh-rachele",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/josh-rachele/"
+  },
+  {
+    "player_id": "5394",
+    "player_name": "Josh Sinn",
+    "player_url": "josh-sinn",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/josh-sinn/"
+  },
+  {
+    "player_id": "5395",
+    "player_name": "Josh Smillie ",
+    "player_url": "josh-smillie-",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/josh-smillie-/"
+  },
+  {
+    "player_id": "5396",
+    "player_name": "Josh Treacy",
+    "player_url": "josh-treacy",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/josh-treacy/"
+  },
+  {
+    "player_id": "5397",
+    "player_name": "Josh Ward",
+    "player_url": "josh-ward",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/josh-ward/"
+  },
+  {
+    "player_id": "5398",
+    "player_name": "Josh Weddle",
+    "player_url": "josh-weddle",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/josh-weddle/"
+  },
+  {
+    "player_id": "5399",
+    "player_name": "Josh Worrell",
+    "player_url": "josh-worrell",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/josh-worrell/"
+  },
+  {
+    "player_id": "5400",
+    "player_name": "Joshua Draper",
+    "player_url": "joshua-draper",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/joshua-draper/"
+  },
+  {
+    "player_id": "5401",
+    "player_name": "Judd McVee",
+    "player_url": "judd-mcvee",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/judd-mcvee/"
+  },
+  {
+    "player_id": "5402",
+    "player_name": "Judson Clarke",
+    "player_url": "judson-clarke",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/judson-clarke/"
+  },
+  {
+    "player_id": "5403",
+    "player_name": "Justin McInerney",
+    "player_url": "justin-mcinerney",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/justin-mcinerney/"
+  },
+  {
+    "player_id": "5404",
+    "player_name": "Jy Farrar",
+    "player_url": "jy-farrar",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jy-farrar/"
+  },
+  {
+    "player_id": "5405",
+    "player_name": "Jy Simpkin",
+    "player_url": "jy-simpkin",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jy-simpkin/"
+  },
+  {
+    "player_id": "5406",
+    "player_name": "Jye Amiss",
+    "player_url": "jye-amiss",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jye-amiss/"
+  },
+  {
+    "player_id": "5407",
+    "player_name": "Jye Caldwell",
+    "player_url": "jye-caldwell",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jye-caldwell/"
+  },
+  {
+    "player_id": "5408",
+    "player_name": "Jye Menzie",
+    "player_url": "jye-menzie",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/jye-menzie/"
+  },
+  {
+    "player_id": "5409",
+    "player_name": "Kade Chandler",
+    "player_url": "kade-chandler",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/kade-chandler/"
+  },
+  {
+    "player_id": "5410",
+    "player_name": "Kai Lohmann",
+    "player_url": "kai-lohmann",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/kai-lohmann/"
+  },
+  {
+    "player_id": "5411",
+    "player_name": "Kaleb Smith",
+    "player_url": "kaleb-smith",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/kaleb-smith/"
+  },
+  {
+    "player_id": "5412",
+    "player_name": "Kallan Dawson",
+    "player_url": "kallan-dawson",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/kallan-dawson/"
+  },
+  {
+    "player_id": "5413",
+    "player_name": "Kamdyn McIntosh",
+    "player_url": "kamdyn-mcintosh",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/kamdyn-mcintosh/"
+  },
+  {
+    "player_id": "5414",
+    "player_name": "Kane Farrell",
+    "player_url": "kane-farrell",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/kane-farrell/"
+  },
+  {
+    "player_id": "5415",
+    "player_name": "Kane McAuliffe",
+    "player_url": "kane-mcauliffe",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/kane-mcauliffe/"
+  },
+  {
+    "player_id": "5416",
+    "player_name": "Karl Amon",
+    "player_url": "karl-amon",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/karl-amon/"
+  },
+  {
+    "player_id": "5417",
+    "player_name": "Karl Gallagher",
+    "player_url": "karl-gallagher",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/karl-gallagher/"
+  },
+  {
+    "player_id": "5418",
+    "player_name": "Karl Worner",
+    "player_url": "karl-worner",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/karl-worner/"
+  },
+  {
+    "player_id": "5419",
+    "player_name": "Kayle Gerreyn ",
+    "player_url": "kayle-gerreyn-",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/kayle-gerreyn-/"
+  },
+  {
+    "player_id": "5420",
+    "player_name": "Keidean Coleman",
+    "player_url": "keidean-coleman",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/keidean-coleman/"
+  },
+  {
+    "player_id": "5421",
+    "player_name": "Keighton Matofai-Forbes",
+    "player_url": "keighton-matofai-forbes",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/keighton-matofai-forbes/"
+  },
+  {
+    "player_id": "5422",
+    "player_name": "Kieran Strachan",
+    "player_url": "kieran-strachan",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/kieran-strachan/"
+  },
+  {
+    "player_id": "5423",
+    "player_name": "Kieren Briggs",
+    "player_url": "kieren-briggs",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/kieren-briggs/"
+  },
+  {
+    "player_id": "5424",
+    "player_name": "Koltyn Tholstrup",
+    "player_url": "koltyn-tholstrup",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/koltyn-tholstrup/"
+  },
+  {
+    "player_id": "5425",
+    "player_name": "Kyle Langford",
+    "player_url": "kyle-langford",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/kyle-langford/"
+  },
+  {
+    "player_id": "5426",
+    "player_name": "Kynan Brown",
+    "player_url": "kynan-brown",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/kynan-brown/"
+  },
+  {
+    "player_id": "5427",
+    "player_name": "Kysaiah Pickett",
+    "player_url": "kysaiah-pickett",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/kysaiah-pickett/"
+  },
+  {
+    "player_id": "5428",
+    "player_name": "Lachie Ash",
+    "player_url": "lachie-ash",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lachie-ash/"
+  },
+  {
+    "player_id": "5429",
+    "player_name": "Lachie Fogarty",
+    "player_url": "lachie-fogarty",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lachie-fogarty/"
+  },
+  {
+    "player_id": "5430",
+    "player_name": "Lachie Jaques",
+    "player_url": "lachie-jaques",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lachie-jaques/"
+  },
+  {
+    "player_id": "5431",
+    "player_name": "Lachie Jones",
+    "player_url": "lachie-jones",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lachie-jones/"
+  },
+  {
+    "player_id": "5432",
+    "player_name": "Lachie Neale",
+    "player_url": "lachie-neale",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lachie-neale/"
+  },
+  {
+    "player_id": "5433",
+    "player_name": "Lachie Schultz",
+    "player_url": "lachie-schultz",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lachie-schultz/"
+  },
+  {
+    "player_id": "5434",
+    "player_name": "Lachie Weller",
+    "player_url": "lachie-weller",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lachie-weller/"
+  },
+  {
+    "player_id": "5435",
+    "player_name": "Lachie Whitfield",
+    "player_url": "lachie-whitfield",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lachie-whitfield/"
+  },
+  {
+    "player_id": "5436",
+    "player_name": "Lachlan Bramble",
+    "player_url": "lachlan-bramble",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lachlan-bramble/"
+  },
+  {
+    "player_id": "5437",
+    "player_name": "Lachlan Charleson",
+    "player_url": "lachlan-charleson",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lachlan-charleson/"
+  },
+  {
+    "player_id": "5438",
+    "player_name": "Lachlan Cowan",
+    "player_url": "lachlan-cowan",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lachlan-cowan/"
+  },
+  {
+    "player_id": "5439",
+    "player_name": "Lachlan Gulbin ",
+    "player_url": "lachlan-gulbin-",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lachlan-gulbin-/"
+  },
+  {
+    "player_id": "5440",
+    "player_name": "Lachlan Keefe",
+    "player_url": "lachlan-keefe",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lachlan-keefe/"
+  },
+  {
+    "player_id": "5441",
+    "player_name": "Lachlan McNeil",
+    "player_url": "lachlan-mcneil",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lachlan-mcneil/"
+  },
+  {
+    "player_id": "5442",
+    "player_name": "Lachlan Murphy",
+    "player_url": "lachlan-murphy",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lachlan-murphy/"
+  },
+  {
+    "player_id": "5443",
+    "player_name": "Lachlan Sholl",
+    "player_url": "lachlan-sholl",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lachlan-sholl/"
+  },
+  {
+    "player_id": "5444",
+    "player_name": "Lachlan Smith",
+    "player_url": "lachlan-smith",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lachlan-smith/"
+  },
+  {
+    "player_id": "5445",
+    "player_name": "Lachlan Sullivan",
+    "player_url": "lachlan-sullivan",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lachlan-sullivan/"
+  },
+  {
+    "player_id": "5446",
+    "player_name": "Laitham Vandermeer",
+    "player_url": "laitham-vandermeer",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/laitham-vandermeer/"
+  },
+  {
+    "player_id": "5447",
+    "player_name": "Lance Collard",
+    "player_url": "lance-collard",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lance-collard/"
+  },
+  {
+    "player_id": "5448",
+    "player_name": "Lawson Humphries",
+    "player_url": "lawson-humphries",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lawson-humphries/"
+  },
+  {
+    "player_id": "5449",
+    "player_name": "Leek Aleer",
+    "player_url": "leek-aleer",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/leek-aleer/"
+  },
+  {
+    "player_id": "5450",
+    "player_name": "Lennox Hoffman",
+    "player_url": "lennox-hoffman",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lennox-hoffman/"
+  },
+  {
+    "player_id": "5451",
+    "player_name": "Leonardo Lombard",
+    "player_url": "leonardo-lombard",
+    "team": "GCS ",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/leonardo-lombard/"
+  },
+  {
+    "player_id": "5452",
+    "player_name": "Levi Ashcroft",
+    "player_url": "levi-ashcroft",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/levi-ashcroft/"
+  },
+  {
+    "player_id": "5453",
+    "player_name": "Lewis Hayes",
+    "player_url": "lewis-hayes",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lewis-hayes/"
+  },
+  {
+    "player_id": "5454",
+    "player_name": "Lewis Melican",
+    "player_url": "lewis-melican",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lewis-melican/"
+  },
+  {
+    "player_id": "5455",
+    "player_name": "Lewis Young",
+    "player_url": "lewis-young",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lewis-young/"
+  },
+  {
+    "player_id": "5456",
+    "player_name": "Liam Baker",
+    "player_url": "liam-baker",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/liam-baker/"
+  },
+  {
+    "player_id": "5457",
+    "player_name": "Liam Duggan",
+    "player_url": "liam-duggan",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/liam-duggan/"
+  },
+  {
+    "player_id": "5458",
+    "player_name": "Liam Fawcett",
+    "player_url": "liam-fawcett",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/liam-fawcett/"
+  },
+  {
+    "player_id": "5459",
+    "player_name": "Liam Henry",
+    "player_url": "liam-henry",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/liam-henry/"
+  },
+  {
+    "player_id": "5460",
+    "player_name": "Liam Jones",
+    "player_url": "liam-jones",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/liam-jones/"
+  },
+  {
+    "player_id": "5461",
+    "player_name": "Liam O'Connell",
+    "player_url": "liam-oconnell",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/liam-oconnell/"
+  },
+  {
+    "player_id": "5462",
+    "player_name": "Liam Reidy",
+    "player_url": "liam-reidy",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/liam-reidy/"
+  },
+  {
+    "player_id": "5463",
+    "player_name": "Liam Ryan",
+    "player_url": "liam-ryan",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/liam-ryan/"
+  },
+  {
+    "player_id": "5464",
+    "player_name": "Liam Stocker",
+    "player_url": "liam-stocker",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/liam-stocker/"
+  },
+  {
+    "player_id": "5465",
+    "player_name": "Lincoln McCarthy",
+    "player_url": "lincoln-mccarthy",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lincoln-mccarthy/"
+  },
+  {
+    "player_id": "5466",
+    "player_name": "Lloyd Johnston",
+    "player_url": "lloyd-johnston",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lloyd-johnston/"
+  },
+  {
+    "player_id": "5467",
+    "player_name": "Lloyd Meek",
+    "player_url": "lloyd-meek",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lloyd-meek/"
+  },
+  {
+    "player_id": "5468",
+    "player_name": "Loch Rawlinson",
+    "player_url": "loch-rawlinson",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/loch-rawlinson/"
+  },
+  {
+    "player_id": "5469",
+    "player_name": "Logan Evans",
+    "player_url": "logan-evans",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/logan-evans/"
+  },
+  {
+    "player_id": "5470",
+    "player_name": "Logan McDonald",
+    "player_url": "logan-mcdonald",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/logan-mcdonald/"
+  },
+  {
+    "player_id": "5471",
+    "player_name": "Logan Morris",
+    "player_url": "logan-morris",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/logan-morris/"
+  },
+  {
+    "player_id": "5472",
+    "player_name": "Logan Smith",
+    "player_url": "logan-smith",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/logan-smith/"
+  },
+  {
+    "player_id": "5473",
+    "player_name": "Luamon Lual",
+    "player_url": "luamon-lual",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/luamon-lual/"
+  },
+  {
+    "player_id": "5474",
+    "player_name": "Lucas Camporeale",
+    "player_url": "lucas-camporeale",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lucas-camporeale/"
+  },
+  {
+    "player_id": "5475",
+    "player_name": "Lucca Grego",
+    "player_url": "lucca-grego",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/lucca-grego/"
+  },
+  {
+    "player_id": "5476",
+    "player_name": "Luke Beecken",
+    "player_url": "luke-beecken",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/luke-beecken/"
+  },
+  {
+    "player_id": "5477",
+    "player_name": "Luke Breust",
+    "player_url": "luke-breust",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/luke-breust/"
+  },
+  {
+    "player_id": "5478",
+    "player_name": "Luke Cleary",
+    "player_url": "luke-cleary",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/luke-cleary/"
+  },
+  {
+    "player_id": "5479",
+    "player_name": "Luke Davies-Uniacke",
+    "player_url": "luke-davies-uniacke",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/luke-davies-uniacke/"
+  },
+  {
+    "player_id": "5480",
+    "player_name": "Luke Jackson",
+    "player_url": "luke-jackson",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/luke-jackson/"
+  },
+  {
+    "player_id": "5481",
+    "player_name": "Luke Kennedy",
+    "player_url": "luke-kennedy",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/luke-kennedy/"
+  },
+  {
+    "player_id": "5482",
+    "player_name": "Luke Lloyd",
+    "player_url": "luke-lloyd",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/luke-lloyd/"
+  },
+  {
+    "player_id": "5483",
+    "player_name": "Luke McDonald",
+    "player_url": "luke-mcdonald",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/luke-mcdonald/"
+  },
+  {
+    "player_id": "5484",
+    "player_name": "Luke Nankervis",
+    "player_url": "luke-nankervis",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/luke-nankervis/"
+  },
+  {
+    "player_id": "5485",
+    "player_name": "Luke Parker",
+    "player_url": "luke-parker",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/luke-parker/"
+  },
+  {
+    "player_id": "5486",
+    "player_name": "Luke Pedlar",
+    "player_url": "luke-pedlar",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/luke-pedlar/"
+  },
+  {
+    "player_id": "5487",
+    "player_name": "Luke Ryan",
+    "player_url": "luke-ryan",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/luke-ryan/"
+  },
+  {
+    "player_id": "5488",
+    "player_name": "Luke Trainor",
+    "player_url": "luke-trainor",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/luke-trainor/"
+  },
+  {
+    "player_id": "5489",
+    "player_name": "Luke Urquhart",
+    "player_url": "luke-urquhart",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/luke-urquhart/"
+  },
+  {
+    "player_id": "5490",
+    "player_name": "Luker Kentfield",
+    "player_url": "luker-kentfield",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/luker-kentfield/"
+  },
+  {
+    "player_id": "5491",
+    "player_name": "Mabior Chol",
+    "player_url": "mabior-chol",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/mabior-chol/"
+  },
+  {
+    "player_id": "5492",
+    "player_name": "Mac Andrew",
+    "player_url": "mac-andrew",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/mac-andrew/"
+  },
+  {
+    "player_id": "5493",
+    "player_name": "Malakai Champion",
+    "player_url": "malakai-champion",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/malakai-champion/"
+  },
+  {
+    "player_id": "5494",
+    "player_name": "Malcolm Rosas",
+    "player_url": "malcolm-rosas",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/malcolm-rosas/"
+  },
+  {
+    "player_id": "5495",
+    "player_name": "Marc Pittonet",
+    "player_url": "marc-pittonet",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/marc-pittonet/"
+  },
+  {
+    "player_id": "5496",
+    "player_name": "Marcus Bontempelli",
+    "player_url": "marcus-bontempelli",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/marcus-bontempelli/"
+  },
+  {
+    "player_id": "5497",
+    "player_name": "Marcus Windhager",
+    "player_url": "marcus-windhager",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/marcus-windhager/"
+  },
+  {
+    "player_id": "5498",
+    "player_name": "Mark Blicavs",
+    "player_url": "mark-blicavs",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/mark-blicavs/"
+  },
+  {
+    "player_id": "5499",
+    "player_name": "Mark Keane",
+    "player_url": "mark-keane",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/mark-keane/"
+  },
+  {
+    "player_id": "5500",
+    "player_name": "Mark O'Connor",
+    "player_url": "mark-oconnor",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/mark-oconnor/"
+  },
+  {
+    "player_id": "5501",
+    "player_name": "Marty Hore",
+    "player_url": "marty-hore",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/marty-hore/"
+  },
+  {
+    "player_id": "5502",
+    "player_name": "Mason Cox",
+    "player_url": "mason-cox",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/mason-cox/"
+  },
+  {
+    "player_id": "5503",
+    "player_name": "Mason Redman",
+    "player_url": "mason-redman",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/mason-redman/"
+  },
+  {
+    "player_id": "5504",
+    "player_name": "Mason Wood",
+    "player_url": "mason-wood",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/mason-wood/"
+  },
+  {
+    "player_id": "5505",
+    "player_name": "Massimo D'Ambrosio",
+    "player_url": "massimo-dambrosio",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/massimo-dambrosio/"
+  },
+  {
+    "player_id": "5506",
+    "player_name": "Mate Colina",
+    "player_url": "mate-colina",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/mate-colina/"
+  },
+  {
+    "player_id": "5507",
+    "player_name": "Matt Crouch",
+    "player_url": "matt-crouch",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/matt-crouch/"
+  },
+  {
+    "player_id": "5508",
+    "player_name": "Matt Duffy",
+    "player_url": "matt-duffy",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/matt-duffy/"
+  },
+  {
+    "player_id": "5509",
+    "player_name": "Matt Flynn",
+    "player_url": "matt-flynn",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/matt-flynn/"
+  },
+  {
+    "player_id": "5510",
+    "player_name": "Matt Guelfi",
+    "player_url": "matt-guelfi",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/matt-guelfi/"
+  },
+  {
+    "player_id": "5511",
+    "player_name": "Matt Hill",
+    "player_url": "matt-hill",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/matt-hill/"
+  },
+  {
+    "player_id": "5512",
+    "player_name": "Matt Roberts",
+    "player_url": "matt-roberts",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/matt-roberts/"
+  },
+  {
+    "player_id": "5513",
+    "player_name": "Matt Rowell",
+    "player_url": "matt-rowell",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/matt-rowell/"
+  },
+  {
+    "player_id": "5514",
+    "player_name": "Matt Whitlock",
+    "player_url": "matt-whitlock",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/matt-whitlock/"
+  },
+  {
+    "player_id": "5515",
+    "player_name": "Mattaes Phillipou",
+    "player_url": "mattaes-phillipou",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/mattaes-phillipou/"
+  },
+  {
+    "player_id": "5516",
+    "player_name": "Matthew Cottrell",
+    "player_url": "matthew-cottrell",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/matthew-cottrell/"
+  },
+  {
+    "player_id": "5517",
+    "player_name": "Matthew Jefferson",
+    "player_url": "matthew-jefferson",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/matthew-jefferson/"
+  },
+  {
+    "player_id": "5518",
+    "player_name": "Matthew Johnson",
+    "player_url": "matthew-johnson",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/matthew-johnson/"
+  },
+  {
+    "player_id": "5519",
+    "player_name": "Matthew Kennedy",
+    "player_url": "matthew-kennedy",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/matthew-kennedy/"
+  },
+  {
+    "player_id": "5520",
+    "player_name": "Matthew Owies",
+    "player_url": "matthew-owies",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/matthew-owies/"
+  },
+  {
+    "player_id": "5521",
+    "player_name": "Maurice Rioli",
+    "player_url": "maurice-rioli",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/maurice-rioli/"
+  },
+  {
+    "player_id": "5522",
+    "player_name": "Max Gawn",
+    "player_url": "max-gawn",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/max-gawn/"
+  },
+  {
+    "player_id": "5523",
+    "player_name": "Max Gruzewski",
+    "player_url": "max-gruzewski",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/max-gruzewski/"
+  },
+  {
+    "player_id": "5524",
+    "player_name": "Max Hall",
+    "player_url": "max-hall",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/max-hall/"
+  },
+  {
+    "player_id": "5525",
+    "player_name": "Max Heath",
+    "player_url": "max-heath",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/max-heath/"
+  },
+  {
+    "player_id": "5526",
+    "player_name": "Max Holmes",
+    "player_url": "max-holmes",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/max-holmes/"
+  },
+  {
+    "player_id": "5527",
+    "player_name": "Max King",
+    "player_url": "max-king",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/max-king/"
+  },
+  {
+    "player_id": "5528",
+    "player_name": "Max Knobel",
+    "player_url": "max-knobel",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/max-knobel/"
+  },
+  {
+    "player_id": "5529",
+    "player_name": "Max Michalanney",
+    "player_url": "max-michalanney",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/max-michalanney/"
+  },
+  {
+    "player_id": "5530",
+    "player_name": "Max Ramsden",
+    "player_url": "max-ramsden",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/max-ramsden/"
+  },
+  {
+    "player_id": "5531",
+    "player_name": "Michael Frederick",
+    "player_url": "michael-frederick",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/michael-frederick/"
+  },
+  {
+    "player_id": "5532",
+    "player_name": "Michael Walters",
+    "player_url": "michael-walters",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/michael-walters/"
+  },
+  {
+    "player_id": "5533",
+    "player_name": "Miles Bergman",
+    "player_url": "miles-bergman",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/miles-bergman/"
+  },
+  {
+    "player_id": "5534",
+    "player_name": "Miller Bergman",
+    "player_url": "miller-bergman",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/miller-bergman/"
+  },
+  {
+    "player_id": "5535",
+    "player_name": "Mitch Duncan",
+    "player_url": "mitch-duncan",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/mitch-duncan/"
+  },
+  {
+    "player_id": "5536",
+    "player_name": "Mitch Georgiades",
+    "player_url": "mitch-georgiades",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/mitch-georgiades/"
+  },
+  {
+    "player_id": "5537",
+    "player_name": "Mitch Knevitt",
+    "player_url": "mitch-knevitt",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/mitch-knevitt/"
+  },
+  {
+    "player_id": "5538",
+    "player_name": "Mitch Lewis",
+    "player_url": "mitch-lewis",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/mitch-lewis/"
+  },
+  {
+    "player_id": "5539",
+    "player_name": "Mitch McGovern",
+    "player_url": "mitch-mcgovern",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/mitch-mcgovern/"
+  },
+  {
+    "player_id": "5540",
+    "player_name": "Mitch Owens",
+    "player_url": "mitch-owens",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/mitch-owens/"
+  },
+  {
+    "player_id": "5541",
+    "player_name": "Mitchell Edwards",
+    "player_url": "mitchell-edwards",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/mitchell-edwards/"
+  },
+  {
+    "player_id": "5542",
+    "player_name": "Mitchell Hinge",
+    "player_url": "mitchell-hinge",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/mitchell-hinge/"
+  },
+  {
+    "player_id": "5543",
+    "player_name": "Murphy Reid ",
+    "player_url": "murphy-reid-",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/murphy-reid-/"
+  },
+  {
+    "player_id": "5544",
+    "player_name": "Mykelti Lefau",
+    "player_url": "mykelti-lefau",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/mykelti-lefau/"
+  },
+  {
+    "player_id": "5545",
+    "player_name": "Nasiah Wanganeen-Milera",
+    "player_url": "nasiah-wanganeen-milera",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/nasiah-wanganeen-milera/"
+  },
+  {
+    "player_id": "5546",
+    "player_name": "Nat Fyfe",
+    "player_url": "nat-fyfe",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/nat-fyfe/"
+  },
+  {
+    "player_id": "5547",
+    "player_name": "Nate Caddy",
+    "player_url": "nate-caddy",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/nate-caddy/"
+  },
+  {
+    "player_id": "5548",
+    "player_name": "Nathan Broad",
+    "player_url": "nathan-broad",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/nathan-broad/"
+  },
+  {
+    "player_id": "5549",
+    "player_name": "Nathan O'Driscoll",
+    "player_url": "nathan-odriscoll",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/nathan-odriscoll/"
+  },
+  {
+    "player_id": "5550",
+    "player_name": "Nathan Wardius",
+    "player_url": "nathan-wardius",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/nathan-wardius/"
+  },
+  {
+    "player_id": "5551",
+    "player_name": "Ned Bowman",
+    "player_url": "ned-bowman",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ned-bowman/"
+  },
+  {
+    "player_id": "5552",
+    "player_name": "Ned Long",
+    "player_url": "ned-long",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ned-long/"
+  },
+  {
+    "player_id": "5553",
+    "player_name": "Ned Moyle",
+    "player_url": "ned-moyle",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ned-moyle/"
+  },
+  {
+    "player_id": "5554",
+    "player_name": "Ned Reeves",
+    "player_url": "ned-reeves",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ned-reeves/"
+  },
+  {
+    "player_id": "5555",
+    "player_name": "Neil Erasmus",
+    "player_url": "neil-erasmus",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/neil-erasmus/"
+  },
+  {
+    "player_id": "5556",
+    "player_name": "Nic Martin",
+    "player_url": "nic-martin",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/nic-martin/"
+  },
+  {
+    "player_id": "5557",
+    "player_name": "Nic Newman",
+    "player_url": "nic-newman",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/nic-newman/"
+  },
+  {
+    "player_id": "5558",
+    "player_name": "Nicholas Madden",
+    "player_url": "nicholas-madden",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/nicholas-madden/"
+  },
+  {
+    "player_id": "5559",
+    "player_name": "Nick Blakey",
+    "player_url": "nick-blakey",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/nick-blakey/"
+  },
+  {
+    "player_id": "5560",
+    "player_name": "Nick Bryan",
+    "player_url": "nick-bryan",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/nick-bryan/"
+  },
+  {
+    "player_id": "5561",
+    "player_name": "Nick Coffield",
+    "player_url": "nick-coffield",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/nick-coffield/"
+  },
+  {
+    "player_id": "5562",
+    "player_name": "Nick Daicos",
+    "player_url": "nick-daicos",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/nick-daicos/"
+  },
+  {
+    "player_id": "5563",
+    "player_name": "Nick Haynes",
+    "player_url": "nick-haynes",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/nick-haynes/"
+  },
+  {
+    "player_id": "5564",
+    "player_name": "Nick Holman",
+    "player_url": "nick-holman",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/nick-holman/"
+  },
+  {
+    "player_id": "5565",
+    "player_name": "Nick Larkey",
+    "player_url": "nick-larkey",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/nick-larkey/"
+  },
+  {
+    "player_id": "5566",
+    "player_name": "Nick Murray",
+    "player_url": "nick-murray",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/nick-murray/"
+  },
+  {
+    "player_id": "5567",
+    "player_name": "Nick Vlastuin",
+    "player_url": "nick-vlastuin",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/nick-vlastuin/"
+  },
+  {
+    "player_id": "5568",
+    "player_name": "Nick Watson",
+    "player_url": "nick-watson",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/nick-watson/"
+  },
+  {
+    "player_id": "5569",
+    "player_name": "Nik Cox",
+    "player_url": "nik-cox",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/nik-cox/"
+  },
+  {
+    "player_id": "5570",
+    "player_name": "Noah Anderson",
+    "player_url": "noah-anderson",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/noah-anderson/"
+  },
+  {
+    "player_id": "5571",
+    "player_name": "Noah Answerth",
+    "player_url": "noah-answerth",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/noah-answerth/"
+  },
+  {
+    "player_id": "5572",
+    "player_name": "Noah Balta",
+    "player_url": "noah-balta",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/noah-balta/"
+  },
+  {
+    "player_id": "5573",
+    "player_name": "Noah Long",
+    "player_url": "noah-long",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/noah-long/"
+  },
+  {
+    "player_id": "5574",
+    "player_name": "Noah Mraz",
+    "player_url": "noah-mraz",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/noah-mraz/"
+  },
+  {
+    "player_id": "5575",
+    "player_name": "Odin Jones",
+    "player_url": "odin-jones",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/odin-jones/"
+  },
+  {
+    "player_id": "5576",
+    "player_name": "Oisin Mullin",
+    "player_url": "oisin-mullin",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/oisin-mullin/"
+  },
+  {
+    "player_id": "5577",
+    "player_name": "Oleg Markov",
+    "player_url": "oleg-markov",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/oleg-markov/"
+  },
+  {
+    "player_id": "5578",
+    "player_name": "Oliver Dempsey",
+    "player_url": "oliver-dempsey",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/oliver-dempsey/"
+  },
+  {
+    "player_id": "5579",
+    "player_name": "Oliver Florent",
+    "player_url": "oliver-florent",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/oliver-florent/"
+  },
+  {
+    "player_id": "5580",
+    "player_name": "Oliver Hannaford",
+    "player_url": "oliver-hannaford",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/oliver-hannaford/"
+  },
+  {
+    "player_id": "5581",
+    "player_name": "Oliver Hayes-Brown",
+    "player_url": "oliver-hayes-brown",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/oliver-hayes-brown/"
+  },
+  {
+    "player_id": "5582",
+    "player_name": "Oliver Henry",
+    "player_url": "oliver-henry",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/oliver-henry/"
+  },
+  {
+    "player_id": "5583",
+    "player_name": "Oliver Hollands",
+    "player_url": "oliver-hollands",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/oliver-hollands/"
+  },
+  {
+    "player_id": "5584",
+    "player_name": "Oliver Sestan",
+    "player_url": "oliver-sestan",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/oliver-sestan/"
+  },
+  {
+    "player_id": "5585",
+    "player_name": "Oliver Wiltshire",
+    "player_url": "oliver-wiltshire",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/oliver-wiltshire/"
+  },
+  {
+    "player_id": "5586",
+    "player_name": "Ollie Lord",
+    "player_url": "ollie-lord",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ollie-lord/"
+  },
+  {
+    "player_id": "5587",
+    "player_name": "Ollie Murphy",
+    "player_url": "ollie-murphy",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ollie-murphy/"
+  },
+  {
+    "player_id": "5588",
+    "player_name": "Ollie Wines",
+    "player_url": "ollie-wines",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ollie-wines/"
+  },
+  {
+    "player_id": "5589",
+    "player_name": "Orazio Fantasia",
+    "player_url": "orazio-fantasia",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/orazio-fantasia/"
+  },
+  {
+    "player_id": "5590",
+    "player_name": "Oscar Allen",
+    "player_url": "oscar-allen",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/oscar-allen/"
+  },
+  {
+    "player_id": "5591",
+    "player_name": "Oscar McDonald",
+    "player_url": "oscar-mcdonald",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/oscar-mcdonald/"
+  },
+  {
+    "player_id": "5592",
+    "player_name": "Oscar McInerney",
+    "player_url": "oscar-mcinerney",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/oscar-mcinerney/"
+  },
+  {
+    "player_id": "5593",
+    "player_name": "Oscar Ryan",
+    "player_url": "oscar-ryan",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/oscar-ryan/"
+  },
+  {
+    "player_id": "5594",
+    "player_name": "Oscar Steene",
+    "player_url": "oscar-steene",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/oscar-steene/"
+  },
+  {
+    "player_id": "5595",
+    "player_name": "Oskar Baker",
+    "player_url": "oskar-baker",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/oskar-baker/"
+  },
+  {
+    "player_id": "5596",
+    "player_name": "Paddy Dow",
+    "player_url": "paddy-dow",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/paddy-dow/"
+  },
+  {
+    "player_id": "5597",
+    "player_name": "Patrick Cripps",
+    "player_url": "patrick-cripps",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/patrick-cripps/"
+  },
+  {
+    "player_id": "5598",
+    "player_name": "Patrick Dangerfield",
+    "player_url": "patrick-dangerfield",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/patrick-dangerfield/"
+  },
+  {
+    "player_id": "5599",
+    "player_name": "Patrick Lipinski",
+    "player_url": "patrick-lipinski",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/patrick-lipinski/"
+  },
+  {
+    "player_id": "5600",
+    "player_name": "Patrick Retschko",
+    "player_url": "patrick-retschko",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/patrick-retschko/"
+  },
+  {
+    "player_id": "5601",
+    "player_name": "Patrick Said",
+    "player_url": "patrick-said",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/patrick-said/"
+  },
+  {
+    "player_id": "5602",
+    "player_name": "Patrick Snell",
+    "player_url": "patrick-snell",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/patrick-snell/"
+  },
+  {
+    "player_id": "5603",
+    "player_name": "Patrick Voss",
+    "player_url": "patrick-voss",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/patrick-voss/"
+  },
+  {
+    "player_id": "5604",
+    "player_name": "Paul Curtis",
+    "player_url": "paul-curtis",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/paul-curtis/"
+  },
+  {
+    "player_id": "5605",
+    "player_name": "Peter Ladhams",
+    "player_url": "peter-ladhams",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/peter-ladhams/"
+  },
+  {
+    "player_id": "5606",
+    "player_name": "Peter Wright",
+    "player_url": "peter-wright",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/peter-wright/"
+  },
+  {
+    "player_id": "5607",
+    "player_name": "Phoenix Gothard",
+    "player_url": "phoenix-gothard",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/phoenix-gothard/"
+  },
+  {
+    "player_id": "5608",
+    "player_name": "Quinton Narkle",
+    "player_url": "quinton-narkle",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/quinton-narkle/"
+  },
+  {
+    "player_id": "5609",
+    "player_name": "Reece Torrent",
+    "player_url": "reece-torrent",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/reece-torrent/"
+  },
+  {
+    "player_id": "5610",
+    "player_name": "Reef McInnes",
+    "player_url": "reef-mcinnes",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/reef-mcinnes/"
+  },
+  {
+    "player_id": "5611",
+    "player_name": "Reilly O'Brien",
+    "player_url": "reilly-obrien",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/reilly-obrien/"
+  },
+  {
+    "player_id": "5612",
+    "player_name": "Reuben Ginbey",
+    "player_url": "reuben-ginbey",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/reuben-ginbey/"
+  },
+  {
+    "player_id": "5613",
+    "player_name": "Rhett Bazzo",
+    "player_url": "rhett-bazzo",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/rhett-bazzo/"
+  },
+  {
+    "player_id": "5614",
+    "player_name": "Rhyan Mansell",
+    "player_url": "rhyan-mansell",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/rhyan-mansell/"
+  },
+  {
+    "player_id": "5615",
+    "player_name": "Rhylee West",
+    "player_url": "rhylee-west",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/rhylee-west/"
+  },
+  {
+    "player_id": "5616",
+    "player_name": "Rhys Stanley",
+    "player_url": "rhys-stanley",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/rhys-stanley/"
+  },
+  {
+    "player_id": "5617",
+    "player_name": "Rhys Unwin",
+    "player_url": "rhys-unwin",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/rhys-unwin/"
+  },
+  {
+    "player_id": "5618",
+    "player_name": "Riak Andrew",
+    "player_url": "riak-andrew",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/riak-andrew/"
+  },
+  {
+    "player_id": "5619",
+    "player_name": "Ricky Mentha ",
+    "player_url": "ricky-mentha-",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ricky-mentha-/"
+  },
+  {
+    "player_id": "5620",
+    "player_name": "Riley Bice",
+    "player_url": "riley-bice",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/riley-bice/"
+  },
+  {
+    "player_id": "5621",
+    "player_name": "Riley Garcia",
+    "player_url": "riley-garcia",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/riley-garcia/"
+  },
+  {
+    "player_id": "5622",
+    "player_name": "Riley Hardeman",
+    "player_url": "riley-hardeman",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/riley-hardeman/"
+  },
+  {
+    "player_id": "5623",
+    "player_name": "Riley Thilthorpe",
+    "player_url": "riley-thilthorpe",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/riley-thilthorpe/"
+  },
+  {
+    "player_id": "5624",
+    "player_name": "River Stevens",
+    "player_url": "river-stevens",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/river-stevens/"
+  },
+  {
+    "player_id": "5625",
+    "player_name": "Rob Monahan",
+    "player_url": "rob-monahan",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/rob-monahan/"
+  },
+  {
+    "player_id": "5626",
+    "player_name": "Robbie Fox",
+    "player_url": "robbie-fox",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/robbie-fox/"
+  },
+  {
+    "player_id": "5627",
+    "player_name": "Robert Hansen Jr",
+    "player_url": "robert-hansen-jr",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/robert-hansen-jr/"
+  },
+  {
+    "player_id": "5628",
+    "player_name": "Rory Atkins",
+    "player_url": "rory-atkins",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/rory-atkins/"
+  },
+  {
+    "player_id": "5629",
+    "player_name": "Rory Laird",
+    "player_url": "rory-laird",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/rory-laird/"
+  },
+  {
+    "player_id": "5630",
+    "player_name": "Rory Lobb",
+    "player_url": "rory-lobb",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/rory-lobb/"
+  },
+  {
+    "player_id": "5631",
+    "player_name": "Rowan Marshall",
+    "player_url": "rowan-marshall",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/rowan-marshall/"
+  },
+  {
+    "player_id": "5632",
+    "player_name": "Ryan Angwin",
+    "player_url": "ryan-angwin",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ryan-angwin/"
+  },
+  {
+    "player_id": "5633",
+    "player_name": "Ryan Burton",
+    "player_url": "ryan-burton",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ryan-burton/"
+  },
+  {
+    "player_id": "5634",
+    "player_name": "Ryan Byrnes",
+    "player_url": "ryan-byrnes",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ryan-byrnes/"
+  },
+  {
+    "player_id": "5635",
+    "player_name": "Ryan Gardner",
+    "player_url": "ryan-gardner",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ryan-gardner/"
+  },
+  {
+    "player_id": "5636",
+    "player_name": "Ryan Lester",
+    "player_url": "ryan-lester",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ryan-lester/"
+  },
+  {
+    "player_id": "5637",
+    "player_name": "Ryan Maric",
+    "player_url": "ryan-maric",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ryan-maric/"
+  },
+  {
+    "player_id": "5638",
+    "player_name": "Ryley Sanders",
+    "player_url": "ryley-sanders",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ryley-sanders/"
+  },
+  {
+    "player_id": "5639",
+    "player_name": "Saad El-Hawli",
+    "player_url": "saad-el-hawli",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/saad-el-hawli/"
+  },
+  {
+    "player_id": "5640",
+    "player_name": "Sam Banks",
+    "player_url": "sam-banks",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/sam-banks/"
+  },
+  {
+    "player_id": "5641",
+    "player_name": "Sam Berry",
+    "player_url": "sam-berry",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/sam-berry/"
+  },
+  {
+    "player_id": "5642",
+    "player_name": "Sam Butler",
+    "player_url": "sam-butler",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/sam-butler/"
+  },
+  {
+    "player_id": "5643",
+    "player_name": "Sam Clohesy",
+    "player_url": "sam-clohesy",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/sam-clohesy/"
+  },
+  {
+    "player_id": "5644",
+    "player_name": "Sam Collins",
+    "player_url": "sam-collins",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/sam-collins/"
+  },
+  {
+    "player_id": "5645",
+    "player_name": "Sam Darcy",
+    "player_url": "sam-darcy",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/sam-darcy/"
+  },
+  {
+    "player_id": "5646",
+    "player_name": "Sam Davidson",
+    "player_url": "sam-davidson",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/sam-davidson/"
+  },
+  {
+    "player_id": "5647",
+    "player_name": "Sam Day",
+    "player_url": "sam-day",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/sam-day/"
+  },
+  {
+    "player_id": "5648",
+    "player_name": "Sam De Koning",
+    "player_url": "sam-de-koning",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/sam-de-koning/"
+  },
+  {
+    "player_id": "5649",
+    "player_name": "Sam Docherty",
+    "player_url": "sam-docherty",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/sam-docherty/"
+  },
+  {
+    "player_id": "5650",
+    "player_name": "Sam Draper",
+    "player_url": "sam-draper",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/sam-draper/"
+  },
+  {
+    "player_id": "5651",
+    "player_name": "Sam Durham",
+    "player_url": "sam-durham",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/sam-durham/"
+  },
+  {
+    "player_id": "5652",
+    "player_name": "Sam Flanders",
+    "player_url": "sam-flanders",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/sam-flanders/"
+  },
+  {
+    "player_id": "5653",
+    "player_name": "Sam Frost",
+    "player_url": "sam-frost",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/sam-frost/"
+  },
+  {
+    "player_id": "5654",
+    "player_name": "Sam Lalor ",
+    "player_url": "sam-lalor-",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/sam-lalor-/"
+  },
+  {
+    "player_id": "5655",
+    "player_name": "Sam Marshall",
+    "player_url": "sam-marshall",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/sam-marshall/"
+  },
+  {
+    "player_id": "5656",
+    "player_name": "Sam Powell-Pepper",
+    "player_url": "sam-powell-pepper",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/sam-powell-pepper/"
+  },
+  {
+    "player_id": "5657",
+    "player_name": "Sam Sturt",
+    "player_url": "sam-sturt",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/sam-sturt/"
+  },
+  {
+    "player_id": "5658",
+    "player_name": "Sam Switkowski",
+    "player_url": "sam-switkowski",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/sam-switkowski/"
+  },
+  {
+    "player_id": "5659",
+    "player_name": "Sam Taylor",
+    "player_url": "sam-taylor",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/sam-taylor/"
+  },
+  {
+    "player_id": "5660",
+    "player_name": "Sam Walsh",
+    "player_url": "sam-walsh",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/sam-walsh/"
+  },
+  {
+    "player_id": "5661",
+    "player_name": "Sam Wicks",
+    "player_url": "sam-wicks",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/sam-wicks/"
+  },
+  {
+    "player_id": "5662",
+    "player_name": "Samson Ryan",
+    "player_url": "samson-ryan",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/samson-ryan/"
+  },
+  {
+    "player_id": "5663",
+    "player_name": "Scott Pendlebury",
+    "player_url": "scott-pendlebury",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/scott-pendlebury/"
+  },
+  {
+    "player_id": "5664",
+    "player_name": "Seamus Mitchell",
+    "player_url": "seamus-mitchell",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/seamus-mitchell/"
+  },
+  {
+    "player_id": "5665",
+    "player_name": "Sean Darcy",
+    "player_url": "sean-darcy",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/sean-darcy/"
+  },
+  {
+    "player_id": "5666",
+    "player_name": "Sean Lemmens",
+    "player_url": "sean-lemmens",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/sean-lemmens/"
+  },
+  {
+    "player_id": "5667",
+    "player_name": "Seth Campbell",
+    "player_url": "seth-campbell",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/seth-campbell/"
+  },
+  {
+    "player_id": "5668",
+    "player_name": "Shadeau Brain",
+    "player_url": "shadeau-brain",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/shadeau-brain/"
+  },
+  {
+    "player_id": "5669",
+    "player_name": "Shai Bolton",
+    "player_url": "shai-bolton",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/shai-bolton/"
+  },
+  {
+    "player_id": "5670",
+    "player_name": "Shane McAdam",
+    "player_url": "shane-mcadam",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/shane-mcadam/"
+  },
+  {
+    "player_id": "5671",
+    "player_name": "Shannon Neale",
+    "player_url": "shannon-neale",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/shannon-neale/"
+  },
+  {
+    "player_id": "5672",
+    "player_name": "Shaun Mannagh",
+    "player_url": "shaun-mannagh",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/shaun-mannagh/"
+  },
+  {
+    "player_id": "5673",
+    "player_name": "Sid Draper ",
+    "player_url": "sid-draper-",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/sid-draper-/"
+  },
+  {
+    "player_id": "5674",
+    "player_name": "Steele Sidebottom",
+    "player_url": "steele-sidebottom",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/steele-sidebottom/"
+  },
+  {
+    "player_id": "5675",
+    "player_name": "Steely Green",
+    "player_url": "steely-green",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/steely-green/"
+  },
+  {
+    "player_id": "5676",
+    "player_name": "Stephen Coniglio",
+    "player_url": "stephen-coniglio",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/stephen-coniglio/"
+  },
+  {
+    "player_id": "5677",
+    "player_name": "Steven May",
+    "player_url": "steven-may",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/steven-may/"
+  },
+  {
+    "player_id": "5678",
+    "player_name": "Taj Hotton",
+    "player_url": "taj-hotton",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/taj-hotton/"
+  },
+  {
+    "player_id": "5679",
+    "player_name": "Taj Woewodin",
+    "player_url": "taj-woewodin",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/taj-woewodin/"
+  },
+  {
+    "player_id": "5680",
+    "player_name": "Tanner Bruhn",
+    "player_url": "tanner-bruhn",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tanner-bruhn/"
+  },
+  {
+    "player_id": "5681",
+    "player_name": "Taylor Adams",
+    "player_url": "taylor-adams",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/taylor-adams/"
+  },
+  {
+    "player_id": "5682",
+    "player_name": "Taylor Duryea",
+    "player_url": "taylor-duryea",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/taylor-duryea/"
+  },
+  {
+    "player_id": "5683",
+    "player_name": "Taylor Goad",
+    "player_url": "taylor-goad",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/taylor-goad/"
+  },
+  {
+    "player_id": "5684",
+    "player_name": "Taylor Walker",
+    "player_url": "taylor-walker",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/taylor-walker/"
+  },
+  {
+    "player_id": "5685",
+    "player_name": "Ted Clohesy",
+    "player_url": "ted-clohesy",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ted-clohesy/"
+  },
+  {
+    "player_id": "5686",
+    "player_name": "Tew Jiath",
+    "player_url": "tew-jiath",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tew-jiath/"
+  },
+  {
+    "player_id": "5687",
+    "player_name": "Thomas Berry",
+    "player_url": "thomas-berry",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/thomas-berry/"
+  },
+  {
+    "player_id": "5688",
+    "player_name": "Thomas Sims ",
+    "player_url": "thomas-sims-",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/thomas-sims-/"
+  },
+  {
+    "player_id": "5689",
+    "player_name": "Thomson Dow",
+    "player_url": "thomson-dow",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/thomson-dow/"
+  },
+  {
+    "player_id": "5690",
+    "player_name": "Tim English",
+    "player_url": "tim-english",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tim-english/"
+  },
+  {
+    "player_id": "5691",
+    "player_name": "Tim Kelly",
+    "player_url": "tim-kelly",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tim-kelly/"
+  },
+  {
+    "player_id": "5692",
+    "player_name": "Tim Membrey",
+    "player_url": "tim-membrey",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tim-membrey/"
+  },
+  {
+    "player_id": "5693",
+    "player_name": "Tim Taranto",
+    "player_url": "tim-taranto",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tim-taranto/"
+  },
+  {
+    "player_id": "5694",
+    "player_name": "Tobie Travaglia",
+    "player_url": "tobie-travaglia",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tobie-travaglia/"
+  },
+  {
+    "player_id": "5695",
+    "player_name": "Toby Bedford",
+    "player_url": "toby-bedford",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/toby-bedford/"
+  },
+  {
+    "player_id": "5696",
+    "player_name": "Toby Conway",
+    "player_url": "toby-conway",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/toby-conway/"
+  },
+  {
+    "player_id": "5697",
+    "player_name": "Toby Greene",
+    "player_url": "toby-greene",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/toby-greene/"
+  },
+  {
+    "player_id": "5698",
+    "player_name": "Toby McMullin",
+    "player_url": "toby-mcmullin",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/toby-mcmullin/"
+  },
+  {
+    "player_id": "5699",
+    "player_name": "Toby Murray",
+    "player_url": "toby-murray",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/toby-murray/"
+  },
+  {
+    "player_id": "5700",
+    "player_name": "Toby Nankervis",
+    "player_url": "toby-nankervis",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/toby-nankervis/"
+  },
+  {
+    "player_id": "5701",
+    "player_name": "Toby Pink",
+    "player_url": "toby-pink",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/toby-pink/"
+  },
+  {
+    "player_id": "5702",
+    "player_name": "Todd Goldstein",
+    "player_url": "todd-goldstein",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/todd-goldstein/"
+  },
+  {
+    "player_id": "5703",
+    "player_name": "Todd Marshall",
+    "player_url": "todd-marshall",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/todd-marshall/"
+  },
+  {
+    "player_id": "5704",
+    "player_name": "Tom Anastasopoulos",
+    "player_url": "tom-anastasopoulos",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tom-anastasopoulos/"
+  },
+  {
+    "player_id": "5705",
+    "player_name": "Tom Atkins",
+    "player_url": "tom-atkins",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tom-atkins/"
+  },
+  {
+    "player_id": "5706",
+    "player_name": "Tom Barrass",
+    "player_url": "tom-barrass",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tom-barrass/"
+  },
+  {
+    "player_id": "5707",
+    "player_name": "Tom Brown",
+    "player_url": "tom-brown",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tom-brown/"
+  },
+  {
+    "player_id": "5708",
+    "player_name": "Tom Campbell",
+    "player_url": "tom-campbell",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tom-campbell/"
+  },
+  {
+    "player_id": "5709",
+    "player_name": "Tom Cochrane",
+    "player_url": "tom-cochrane",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tom-cochrane/"
+  },
+  {
+    "player_id": "5710",
+    "player_name": "Tom Cole",
+    "player_url": "tom-cole",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tom-cole/"
+  },
+  {
+    "player_id": "5711",
+    "player_name": "Tom De Koning",
+    "player_url": "tom-de-koning",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tom-de-koning/"
+  },
+  {
+    "player_id": "5712",
+    "player_name": "Tom Doedee",
+    "player_url": "tom-doedee",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tom-doedee/"
+  },
+  {
+    "player_id": "5713",
+    "player_name": "Tom Fullarton",
+    "player_url": "tom-fullarton",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tom-fullarton/"
+  },
+  {
+    "player_id": "5714",
+    "player_name": "Tom Green",
+    "player_url": "tom-green",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tom-green/"
+  },
+  {
+    "player_id": "5715",
+    "player_name": "Tom Gross",
+    "player_url": "tom-gross",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tom-gross/"
+  },
+  {
+    "player_id": "5716",
+    "player_name": "Tom Hanily",
+    "player_url": "tom-hanily",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tom-hanily/"
+  },
+  {
+    "player_id": "5717",
+    "player_name": "Tom Liberatore",
+    "player_url": "tom-liberatore",
+    "team": "WBD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tom-liberatore/"
+  },
+  {
+    "player_id": "5718",
+    "player_name": "Tom Lynch",
+    "player_url": "tom-lynch",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tom-lynch/"
+  },
+  {
+    "player_id": "5719",
+    "player_name": "Tom McCartin",
+    "player_url": "tom-mccartin",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tom-mccartin/"
+  },
+  {
+    "player_id": "5720",
+    "player_name": "Tom McDonald",
+    "player_url": "tom-mcdonald",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tom-mcdonald/"
+  },
+  {
+    "player_id": "5721",
+    "player_name": "Tom Mitchell",
+    "player_url": "tom-mitchell",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tom-mitchell/"
+  },
+  {
+    "player_id": "5722",
+    "player_name": "Tom McCarthy",
+    "player_url": "tom-mccarthy",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tom-mccarthy/"
+  },
+  {
+    "player_id": "5723",
+    "player_name": "Tom Papley",
+    "player_url": "tom-papley",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tom-papley/"
+  },
+  {
+    "player_id": "5724",
+    "player_name": "Tom Powell",
+    "player_url": "tom-powell",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tom-powell/"
+  },
+  {
+    "player_id": "5725",
+    "player_name": "Tom Sparrow",
+    "player_url": "tom-sparrow",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tom-sparrow/"
+  },
+  {
+    "player_id": "5726",
+    "player_name": "Tom Stewart",
+    "player_url": "tom-stewart",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tom-stewart/"
+  },
+  {
+    "player_id": "5727",
+    "player_name": "Touk Miller",
+    "player_url": "touk-miller",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/touk-miller/"
+  },
+  {
+    "player_id": "5728",
+    "player_name": "Travis Boak",
+    "player_url": "travis-boak",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/travis-boak/"
+  },
+  {
+    "player_id": "5729",
+    "player_name": "Trent Rivers",
+    "player_url": "trent-rivers",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/trent-rivers/"
+  },
+  {
+    "player_id": "5730",
+    "player_name": "Tristan Xerri",
+    "player_url": "tristan-xerri",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tristan-xerri/"
+  },
+  {
+    "player_id": "5731",
+    "player_name": "Ty Gallop",
+    "player_url": "ty-gallop",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/ty-gallop/"
+  },
+  {
+    "player_id": "5732",
+    "player_name": "Tylar Young",
+    "player_url": "tylar-young",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tylar-young/"
+  },
+  {
+    "player_id": "5733",
+    "player_name": "Tyler Brockman",
+    "player_url": "tyler-brockman",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tyler-brockman/"
+  },
+  {
+    "player_id": "5734",
+    "player_name": "Tyler Sonsie",
+    "player_url": "tyler-sonsie",
+    "team": "RIC",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tyler-sonsie/"
+  },
+  {
+    "player_id": "5735",
+    "player_name": "Tyler Welsh",
+    "player_url": "tyler-welsh",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tyler-welsh/"
+  },
+  {
+    "player_id": "5736",
+    "player_name": "Tyrell Dewar",
+    "player_url": "tyrell-dewar",
+    "team": "WCE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tyrell-dewar/"
+  },
+  {
+    "player_id": "5737",
+    "player_name": "Tyson Stengle",
+    "player_url": "tyson-stengle",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/tyson-stengle/"
+  },
+  {
+    "player_id": "5738",
+    "player_name": "Vigo Visentini",
+    "player_url": "vigo-visentini",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/vigo-visentini/"
+  },
+  {
+    "player_id": "5739",
+    "player_name": "Wade Derksen",
+    "player_url": "wade-derksen",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/wade-derksen/"
+  },
+  {
+    "player_id": "5740",
+    "player_name": "Wayne Milera",
+    "player_url": "wayne-milera",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/wayne-milera/"
+  },
+  {
+    "player_id": "5741",
+    "player_name": "Wil Dawson",
+    "player_url": "wil-dawson",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/wil-dawson/"
+  },
+  {
+    "player_id": "5742",
+    "player_name": "Wil Parker",
+    "player_url": "wil-parker",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/wil-parker/"
+  },
+  {
+    "player_id": "5743",
+    "player_name": "Wil Powell",
+    "player_url": "wil-powell",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/wil-powell/"
+  },
+  {
+    "player_id": "5744",
+    "player_name": "Will Ashcroft",
+    "player_url": "will-ashcroft",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/will-ashcroft/"
+  },
+  {
+    "player_id": "5745",
+    "player_name": "Will Brodie",
+    "player_url": "will-brodie",
+    "team": "FRE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/will-brodie/"
+  },
+  {
+    "player_id": "5746",
+    "player_name": "Will Day",
+    "player_url": "will-day",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/will-day/"
+  },
+  {
+    "player_id": "5747",
+    "player_name": "Will Graham",
+    "player_url": "will-graham",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/will-graham/"
+  },
+  {
+    "player_id": "5748",
+    "player_name": "Will Hayward",
+    "player_url": "will-hayward",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/will-hayward/"
+  },
+  {
+    "player_id": "5749",
+    "player_name": "Will Hoskin-Elliott",
+    "player_url": "will-hoskin-elliott",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/will-hoskin-elliott/"
+  },
+  {
+    "player_id": "5750",
+    "player_name": "Will Lorenz",
+    "player_url": "will-lorenz",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/will-lorenz/"
+  },
+  {
+    "player_id": "5751",
+    "player_name": "Will McLachlan",
+    "player_url": "will-mclachlan",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/will-mclachlan/"
+  },
+  {
+    "player_id": "5752",
+    "player_name": "Will Phillips",
+    "player_url": "will-phillips",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/will-phillips/"
+  },
+  {
+    "player_id": "5753",
+    "player_name": "Will Setterfield",
+    "player_url": "will-setterfield",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/will-setterfield/"
+  },
+  {
+    "player_id": "5754",
+    "player_name": "Will Verrall",
+    "player_url": "will-verrall",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/will-verrall/"
+  },
+  {
+    "player_id": "5755",
+    "player_name": "Willem Drew",
+    "player_url": "willem-drew",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/willem-drew/"
+  },
+  {
+    "player_id": "5756",
+    "player_name": "William Edwards",
+    "player_url": "william-edwards",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/william-edwards/"
+  },
+  {
+    "player_id": "5757",
+    "player_name": "William Green",
+    "player_url": "william-green",
+    "team": "SYD",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/william-green/"
+  },
+  {
+    "player_id": "5758",
+    "player_name": "William Hayes",
+    "player_url": "william-hayes",
+    "team": "COL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/william-hayes/"
+  },
+  {
+    "player_id": "5759",
+    "player_name": "William McCabe",
+    "player_url": "william-mccabe",
+    "team": "HAW",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/william-mccabe/"
+  },
+  {
+    "player_id": "5760",
+    "player_name": "Willie Rioli",
+    "player_url": "willie-rioli",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/willie-rioli/"
+  },
+  {
+    "player_id": "5761",
+    "player_name": "Xavier Duursma",
+    "player_url": "xavier-duursma",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/xavier-duursma/"
+  },
+  {
+    "player_id": "5762",
+    "player_name": "Xavier Ivisic",
+    "player_url": "xavier-ivisic",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/xavier-ivisic/"
+  },
+  {
+    "player_id": "5763",
+    "player_name": "Xavier Lindsay",
+    "player_url": "xavier-lindsay",
+    "team": "MEL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/xavier-lindsay/"
+  },
+  {
+    "player_id": "5764",
+    "player_name": "Xavier O'Halloran",
+    "player_url": "xavier-ohalloran",
+    "team": "GWS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/xavier-ohalloran/"
+  },
+  {
+    "player_id": "5765",
+    "player_name": "Xavier Walsh",
+    "player_url": "xavier-walsh",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/xavier-walsh/"
+  },
+  {
+    "player_id": "5766",
+    "player_name": "Zac Bailey",
+    "player_url": "zac-bailey",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/zac-bailey/"
+  },
+  {
+    "player_id": "5767",
+    "player_name": "Zac Fisher",
+    "player_url": "zac-fisher",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/zac-fisher/"
+  },
+  {
+    "player_id": "5768",
+    "player_name": "Zac Taylor",
+    "player_url": "zac-taylor",
+    "team": "ADE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/zac-taylor/"
+  },
+  {
+    "player_id": "5769",
+    "player_name": "Zac Williams",
+    "player_url": "zac-williams",
+    "team": "CAR",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/zac-williams/"
+  },
+  {
+    "player_id": "5770",
+    "player_name": "Zach Guthrie",
+    "player_url": "zach-guthrie",
+    "team": "GEE",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/zach-guthrie/"
+  },
+  {
+    "player_id": "5771",
+    "player_name": "Zach Merrett",
+    "player_url": "zach-merrett",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/zach-merrett/"
+  },
+  {
+    "player_id": "5772",
+    "player_name": "Zach Reid",
+    "player_url": "zach-reid",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/zach-reid/"
+  },
+  {
+    "player_id": "5773",
+    "player_name": "Zaine Cordy",
+    "player_url": "zaine-cordy",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/zaine-cordy/"
+  },
+  {
+    "player_id": "5774",
+    "player_name": "Zak Butters",
+    "player_url": "zak-butters",
+    "team": "PTA",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/zak-butters/"
+  },
+  {
+    "player_id": "5775",
+    "player_name": "Zak Evans",
+    "player_url": "zak-evans",
+    "team": "GCS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/zak-evans/"
+  },
+  {
+    "player_id": "5776",
+    "player_name": "Zak Johnson",
+    "player_url": "zak-johnson",
+    "team": "ESS",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/zak-johnson/"
+  },
+  {
+    "player_id": "5777",
+    "player_name": "Zak Jones",
+    "player_url": "zak-jones",
+    "team": "STK",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/zak-jones/"
+  },
+  {
+    "player_id": "5778",
+    "player_name": "Zane Duursma",
+    "player_url": "zane-duursma",
+    "team": "NTH",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/zane-duursma/"
+  },
+  {
+    "player_id": "5779",
+    "player_name": "Zane Zakostelsky",
+    "player_url": "zane-zakostelsky",
+    "team": "BRL",
+    "full_url": "https://dfsaustralia.com/afl-fantasy-player/zane-zakostelsky/"
+  }
+]

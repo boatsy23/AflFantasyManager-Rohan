@@ -1,0 +1,209 @@
+{
+  "test_date": "2025-09-28",
+  "formula_type": "provided_breakeven_formula",
+  "magic_number_used": 9736.0,
+  "tests_completed": 14,
+  "avg_difference_points": 16.376884695726208,
+  "avg_error_percentage": 34.98250596025782,
+  "within_1_point_pct": 7.142857142857142,
+  "within_2_points_pct": 14.285714285714285,
+  "within_5_points_pct": 21.428571428571427,
+  "detailed_results": [
+    {
+      "name": "Tim English",
+      "price": 1093000.0,
+      "scores": [
+        106.0,
+        129.0,
+        101.0,
+        102.0
+      ],
+      "our_breakeven": 113.81856431477759,
+      "afl_breakeven": 104.0,
+      "difference": 9.81856431477759,
+      "error_pct": 9.440927225747682
+    },
+    {
+      "name": "Matthew Owies",
+      "price": 400000.0,
+      "scores": [
+        20.0,
+        34.0,
+        16.0,
+        69.0
+      ],
+      "our_breakeven": 66.6284167070913,
+      "afl_breakeven": 52.0,
+      "difference": 14.628416707091304,
+      "error_pct": 28.1315705905602
+    },
+    {
+      "name": "Kamdyn McIntosh",
+      "price": 518000.0,
+      "scores": [
+        63.0,
+        54.0,
+        48.0,
+        61.0
+      ],
+      "our_breakeven": 45.29096831038201,
+      "afl_breakeven": 46.0,
+      "difference": -0.7090316896179871,
+      "error_pct": 1.541373238299972
+    },
+    {
+      "name": "Tom Powell",
+      "price": 869000.0,
+      "scores": [
+        41.0,
+        97.0,
+        111.0,
+        81.0
+      ],
+      "our_breakeven": 116.59147023591487,
+      "afl_breakeven": 99.0,
+      "difference": 17.59147023591487,
+      "error_pct": 17.769161854459465
+    },
+    {
+      "name": "Isaac Heeney",
+      "price": 1056000.0,
+      "scores": [
+        114.0,
+        100.0,
+        94.0,
+        166.0
+      ],
+      "our_breakeven": 103.05853817901018,
+      "afl_breakeven": 134.0,
+      "difference": -30.941461820989815,
+      "error_pct": 23.0906431499924
+    },
+    {
+      "name": "Jobe Shanahan",
+      "price": 403000.0,
+      "scores": [
+        52.0,
+        27.0,
+        34.0,
+        44.0
+      ],
+      "our_breakeven": 43.90593103721376,
+      "afl_breakeven": 37.0,
+      "difference": 6.905931037213762,
+      "error_pct": 18.664678478956112
+    },
+    {
+      "name": "Caleb Poulter",
+      "price": 457000.0,
+      "scores": [
+        38.0,
+        57.0,
+        63.0,
+        14.0
+      ],
+      "our_breakeven": 48.45540584688793,
+      "afl_breakeven": 53.0,
+      "difference": -4.544594153112072,
+      "error_pct": 8.574705949268061
+    },
+    {
+      "name": "Bailey J. Williams",
+      "price": 491000.0,
+      "scores": [
+        0,
+        43.0,
+        39.0,
+        61.0
+      ],
+      "our_breakeven": 97.99815861638831,
+      "afl_breakeven": 52.0,
+      "difference": 45.99815861638831,
+      "error_pct": 88.45799733920828
+    },
+    {
+      "name": "Toby Pink",
+      "price": 452000.0,
+      "scores": [
+        32.0,
+        59.0,
+        69.0,
+        31.0
+      ],
+      "our_breakeven": 44.67962895130233,
+      "afl_breakeven": 43.0,
+      "difference": 1.6796289513023268,
+      "error_pct": 3.9061138402379694
+    },
+    {
+      "name": "Zac Banch",
+      "price": 241000.0,
+      "scores": [
+        0,
+        31.0,
+        42.0,
+        11.0
+      ],
+      "our_breakeven": 36.93220540337191,
+      "afl_breakeven": 17.0,
+      "difference": 19.93220540337191,
+      "error_pct": 117.2482670786583
+    },
+    {
+      "name": "Bodhi Uwland",
+      "price": 596000.0,
+      "scores": [
+        66.0,
+        60.0,
+        44.0,
+        48.0
+      ],
+      "our_breakeven": 67.63887101404796,
+      "afl_breakeven": 51.0,
+      "difference": 16.638871014047965,
+      "error_pct": 32.62523728244699
+    },
+    {
+      "name": "Ben King",
+      "price": 462000.0,
+      "scores": [
+        91.0,
+        67.0,
+        40.0,
+        21.0
+      ],
+      "our_breakeven": 8.905881537654311,
+      "afl_breakeven": 33.0,
+      "difference": -24.09411846234569,
+      "error_pct": 73.01248018892633
+    },
+    {
+      "name": "Darcy Gardiner",
+      "price": 395000.0,
+      "scores": [
+        46.0,
+        27.0,
+        64.0,
+        35.0
+      ],
+      "our_breakeven": 36.18998920909603,
+      "afl_breakeven": 27.0,
+      "difference": 9.189989209096026,
+      "error_pct": 34.036997070726024
+    },
+    {
+      "name": "Jamie Elliott",
+      "price": 605000.0,
+      "scores": [
+        19.0,
+        42.0,
+        69.0,
+        61.0
+      ],
+      "our_breakeven": 106.6039441248973,
+      "afl_breakeven": 80.0,
+      "difference": 26.603944124897296,
+      "error_pct": 33.25493015612162
+    }
+  ]
+}

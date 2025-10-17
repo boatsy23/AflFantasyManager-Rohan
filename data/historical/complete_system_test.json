@@ -1,0 +1,197 @@
+{
+  "test_date": "2025-09-28",
+  "system_components": {
+    "base_breakeven_formula": "weighted_5_round_calculation",
+    "value_adjustment": "piecewise_linear_by_value_index",
+    "price_conversion": "score_difference_x_300_with_caps"
+  },
+  "breakeven_accuracy": {
+    "avg_error_points": 26.20527452351791,
+    "within_5_points_pct": 0.0,
+    "within_10_points_pct": 0.0
+  },
+  "price_accuracy": {
+    "avg_error_dollars": 17788.625,
+    "within_3k_pct": 0.0,
+    "within_5k_pct": 0.0,
+    "within_10k_pct": 25.0
+  },
+  "detailed_results": {
+    "breakeven_tests": [
+      {
+        "name": "George Hewett",
+        "base_be": 98.66573988260733,
+        "value_adj": 1.7396184050000016,
+        "final_be": 100.40535828760733,
+        "afl_be": 75.0,
+        "be_error": 25.405358287607328,
+        "value_index": 0.9652076319,
+        "price": 913000.0
+      },
+      {
+        "name": "Matthew Kennedy",
+        "base_be": 102.08124806919987,
+        "value_adj": 8.064516130000001,
+        "final_be": 110.14576419919987,
+        "afl_be": 93.0,
+        "be_error": 17.145764199199874,
+        "value_index": 0.8387096774,
+        "price": 881000.0
+      },
+      {
+        "name": "Harley Reid",
+        "base_be": 93.73277726289776,
+        "value_adj": 24.905897115000002,
+        "final_be": 118.63867437789776,
+        "afl_be": 70.0,
+        "be_error": 48.63867437789776,
+        "value_index": 0.5018820577,
+        "price": 800000.0
+      },
+      {
+        "name": "Hugh McCluggage",
+        "base_be": 99.35495829471732,
+        "value_adj": 20.948012230000003,
+        "final_be": 120.30297052471732,
+        "afl_be": 93.0,
+        "be_error": 27.302970524717324,
+        "value_index": 0.5810397554,
+        "price": 957000.0
+      },
+      {
+        "name": "Bailey Williams",
+        "base_be": 88.3734939759036,
+        "value_adj": 9.949937419999998,
+        "final_be": 98.3234313959036,
+        "afl_be": 66.0,
+        "be_error": 32.3234313959036,
+        "value_index": 0.8010012516,
+        "price": 741000.0
+      },
+      {
+        "name": "Harry Sharp",
+        "base_be": 55.586963237565634,
+        "value_adj": -1.343283581999998,
+        "final_be": 54.243679655565636,
+        "afl_be": 42.0,
+        "be_error": 12.243679655565636,
+        "value_index": 1.0447761194,
+        "price": 310000.0
+      },
+      {
+        "name": "Ryan Byrnes",
+        "base_be": 97.2397281433426,
+        "value_adj": 18.658892129999998,
+        "final_be": 115.8986202733426,
+        "afl_be": 89.0,
+        "be_error": 26.8986202733426,
+        "value_index": 0.6268221574,
+        "price": 602000.0
+      },
+      {
+        "name": "Hugo Garcia",
+        "base_be": 60.34970651838121,
+        "value_adj": -2.1600000000000037,
+        "final_be": 58.18970651838121,
+        "afl_be": 36.0,
+        "be_error": 22.189706518381207,
+        "value_index": 1.072,
+        "price": 610000.0
+      },
+      {
+        "name": "Ryley Sanders",
+        "base_be": 93.19060858819894,
+        "value_adj": -6.734693876999998,
+        "final_be": 86.45591471119894,
+        "afl_be": 97.0,
+        "be_error": 10.544085288801057,
+        "value_index": 1.2244897959,
+        "price": 605000.0
+      },
+      {
+        "name": "Archie Roberts",
+        "base_be": 99.99629286376272,
+        "value_adj": 19.364161850000002,
+        "final_be": 119.36045471376272,
+        "afl_be": 80.0,
+        "be_error": 39.36045471376272,
+        "value_index": 0.612716763,
+        "price": 831000.0
+      }
+    ],
+    "price_tests": [
+      {
+        "name": "George Hewett",
+        "r23_score": 110.0,
+        "breakeven": 100.40535828760733,
+        "predicted_change": 2878.0,
+        "actual_change": 18000.0,
+        "price_error": 15122.0,
+        "price": 913000.0
+      },
+      {
+        "name": "Matthew Kennedy",
+        "r23_score": 79.0,
+        "breakeven": 110.14576419919987,
+        "predicted_change": -9344.0,
+        "actual_change": -3000.0,
+        "price_error": 6344.0,
+        "price": 881000.0
+      },
+      {
+        "name": "Hugh McCluggage",
+        "r23_score": 93.0,
+        "breakeven": 120.30297052471732,
+        "predicted_change": -8191.0,
+        "actual_change": 9000.0,
+        "price_error": 17191.0,
+        "price": 957000.0
+      },
+      {
+        "name": "Bailey Williams",
+        "r23_score": 90.0,
+        "breakeven": 98.3234313959036,
+        "predicted_change": -2497.0,
+        "actual_change": 12000.0,
+        "price_error": 14497.0,
+        "price": 741000.0
+      },
+      {
+        "name": "Harry Sharp",
+        "r23_score": 31.0,
+        "breakeven": 54.243679655565636,
+        "predicted_change": -6973.0,
+        "actual_change": -14000.0,
+        "price_error": 7027.0,
+        "price": 310000.0
+      },
+      {
+        "name": "Hugo Garcia",
+        "r23_score": 106.0,
+        "breakeven": 58.18970651838121,
+        "predicted_change": 14343.0,
+        "actual_change": 46000.0,
+        "price_error": 31657.0,
+        "price": 610000.0
+      },
+      {
+        "name": "Ryley Sanders",
+        "r23_score": 6.0,
+        "breakeven": 86.45591471119894,
+        "predicted_change": -24137.0,
+        "actual_change": -62000.0,
+        "price_error": 37863.0,
+        "price": 605000.0
+      },
+      {
+        "name": "Archie Roberts",
+        "r23_score": 94.0,
+        "breakeven": 119.36045471376272,
+        "predicted_change": -7608.0,
+        "actual_change": 5000.0,
+        "price_error": 12608.0,
+        "price": 831000.0
+      }
+    ]
+  }
+}

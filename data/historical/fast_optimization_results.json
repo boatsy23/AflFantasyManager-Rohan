@@ -1,0 +1,24 @@
+{
+  "success": false,
+  "max_error": 59183.0,
+  "mean_error": 15801.19,
+  "median_error": 14246.0,
+  "p90_error": 26956.700000000008,
+  "players_tested": 100,
+  "within_target": 11,
+  "within_target_pct": 11.0,
+  "final_params": {
+    "low_max": 275000,
+    "high_min": 1250000,
+    "low_boost": 1.15,
+    "high_dampening": 0.7,
+    "weight_decay": 0.9,
+    "round_weights": [
+      0.06104857024248492,
+      0.05494371321823643,
+      0.049449341896412785,
+      0.04450440770677151,
+      0.04005396693609436
+    ]
+  }
+}

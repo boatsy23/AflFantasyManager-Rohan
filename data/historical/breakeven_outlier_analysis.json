@@ -1,0 +1,140 @@
+{
+  "analysis_date": "2025-09-28",
+  "outliers_analyzed": 13,
+  "beat_breakeven_count": 4,
+  "close_to_breakeven_count": 0,
+  "missed_breakeven_count": 9,
+  "zero_change_count": 1,
+  "detailed_analysis": [
+    {
+      "name": "Jack Gunston",
+      "r23_score": 126.0,
+      "breakeven": 40.0,
+      "breakeven_diff": 86.0,
+      "actual_change": 48000.0,
+      "calculated_change": 1581.0,
+      "error": 46419.0,
+      "price": 678000.0
+    },
+    {
+      "name": "Edward Allan",
+      "r23_score": 9.0,
+      "breakeven": 84.0,
+      "breakeven_diff": -75.0,
+      "actual_change": -43000.0,
+      "calculated_change": -6227.0,
+      "error": 36773.0,
+      "price": 557000.0
+    },
+    {
+      "name": "Jeremy Cameron",
+      "r23_score": 50.0,
+      "breakeven": 91.0,
+      "breakeven_diff": -41.0,
+      "actual_change": -10000.0,
+      "calculated_change": 23964.0,
+      "error": 33964.0,
+      "price": 886000.0
+    },
+    {
+      "name": "Connor Rozee",
+      "r23_score": 60.0,
+      "breakeven": 131.0,
+      "breakeven_diff": -71.0,
+      "actual_change": -45000.0,
+      "calculated_change": -13788.0,
+      "error": 31212.0,
+      "price": 971000.0
+    },
+    {
+      "name": "Mitchell Hinge",
+      "r23_score": 88.0,
+      "breakeven": 41.0,
+      "breakeven_diff": 47.0,
+      "actual_change": 16000.0,
+      "calculated_change": -14574.0,
+      "error": 30574.0,
+      "price": 559000.0
+    },
+    {
+      "name": "Callum Wilkie",
+      "r23_score": 50.0,
+      "breakeven": 79.0,
+      "breakeven_diff": -29.0,
+      "actual_change": 0.0,
+      "calculated_change": 28056.0,
+      "error": 28056.0,
+      "price": 772000.0
+    },
+    {
+      "name": "Josh Daicos",
+      "r23_score": 67.0,
+      "breakeven": 124.0,
+      "breakeven_diff": -57.0,
+      "actual_change": -47000.0,
+      "calculated_change": -19774.0,
+      "error": 27226.0,
+      "price": 978000.0
+    },
+    {
+      "name": "Lloyd Meek",
+      "r23_score": 70.0,
+      "breakeven": 119.0,
+      "breakeven_diff": -49.0,
+      "actual_change": -29000.0,
+      "calculated_change": -3807.0,
+      "error": 25193.0,
+      "price": 981000.0
+    },
+    {
+      "name": "Sam Collins",
+      "r23_score": 33.0,
+      "breakeven": 63.0,
+      "breakeven_diff": -30.0,
+      "actual_change": -9000.0,
+      "calculated_change": 15803.0,
+      "error": 24803.0,
+      "price": 578000.0
+    },
+    {
+      "name": "Xavier Duursma",
+      "r23_score": 107.0,
+      "breakeven": 66.0,
+      "breakeven_diff": 41.0,
+      "actual_change": 21000.0,
+      "calculated_change": -3618.0,
+      "error": 24618.0,
+      "price": 740000.0
+    },
+    {
+      "name": "Archie Perkins",
+      "r23_score": 77.0,
+      "breakeven": 38.0,
+      "breakeven_diff": 39.0,
+      "actual_change": 23000.0,
+      "calculated_change": 14.0,
+      "error": 22986.0,
+      "price": 464000.0
+    },
+    {
+      "name": "Corey Wagner",
+      "r23_score": 40.0,
+      "breakeven": 87.0,
+      "breakeven_diff": -47.0,
+      "actual_change": -36000.0,
+      "calculated_change": -13259.0,
+      "error": 22741.0,
+      "price": 699000.0
+    },
+    {
+      "name": "Josh Sinn",
+      "r23_score": 14.0,
+      "breakeven": 58.0,
+      "breakeven_diff": -44.0,
+      "actual_change": -23000.0,
+      "calculated_change": -554.0,
+      "error": 22446.0,
+      "price": 432000.0
+    }
+  ]
+}

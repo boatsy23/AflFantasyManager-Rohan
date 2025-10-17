@@ -1,0 +1,51 @@
+{
+  "analysis_date": "2025-09-28",
+  "total_players": 176,
+  "correlations": {
+    "value_deviation": -0.0660722659192858,
+    "value_index": -0.06607226591928579,
+    "price_deviation": -0.013728318026512499,
+    "avg_vs_actual": -0.09344398064053365
+  },
+  "best_correlation": [
+    "avg_vs_actual",
+    -0.09344398064053365
+  ],
+  "category_adjustments": {
+    "undervalued": 5.487804878048781,
+    "overpriced": 5.487179487179487,
+    "fair": 4.75
+  },
+  "threshold_analysis": [
+    {
+      "range": "0.0-0.8",
+      "category": "Heavily Overpriced",
+      "player_count": 51,
+      "avg_adjustment": 7.019607843137255
+    },
+    {
+      "range": "0.8-0.95",
+      "category": "Moderately Overpriced",
+      "player_count": 27,
+      "avg_adjustment": 2.5925925925925926
+    },
+    {
+      "range": "0.95-1.05",
+      "category": "Fair Value",
+      "player_count": 16,
+      "avg_adjustment": 4.75
+    },
+    {
+      "range": "1.05-1.2",
+      "category": "Moderately Undervalued",
+      "player_count": 22,
+      "avg_adjustment": 4.090909090909091
+    },
+    {
+      "range": "1.2-2.0",
+      "category": "Heavily Undervalued",
+      "player_count": 57,
+      "avg_adjustment": 6.894736842105263
+    }
+  ]
+}

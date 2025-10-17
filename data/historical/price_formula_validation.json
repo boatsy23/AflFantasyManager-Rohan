@@ -1,0 +1,264 @@
+{
+  "test_date": "2025-09-28",
+  "rounds_compared": "22 \u2192 23",
+  "tests_run": 16,
+  "average_accuracy": 20.48940947783053,
+  "detailed_results": [
+    {
+      "player": "Brayden Maynard",
+      "r22_price": 680000.0,
+      "r23_price": 673000.0,
+      "actual_change": -7000.0,
+      "calculated_change": -8869.0,
+      "difference": 1869.0,
+      "accuracy": 73.3,
+      "scores_used": [
+        64.0,
+        53.0,
+        89.0,
+        61.0,
+        72.0
+      ]
+    },
+    {
+      "player": "Patrick Lipinski",
+      "r22_price": 657000.0,
+      "r23_price": 624000.0,
+      "actual_change": -33000.0,
+      "calculated_change": -21228.0,
+      "difference": 11772.0,
+      "accuracy": 64.32727272727273,
+      "scores_used": [
+        59.0,
+        59.0,
+        57.0,
+        53.0,
+        73.0
+      ]
+    },
+    {
+      "player": "Jason Horne-Francis",
+      "r22_price": 747000.0,
+      "r23_price": 747000.0,
+      "actual_change": 0.0,
+      "calculated_change": 17278.0,
+      "difference": 17278.0,
+      "accuracy": 0,
+      "scores_used": [
+        112.0,
+        85.0,
+        37.0,
+        67.0,
+        112.0
+      ]
+    },
+    {
+      "player": "Touk Miller",
+      "r22_price": 848000.0,
+      "r23_price": 867000.0,
+      "actual_change": 19000.0,
+      "calculated_change": 2601.0,
+      "difference": 16399.0,
+      "accuracy": 13.689473684210526,
+      "scores_used": [
+        115.0,
+        94.0,
+        33.0,
+        92.0,
+        89.0
+      ]
+    },
+    {
+      "player": "Tom Sparrow",
+      "r22_price": 584000.0,
+      "r23_price": 585000.0,
+      "actual_change": 1000.0,
+      "calculated_change": -18157.0,
+      "difference": 19157.0,
+      "accuracy": 0,
+      "scores_used": [
+        31.0,
+        69.0,
+        57.0,
+        60.0,
+        65.0
+      ]
+    },
+    {
+      "player": "Errol Gulden",
+      "r22_price": 1003000.0,
+      "r23_price": 985000.0,
+      "actual_change": -18000.0,
+      "calculated_change": -11167.0,
+      "difference": 6833.0,
+      "accuracy": 62.03888888888889,
+      "scores_used": [
+        93.0,
+        114.0,
+        98.0,
+        86.0,
+        89.0
+      ]
+    },
+    {
+      "player": "Paul Curtis",
+      "r22_price": 614000.0,
+      "r23_price": 635000.0,
+      "actual_change": 21000.0,
+      "calculated_change": -8083.0,
+      "difference": 29083.0,
+      "accuracy": 0,
+      "scores_used": [
+        57.0,
+        60.0,
+        51.0,
+        88.0,
+        43.0
+      ]
+    },
+    {
+      "player": "John Noble",
+      "r22_price": 925000.0,
+      "r23_price": 883000.0,
+      "actual_change": -42000.0,
+      "calculated_change": -4031.0,
+      "difference": 37969.0,
+      "accuracy": 9.597619047619048,
+      "scores_used": [
+        86.0,
+        103.0,
+        100.0,
+        70.0,
+        117.0
+      ]
+    },
+    {
+      "player": "Luke McDonald",
+      "r22_price": 659000.0,
+      "r23_price": 659000.0,
+      "actual_change": 0.0,
+      "calculated_change": 13234.0,
+      "difference": 13234.0,
+      "accuracy": 0,
+      "scores_used": [
+        43.0,
+        87.0,
+        100.0,
+        78.0,
+        77.0
+      ]
+    },
+    {
+      "player": "Mitch Owens",
+      "r22_price": 545000.0,
+      "r23_price": 545000.0,
+      "actual_change": 0.0,
+      "calculated_change": -23439.0,
+      "difference": 23439.0,
+      "accuracy": 0,
+      "scores_used": [
+        37.0,
+        30.0,
+        72.0,
+        69.0,
+        37.0
+      ]
+    },
+    {
+      "player": "Mitch McGovern",
+      "r22_price": 612000.0,
+      "r23_price": 612000.0,
+      "actual_change": 0.0,
+      "calculated_change": -20454.0,
+      "difference": 20454.0,
+      "accuracy": 0,
+      "scores_used": [
+        45.0,
+        53.0,
+        35.0,
+        97.0,
+        81.0
+      ]
+    },
+    {
+      "player": "Jye Caldwell",
+      "r22_price": 1039000.0,
+      "r23_price": 1039000.0,
+      "actual_change": 0.0,
+      "calculated_change": -12699.0,
+      "difference": 12699.0,
+      "accuracy": 0,
+      "scores_used": [
+        79.0,
+        109.0,
+        122.0,
+        110.0,
+        105.0
+      ]
+    },
+    {
+      "player": "Joel Jeffrey",
+      "r22_price": 839000.0,
+      "r23_price": 809000.0,
+      "actual_change": -30000.0,
+      "calculated_change": -15234.0,
+      "difference": 14766.0,
+      "accuracy": 50.779999999999994,
+      "scores_used": [
+        52.0,
+        98.0,
+        109.0,
+        76.0,
+        67.0
+      ]
+    },
+    {
+      "player": "Tom Brown",
+      "r22_price": 550000.0,
+      "r23_price": 513000.0,
+      "actual_change": -37000.0,
+      "calculated_change": -20016.0,
+      "difference": 16984.0,
+      "accuracy": 54.097297297297295,
+      "scores_used": [
+        38.0,
+        46.0,
+        46.0,
+        56.0,
+        99.0
+      ]
+    },
+    {
+      "player": "Noah Anderson",
+      "r22_price": 992000.0,
+      "r23_price": 989000.0,
+      "actual_change": -3000.0,
+      "calculated_change": -20548.0,
+      "difference": 17548.0,
+      "accuracy": 0,
+      "scores_used": [
+        65.0,
+        123.0,
+        107.0,
+        78.0,
+        106.0
+      ]
+    },
+    {
+      "player": "Darcy Parish",
+      "r22_price": 895000.0,
+      "r23_price": 895000.0,
+      "actual_change": 0.0,
+      "calculated_change": -14994.0,
+      "difference": 14994.0,
+      "accuracy": 0,
+      "scores_used": [
+        96.0,
+        71.0,
+        89.0,
+        85.33333333333333,
+        85.33333333333333
+      ]
+    }
+  ]
+}

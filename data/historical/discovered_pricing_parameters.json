@@ -1,0 +1,54 @@
+{
+  "analysis_date": "2025-09-28",
+  "sample_size": 508,
+  "price_range_stats": {
+    "low": {
+      "count": 151,
+      "avg_price": 398172.1854304636,
+      "avg_difference": 4589.384105960265,
+      "median_difference": 4068.0,
+      "pattern": "accurate"
+    },
+    "medium": {
+      "count": 307,
+      "avg_price": 671967.4267100977,
+      "avg_difference": 1879.4299674267102,
+      "median_difference": 1985.0,
+      "pattern": "accurate"
+    },
+    "high": {
+      "count": 50,
+      "avg_price": 1000440.0,
+      "avg_difference": 36.18,
+      "median_difference": -2235.5,
+      "pattern": "accurate"
+    }
+  },
+  "adjustment_factors": {
+    "low": {
+      "factor": -0.8382029565222004,
+      "bias": 4589.384105960265,
+      "sample_size": 151
+    }
+  },
+  "recommended_formula": {
+    "base_weights": [
+      0.083,
+      0.067,
+      0.05,
+      0.033,
+      0.017
+    ],
+    "price_adjustments": {
+      "low_price_threshold": 500000,
+      "high_price_threshold": 900000,
+      "adjustments": {
+        "low": {
+          "factor": -0.8382029565222004,
+          "bias": 4589.384105960265,
+          "sample_size": 151
+        }
+      }
+    }
+  }
+}

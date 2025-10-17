@@ -1,0 +1,1410 @@
+[
+  {
+    "name":"Nick Daicos",
+    "sal":1121000.0,
+    "price_point_pa":113.6,
+    "actual_avg":127.0,
+    "value_index":1.1179577465,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Matt Rowell",
+    "sal":1075000.0,
+    "price_point_pa":108.9,
+    "actual_avg":85.0,
+    "value_index":0.7805325987,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Marcus Bontempelli",
+    "sal":1064000.0,
+    "price_point_pa":107.8,
+    "actual_avg":5.0,
+    "value_index":0.0463821892,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Jack Steele",
+    "sal":1060000.0,
+    "price_point_pa":107.4,
+    "actual_avg":81.0,
+    "value_index":0.7541899441,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Andrew Brayshaw",
+    "sal":1052000.0,
+    "price_point_pa":106.6,
+    "actual_avg":79.0,
+    "value_index":0.7410881801,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Max Holmes",
+    "sal":1046000.0,
+    "price_point_pa":106.0,
+    "actual_avg":78.0,
+    "value_index":0.7358490566,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Jordan Dawson",
+    "sal":1043000.0,
+    "price_point_pa":105.7,
+    "actual_avg":135.0,
+    "value_index":1.2771996216,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Errol Gulden",
+    "sal":1041000.0,
+    "price_point_pa":105.5,
+    "actual_avg":21.0,
+    "value_index":0.1990521327,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Jye Caldwell",
+    "sal":1039000.0,
+    "price_point_pa":105.3,
+    "actual_avg":38.0,
+    "value_index":0.3608736942,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Connor Rozee",
+    "sal":1022000.0,
+    "price_point_pa":103.5,
+    "actual_avg":142.0,
+    "value_index":1.3719806763,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Noah Anderson",
+    "sal":1015000.0,
+    "price_point_pa":102.8,
+    "actual_avg":119.0,
+    "value_index":1.1575875486,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Finn Callaghan",
+    "sal":1006000.0,
+    "price_point_pa":101.9,
+    "actual_avg":96.0,
+    "value_index":0.9421000981,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Harry Sheezel",
+    "sal":1005000.0,
+    "price_point_pa":101.8,
+    "actual_avg":125.0,
+    "value_index":1.2278978389,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Josh Dunkley",
+    "sal":1003000.0,
+    "price_point_pa":101.6,
+    "actual_avg":91.0,
+    "value_index":0.8956692913,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Josh Daicos",
+    "sal":995000.0,
+    "price_point_pa":100.8,
+    "actual_avg":120.0,
+    "value_index":1.1904761905,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Tom Liberatore",
+    "sal":971000.0,
+    "price_point_pa":98.4,
+    "actual_avg":138.0,
+    "value_index":1.4024390244,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Zach Merrett",
+    "sal":969000.0,
+    "price_point_pa":98.2,
+    "actual_avg":73.0,
+    "value_index":0.7433808554,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Hugh McCluggage",
+    "sal":968000.0,
+    "price_point_pa":98.1,
+    "actual_avg":57.0,
+    "value_index":0.5810397554,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Tim Taranto",
+    "sal":965000.0,
+    "price_point_pa":97.8,
+    "actual_avg":64.0,
+    "value_index":0.654396728,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Caleb Serong",
+    "sal":956000.0,
+    "price_point_pa":96.9,
+    "actual_avg":88.0,
+    "value_index":0.9081527348,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Rory Laird",
+    "sal":933000.0,
+    "price_point_pa":94.5,
+    "actual_avg":76.0,
+    "value_index":0.8042328042,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Jack Macrae",
+    "sal":926000.0,
+    "price_point_pa":93.8,
+    "actual_avg":107.0,
+    "value_index":1.1407249467,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Will Ashcroft",
+    "sal":922000.0,
+    "price_point_pa":93.4,
+    "actual_avg":66.0,
+    "value_index":0.7066381156,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Will Setterfield",
+    "sal":919000.0,
+    "price_point_pa":93.1,
+    "actual_avg":49.0,
+    "value_index":0.5263157895,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Jack Crisp",
+    "sal":919000.0,
+    "price_point_pa":93.1,
+    "actual_avg":39.0,
+    "value_index":0.4189044039,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Matthew Kennedy",
+    "sal":918000.0,
+    "price_point_pa":93.0,
+    "actual_avg":78.0,
+    "value_index":0.8387096774,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Adam Cerra",
+    "sal":914000.0,
+    "price_point_pa":92.6,
+    "actual_avg":80.0,
+    "value_index":0.8639308855,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Scott Pendlebury",
+    "sal":911000.0,
+    "price_point_pa":92.3,
+    "actual_avg":58.0,
+    "value_index":0.6283856988,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Lachie Neale",
+    "sal":909000.0,
+    "price_point_pa":92.1,
+    "actual_avg":110.0,
+    "value_index":1.1943539631,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Ollie Wines",
+    "sal":907000.0,
+    "price_point_pa":91.9,
+    "actual_avg":84.0,
+    "value_index":0.9140369967,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Jack Viney",
+    "sal":893000.0,
+    "price_point_pa":90.5,
+    "actual_avg":71.0,
+    "value_index":0.7845303867,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Jarrod Berry",
+    "sal":888000.0,
+    "price_point_pa":90.0,
+    "actual_avg":85.0,
+    "value_index":0.9444444444,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Colby McKercher",
+    "sal":886000.0,
+    "price_point_pa":89.8,
+    "actual_avg":79.0,
+    "value_index":0.8797327394,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Tom Atkins",
+    "sal":882000.0,
+    "price_point_pa":89.4,
+    "actual_avg":71.0,
+    "value_index":0.7941834452,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"George Hewett",
+    "sal":879000.0,
+    "price_point_pa":89.1,
+    "actual_avg":86.0,
+    "value_index":0.9652076319,
+    "value_rating":"Fair"
+  },
+  {
+    "name":"Jake Lloyd",
+    "sal":878000.0,
+    "price_point_pa":89.0,
+    "actual_avg":97.0,
+    "value_index":1.0898876404,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Sam Docherty",
+    "sal":877000.0,
+    "price_point_pa":88.9,
+    "actual_avg":47.0,
+    "value_index":0.5286839145,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Christian Petracca",
+    "sal":876000.0,
+    "price_point_pa":88.8,
+    "actual_avg":120.0,
+    "value_index":1.3513513514,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Kysaiah Pickett",
+    "sal":874000.0,
+    "price_point_pa":88.6,
+    "actual_avg":28.0,
+    "value_index":0.316027088,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Matt Crouch",
+    "sal":870000.0,
+    "price_point_pa":88.1,
+    "actual_avg":90.0,
+    "value_index":1.0215664018,
+    "value_rating":"Fair"
+  },
+  {
+    "name":"Tom Powell",
+    "sal":867000.0,
+    "price_point_pa":87.8,
+    "actual_avg":117.0,
+    "value_index":1.3325740319,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Sam Banks",
+    "sal":862000.0,
+    "price_point_pa":87.3,
+    "actual_avg":78.0,
+    "value_index":0.8934707904,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Jacob Hopper",
+    "sal":857000.0,
+    "price_point_pa":86.8,
+    "actual_avg":100.0,
+    "value_index":1.1520737327,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Steele Sidebottom",
+    "sal":856000.0,
+    "price_point_pa":86.7,
+    "actual_avg":66.0,
+    "value_index":0.7612456747,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Archie Roberts",
+    "sal":854000.0,
+    "price_point_pa":86.5,
+    "actual_avg":53.0,
+    "value_index":0.612716763,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Will Day",
+    "sal":844000.0,
+    "price_point_pa":85.5,
+    "actual_avg":70.0,
+    "value_index":0.8187134503,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Marcus Windhager",
+    "sal":839000.0,
+    "price_point_pa":85.0,
+    "actual_avg":46.0,
+    "value_index":0.5411764706,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Miles Bergman",
+    "sal":828000.0,
+    "price_point_pa":83.9,
+    "actual_avg":108.0,
+    "value_index":1.2872467223,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Izak Rankine",
+    "sal":827000.0,
+    "price_point_pa":83.8,
+    "actual_avg":92.0,
+    "value_index":1.0978520286,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Caleb Daniel",
+    "sal":827000.0,
+    "price_point_pa":83.8,
+    "actual_avg":100.0,
+    "value_index":1.1933174224,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Jake Soligo",
+    "sal":827000.0,
+    "price_point_pa":83.8,
+    "actual_avg":80.0,
+    "value_index":0.9546539379,
+    "value_rating":"Fair"
+  },
+  {
+    "name":"Clayton Oliver",
+    "sal":820000.0,
+    "price_point_pa":83.1,
+    "actual_avg":112.0,
+    "value_index":1.3477737665,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Patrick Cripps",
+    "sal":819000.0,
+    "price_point_pa":83.0,
+    "actual_avg":74.0,
+    "value_index":0.8915662651,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Jaspa Fletcher",
+    "sal":815000.0,
+    "price_point_pa":82.6,
+    "actual_avg":79.0,
+    "value_index":0.9564164649,
+    "value_rating":"Fair"
+  },
+  {
+    "name":"Jai Newcombe",
+    "sal":809000.0,
+    "price_point_pa":82.0,
+    "actual_avg":74.0,
+    "value_index":0.9024390244,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Justin McInerney",
+    "sal":805000.0,
+    "price_point_pa":81.6,
+    "actual_avg":100.0,
+    "value_index":1.2254901961,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Josh Kelly",
+    "sal":796000.0,
+    "price_point_pa":80.6,
+    "actual_avg":66.0,
+    "value_index":0.8188585608,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Jack Graham",
+    "sal":790000.0,
+    "price_point_pa":80.0,
+    "actual_avg":65.0,
+    "value_index":0.8125,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Bailey Williams",
+    "sal":789000.0,
+    "price_point_pa":79.9,
+    "actual_avg":64.0,
+    "value_index":0.8010012516,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Josh Ward",
+    "sal":787000.0,
+    "price_point_pa":79.7,
+    "actual_avg":41.0,
+    "value_index":0.5144291092,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Harley Reid",
+    "sal":787000.0,
+    "price_point_pa":79.7,
+    "actual_avg":40.0,
+    "value_index":0.5018820577,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Trent Rivers",
+    "sal":785000.0,
+    "price_point_pa":79.5,
+    "actual_avg":61.0,
+    "value_index":0.7672955975,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"James Rowbottom",
+    "sal":781000.0,
+    "price_point_pa":79.1,
+    "actual_avg":78.0,
+    "value_index":0.9860935525,
+    "value_rating":"Fair"
+  },
+  {
+    "name":"Daniel Curtin",
+    "sal":779000.0,
+    "price_point_pa":78.9,
+    "actual_avg":41.0,
+    "value_index":0.5196451204,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Zac Bailey",
+    "sal":777000.0,
+    "price_point_pa":78.7,
+    "actual_avg":61.0,
+    "value_index":0.7750952986,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Bradley Hill",
+    "sal":776000.0,
+    "price_point_pa":78.6,
+    "actual_avg":59.0,
+    "value_index":0.7506361323,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Oliver Hollands",
+    "sal":763000.0,
+    "price_point_pa":77.3,
+    "actual_avg":81.0,
+    "value_index":1.0478654592,
+    "value_rating":"Fair"
+  },
+  {
+    "name":"Luke Davies-Uniacke",
+    "sal":760000.0,
+    "price_point_pa":77.0,
+    "actual_avg":80.0,
+    "value_index":1.038961039,
+    "value_rating":"Fair"
+  },
+  {
+    "name":"James Peatling",
+    "sal":759000.0,
+    "price_point_pa":76.9,
+    "actual_avg":58.0,
+    "value_index":0.7542262679,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Jason Horne-Francis",
+    "sal":747000.0,
+    "price_point_pa":75.7,
+    "actual_avg":113.0,
+    "value_index":1.4927344782,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Xavier Duursma",
+    "sal":746000.0,
+    "price_point_pa":75.6,
+    "actual_avg":68.0,
+    "value_index":0.8994708995,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Liam Baker",
+    "sal":741000.0,
+    "price_point_pa":75.1,
+    "actual_avg":83.0,
+    "value_index":1.1051930759,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Patrick Lipinski",
+    "sal":734000.0,
+    "price_point_pa":74.4,
+    "actual_avg":141.0,
+    "value_index":1.8951612903,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Sam Durham",
+    "sal":731000.0,
+    "price_point_pa":74.1,
+    "actual_avg":75.0,
+    "value_index":1.012145749,
+    "value_rating":"Fair"
+  },
+  {
+    "name":"Jack Ross",
+    "sal":726000.0,
+    "price_point_pa":73.6,
+    "actual_avg":98.0,
+    "value_index":1.3315217391,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Conor Nash",
+    "sal":724000.0,
+    "price_point_pa":73.4,
+    "actual_avg":64.0,
+    "value_index":0.8719346049,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Willem Drew",
+    "sal":721000.0,
+    "price_point_pa":73.0,
+    "actual_avg":77.0,
+    "value_index":1.0547945205,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Nathan O'Driscoll",
+    "sal":718000.0,
+    "price_point_pa":72.7,
+    "actual_avg":87.0,
+    "value_index":1.196698762,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Blake Acres",
+    "sal":718000.0,
+    "price_point_pa":72.7,
+    "actual_avg":44.0,
+    "value_index":0.6052269601,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"James Worpel",
+    "sal":711000.0,
+    "price_point_pa":72.0,
+    "actual_avg":116.0,
+    "value_index":1.6111111111,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Ed Langdon",
+    "sal":700000.0,
+    "price_point_pa":70.9,
+    "actual_avg":108.0,
+    "value_index":1.5232722144,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Jase Burgoyne",
+    "sal":699000.0,
+    "price_point_pa":70.8,
+    "actual_avg":97.0,
+    "value_index":1.3700564972,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Corey Wagner",
+    "sal":699000.0,
+    "price_point_pa":70.8,
+    "actual_avg":103.0,
+    "value_index":1.4548022599,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Brady Hough",
+    "sal":699000.0,
+    "price_point_pa":70.8,
+    "actual_avg":68.0,
+    "value_index":0.9604519774,
+    "value_rating":"Fair"
+  },
+  {
+    "name":"Travis Boak",
+    "sal":698000.0,
+    "price_point_pa":70.7,
+    "actual_avg":73.0,
+    "value_index":1.0325318246,
+    "value_rating":"Fair"
+  },
+  {
+    "name":"Harry Morrison",
+    "sal":696000.0,
+    "price_point_pa":70.5,
+    "actual_avg":86.0,
+    "value_index":1.219858156,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Massimo D'Ambrosio",
+    "sal":694000.0,
+    "price_point_pa":70.3,
+    "actual_avg":107.0,
+    "value_index":1.5220483642,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Joel Freijah",
+    "sal":692000.0,
+    "price_point_pa":70.1,
+    "actual_avg":96.0,
+    "value_index":1.3694721826,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Mason Wood",
+    "sal":689000.0,
+    "price_point_pa":69.8,
+    "actual_avg":39.0,
+    "value_index":0.558739255,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Max Hall",
+    "sal":689000.0,
+    "price_point_pa":69.8,
+    "actual_avg":35.0,
+    "value_index":0.5014326648,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Oliver Dempsey",
+    "sal":688000.0,
+    "price_point_pa":69.7,
+    "actual_avg":60.0,
+    "value_index":0.8608321377,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Levi Ashcroft",
+    "sal":681000.0,
+    "price_point_pa":69.0,
+    "actual_avg":78.0,
+    "value_index":1.1304347826,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Matthew Johnson",
+    "sal":681000.0,
+    "price_point_pa":69.0,
+    "actual_avg":88.0,
+    "value_index":1.2753623188,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Ryley Sanders",
+    "sal":677000.0,
+    "price_point_pa":68.6,
+    "actual_avg":84.0,
+    "value_index":1.2244897959,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Ryan Byrnes",
+    "sal":677000.0,
+    "price_point_pa":68.6,
+    "actual_avg":43.0,
+    "value_index":0.6268221574,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Stephen Coniglio",
+    "sal":664000.0,
+    "price_point_pa":67.3,
+    "actual_avg":40.0,
+    "value_index":0.5943536404,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Mark Blicavs",
+    "sal":663000.0,
+    "price_point_pa":67.2,
+    "actual_avg":59.0,
+    "value_index":0.8779761905,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Shai Bolton",
+    "sal":663000.0,
+    "price_point_pa":67.2,
+    "actual_avg":49.0,
+    "value_index":0.7291666667,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Angus Sheldrick",
+    "sal":663000.0,
+    "price_point_pa":67.2,
+    "actual_avg":94.0,
+    "value_index":1.3988095238,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Mark O'Connor",
+    "sal":661000.0,
+    "price_point_pa":67.0,
+    "actual_avg":32.0,
+    "value_index":0.4776119403,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Lachlan Sholl",
+    "sal":656000.0,
+    "price_point_pa":66.5,
+    "actual_avg":66.0,
+    "value_index":0.992481203,
+    "value_rating":"Fair"
+  },
+  {
+    "name":"James Harmes",
+    "sal":655000.0,
+    "price_point_pa":66.4,
+    "actual_avg":84.0,
+    "value_index":1.265060241,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Kade Chandler",
+    "sal":653000.0,
+    "price_point_pa":66.2,
+    "actual_avg":18.0,
+    "value_index":0.2719033233,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Bailey Humphrey",
+    "sal":651000.0,
+    "price_point_pa":66.0,
+    "actual_avg":65.0,
+    "value_index":0.9848484848,
+    "value_rating":"Fair"
+  },
+  {
+    "name":"Alex Neal-Bullen",
+    "sal":648000.0,
+    "price_point_pa":65.7,
+    "actual_avg":77.0,
+    "value_index":1.1719939117,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Dylan Shiel",
+    "sal":645000.0,
+    "price_point_pa":65.3,
+    "actual_avg":102.0,
+    "value_index":1.5620214395,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Xavier O'Halloran",
+    "sal":644000.0,
+    "price_point_pa":65.2,
+    "actual_avg":51.0,
+    "value_index":0.782208589,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Jack Billings",
+    "sal":632000.0,
+    "price_point_pa":64.0,
+    "actual_avg":96.0,
+    "value_index":1.5,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Matthew Cottrell",
+    "sal":626000.0,
+    "price_point_pa":63.4,
+    "actual_avg":61.0,
+    "value_index":0.9621451104,
+    "value_rating":"Fair"
+  },
+  {
+    "name":"Sam Davidson",
+    "sal":618000.0,
+    "price_point_pa":62.6,
+    "actual_avg":102.0,
+    "value_index":1.6293929712,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Hugo Garcia",
+    "sal":617000.0,
+    "price_point_pa":62.5,
+    "actual_avg":67.0,
+    "value_index":1.072,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Thomson Dow",
+    "sal":615000.0,
+    "price_point_pa":62.3,
+    "actual_avg":49.0,
+    "value_index":0.7865168539,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Jaeger O'Meara",
+    "sal":614000.0,
+    "price_point_pa":62.2,
+    "actual_avg":53.0,
+    "value_index":0.8520900322,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Mitch Duncan",
+    "sal":612000.0,
+    "price_point_pa":62.0,
+    "actual_avg":29.0,
+    "value_index":0.4677419355,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Harvey Langford",
+    "sal":611000.0,
+    "price_point_pa":61.9,
+    "actual_avg":39.0,
+    "value_index":0.6300484653,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Kane McAuliffe",
+    "sal":607000.0,
+    "price_point_pa":61.5,
+    "actual_avg":28.0,
+    "value_index":0.4552845528,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Tom Sparrow",
+    "sal":607000.0,
+    "price_point_pa":61.5,
+    "actual_avg":98.0,
+    "value_index":1.593495935,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Sam Clohesy",
+    "sal":607000.0,
+    "price_point_pa":61.5,
+    "actual_avg":89.0,
+    "value_index":1.4471544715,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Jack Hutchinson",
+    "sal":599000.0,
+    "price_point_pa":60.7,
+    "actual_avg":51.0,
+    "value_index":0.8401976936,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"James Jordon",
+    "sal":597000.0,
+    "price_point_pa":60.5,
+    "actual_avg":106.0,
+    "value_index":1.7520661157,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Will Phillips",
+    "sal":596000.0,
+    "price_point_pa":60.4,
+    "actual_avg":78.0,
+    "value_index":1.2913907285,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Darcy Tucker",
+    "sal":581000.0,
+    "price_point_pa":58.9,
+    "actual_avg":76.0,
+    "value_index":1.2903225806,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Harry Perryman",
+    "sal":575000.0,
+    "price_point_pa":58.3,
+    "actual_avg":99.0,
+    "value_index":1.6981132075,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Dylan Stephens",
+    "sal":575000.0,
+    "price_point_pa":58.3,
+    "actual_avg":51.0,
+    "value_index":0.8747855918,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Tyrell Dewar",
+    "sal":575000.0,
+    "price_point_pa":58.3,
+    "actual_avg":28.0,
+    "value_index":0.4802744425,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Braeden Campbell",
+    "sal":574000.0,
+    "price_point_pa":58.2,
+    "actual_avg":36.0,
+    "value_index":0.618556701,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Neil Erasmus",
+    "sal":571000.0,
+    "price_point_pa":57.9,
+    "actual_avg":21.0,
+    "value_index":0.3626943005,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Jacob Wehr",
+    "sal":564000.0,
+    "price_point_pa":57.1,
+    "actual_avg":19.0,
+    "value_index":0.3327495622,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Edward Allan",
+    "sal":564000.0,
+    "price_point_pa":57.1,
+    "actual_avg":61.0,
+    "value_index":1.0683012259,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Reuben Ginbey",
+    "sal":562000.0,
+    "price_point_pa":56.9,
+    "actual_avg":49.0,
+    "value_index":0.8611599297,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Oliver Florent",
+    "sal":558000.0,
+    "price_point_pa":56.5,
+    "actual_avg":59.0,
+    "value_index":1.0442477876,
+    "value_rating":"Fair"
+  },
+  {
+    "name":"Cam Mackenzie",
+    "sal":552000.0,
+    "price_point_pa":55.9,
+    "actual_avg":64.0,
+    "value_index":1.14490161,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Jack Bowes",
+    "sal":552000.0,
+    "price_point_pa":55.9,
+    "actual_avg":96.0,
+    "value_index":1.717352415,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Cooper Lord",
+    "sal":552000.0,
+    "price_point_pa":55.9,
+    "actual_avg":81.0,
+    "value_index":1.4490161002,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Isaac Cumming",
+    "sal":548000.0,
+    "price_point_pa":55.5,
+    "actual_avg":62.0,
+    "value_index":1.1171171171,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Callan Ward",
+    "sal":547000.0,
+    "price_point_pa":55.4,
+    "actual_avg":80.0,
+    "value_index":1.4440433213,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Murphy Reid",
+    "sal":538000.0,
+    "price_point_pa":54.5,
+    "actual_avg":60.0,
+    "value_index":1.1009174312,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Tyler Sonsie",
+    "sal":538000.0,
+    "price_point_pa":54.5,
+    "actual_avg":70.0,
+    "value_index":1.2844036697,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Patrick Dangerfield",
+    "sal":536000.0,
+    "price_point_pa":54.3,
+    "actual_avg":47.0,
+    "value_index":0.8655616943,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Will Graham",
+    "sal":530000.0,
+    "price_point_pa":53.7,
+    "actual_avg":43.0,
+    "value_index":0.800744879,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Mitch Knevitt",
+    "sal":524000.0,
+    "price_point_pa":53.1,
+    "actual_avg":74.0,
+    "value_index":1.3935969868,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Elijah Tsatas",
+    "sal":523000.0,
+    "price_point_pa":53.0,
+    "actual_avg":88.0,
+    "value_index":1.6603773585,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Tim Kelly",
+    "sal":520000.0,
+    "price_point_pa":52.7,
+    "actual_avg":105.0,
+    "value_index":1.9924098672,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Darcy Wilson",
+    "sal":519000.0,
+    "price_point_pa":52.6,
+    "actual_avg":71.0,
+    "value_index":1.3498098859,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Taylor Adams",
+    "sal":517000.0,
+    "price_point_pa":52.4,
+    "actual_avg":52.0,
+    "value_index":0.9923664122,
+    "value_rating":"Fair"
+  },
+  {
+    "name":"Finn O'Sullivan",
+    "sal":516000.0,
+    "price_point_pa":52.3,
+    "actual_avg":79.0,
+    "value_index":1.5105162524,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Toby Bedford",
+    "sal":513000.0,
+    "price_point_pa":52.0,
+    "actual_avg":71.0,
+    "value_index":1.3653846154,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Lachie Weller",
+    "sal":506000.0,
+    "price_point_pa":51.3,
+    "actual_avg":77.0,
+    "value_index":1.5009746589,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Harrison Jones",
+    "sal":506000.0,
+    "price_point_pa":51.3,
+    "actual_avg":115.0,
+    "value_index":2.2417153996,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Caleb Poulter",
+    "sal":500000.0,
+    "price_point_pa":50.7,
+    "actual_avg":9.0,
+    "value_index":0.1775147929,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Luke Nankervis",
+    "sal":499000.0,
+    "price_point_pa":50.6,
+    "actual_avg":70.0,
+    "value_index":1.3833992095,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Kamdyn McIntosh",
+    "sal":477000.0,
+    "price_point_pa":48.3,
+    "actual_avg":108.0,
+    "value_index":2.2360248447,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Harvey Gallagher",
+    "sal":477000.0,
+    "price_point_pa":48.3,
+    "actual_avg":61.0,
+    "value_index":1.2629399586,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Isaac Kako",
+    "sal":472000.0,
+    "price_point_pa":47.8,
+    "actual_avg":81.0,
+    "value_index":1.6945606695,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Archie Perkins",
+    "sal":462000.0,
+    "price_point_pa":46.8,
+    "actual_avg":57.0,
+    "value_index":1.2179487179,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Oisin Mullin",
+    "sal":458000.0,
+    "price_point_pa":46.4,
+    "actual_avg":33.0,
+    "value_index":0.7112068966,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Harry Rowston",
+    "sal":451000.0,
+    "price_point_pa":45.7,
+    "actual_avg":15.0,
+    "value_index":0.3282275711,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Jackson Mead",
+    "sal":449000.0,
+    "price_point_pa":45.5,
+    "actual_avg":58.0,
+    "value_index":1.2747252747,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Jhye Clark",
+    "sal":449000.0,
+    "price_point_pa":45.5,
+    "actual_avg":55.0,
+    "value_index":1.2087912088,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Caleb Windsor",
+    "sal":446000.0,
+    "price_point_pa":45.2,
+    "actual_avg":36.0,
+    "value_index":0.796460177,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Xavier Lindsay",
+    "sal":441000.0,
+    "price_point_pa":44.7,
+    "actual_avg":50.0,
+    "value_index":1.1185682327,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Bailey Scott",
+    "sal":434000.0,
+    "price_point_pa":44.0,
+    "actual_avg":58.0,
+    "value_index":1.3181818182,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Connor Budarick",
+    "sal":432000.0,
+    "price_point_pa":43.8,
+    "actual_avg":38.0,
+    "value_index":0.8675799087,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Tobie Travaglia",
+    "sal":431000.0,
+    "price_point_pa":43.7,
+    "actual_avg":20.0,
+    "value_index":0.4576659039,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Corey Warner",
+    "sal":425000.0,
+    "price_point_pa":43.1,
+    "actual_avg":67.0,
+    "value_index":1.5545243619,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Finn Maginness",
+    "sal":416000.0,
+    "price_point_pa":42.1,
+    "actual_avg":62.0,
+    "value_index":1.4726840855,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Jeremy Sharp",
+    "sal":409000.0,
+    "price_point_pa":41.4,
+    "actual_avg":47.0,
+    "value_index":1.1352657005,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Jayden Hunt",
+    "sal":399000.0,
+    "price_point_pa":40.4,
+    "actual_avg":66.0,
+    "value_index":1.6336633663,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"James Trezise",
+    "sal":380000.0,
+    "price_point_pa":38.5,
+    "actual_avg":46.0,
+    "value_index":1.1948051948,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Hugh Boxshall",
+    "sal":371000.0,
+    "price_point_pa":37.6,
+    "actual_avg":66.0,
+    "value_index":1.7553191489,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Robert Hansen Jr",
+    "sal":359000.0,
+    "price_point_pa":36.4,
+    "actual_avg":45.0,
+    "value_index":1.2362637363,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Angus Hastie",
+    "sal":343000.0,
+    "price_point_pa":34.8,
+    "actual_avg":56.0,
+    "value_index":1.6091954023,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Cody Angove",
+    "sal":340000.0,
+    "price_point_pa":34.4,
+    "actual_avg":21.0,
+    "value_index":0.6104651163,
+    "value_rating":"Overpriced"
+  },
+  {
+    "name":"Harry Sharp",
+    "sal":331000.0,
+    "price_point_pa":33.5,
+    "actual_avg":35.0,
+    "value_index":1.0447761194,
+    "value_rating":"Fair"
+  },
+  {
+    "name":"Tom Hanily",
+    "sal":310000.0,
+    "price_point_pa":31.4,
+    "actual_avg":55.0,
+    "value_index":1.7515923567,
+    "value_rating":"Undervalued"
+  },
+  {
+    "name":"Lucas Camporeale",
+    "sal":309000.0,
+    "price_point_pa":31.3,
+    "actual_avg":88.0,
+    "value_index":2.8115015974,
+    "value_rating":"Undervalued"
+  }
+]

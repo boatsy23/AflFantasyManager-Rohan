@@ -1,0 +1,26 @@
+{
+  "analysis_date": "2025-09-28",
+  "total_matched_players": 176,
+  "undervalued_count": 82,
+  "overpriced_count": 78,
+  "avg_price_per_point": 70.91647727272728,
+  "alignment_percentage": 17.045454545454543,
+  "undervalued_be_diff": 16.817073170731707,
+  "overpriced_be_diff": -29.73076923076923,
+  "high_error_analysis": [
+    {
+      "name": "Harry Sheezel",
+      "actual_avg": 125.0,
+      "breakeven": 63.0,
+      "value_rating": "Undervalued",
+      "makes_sense": true
+    },
+    {
+      "name": "Jack Bowes",
+      "actual_avg": 96.0,
+      "breakeven": 69.0,
+      "value_rating": "Undervalued",
+      "makes_sense": true
+    }
+  ]
+}

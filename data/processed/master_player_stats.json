@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "total_players": 0,
+    "data_sources": [],
+    "generated_at": "2025-09-28T01:53:52.509Z",
+    "version": "1.0.0"
+  },
+  "players": [],
+  "data_completeness": {
+    "average_points": {
+      "populated": null,
+      "percentage": null
+    },
+    "price": {
+      "populated": null,
+      "percentage": null
+    },
+    "break_even": {
+      "populated": null,
+      "percentage": null
+    },
+    "kicks": {
+      "populated": null,
+      "percentage": null
+    },
+    "handballs": {
+      "populated": null,
+      "percentage": null
+    },
+    "marks": {
+      "populated": null,
+      "percentage": null
+    },
+    "tackles": {
+      "populated": null,
+      "percentage": null
+    },
+    "cba_percentage": {
+      "populated": null,
+      "percentage": null
+    },
+    "points_per_minute": {
+      "populated": null,
+      "percentage": null
+    },
+    "ownership_percentage": {
+      "populated": null,
+      "percentage": null
+    },
+    "value_rating": {
+      "populated": null,
+      "percentage": null
+    }
+  }
+}

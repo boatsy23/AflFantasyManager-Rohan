@@ -1,0 +1,161 @@
+{
+  "analysis_date": "2025-09-28",
+  "threshold_results": [
+    {
+      "range": "0.0-0.7",
+      "category": "Extremely Overpriced",
+      "count": 33,
+      "avg_diff": 44.81818181818182,
+      "std_dev": 23.596152421335752
+    },
+    {
+      "range": "0.7-0.85",
+      "category": "Heavily Overpriced",
+      "count": 26,
+      "avg_diff": 23.846153846153847,
+      "std_dev": 14.834263871705417
+    },
+    {
+      "range": "0.85-0.95",
+      "category": "Moderately Overpriced",
+      "count": 19,
+      "avg_diff": 11.578947368421053,
+      "std_dev": 13.35130367947342
+    },
+    {
+      "range": "0.95-1.05",
+      "category": "Fair Value",
+      "count": 16,
+      "avg_diff": 4.25,
+      "std_dev": 27.130548587646853
+    },
+    {
+      "range": "1.05-1.15",
+      "category": "Slightly Undervalued",
+      "count": 14,
+      "avg_diff": -3.7142857142857144,
+      "std_dev": 17.700189357651045
+    },
+    {
+      "range": "1.15-1.3",
+      "category": "Moderately Undervalued",
+      "count": 24,
+      "avg_diff": -6.541666666666667,
+      "std_dev": 20.57009050024831
+    },
+    {
+      "range": "1.3-1.5",
+      "category": "Heavily Undervalued",
+      "count": 20,
+      "avg_diff": -20.25,
+      "std_dev": 14.56699586122865
+    },
+    {
+      "range": "1.5-3.0",
+      "category": "Extremely Undervalued",
+      "count": 24,
+      "avg_diff": -31.875,
+      "std_dev": 20.98304180709415
+    }
+  ],
+  "bin_analysis": [
+    {
+      "bin_start": 0.30000000000000004,
+      "bin_end": 0.4,
+      "count": 5,
+      "avg_adjustment": 56.4
+    },
+    {
+      "bin_start": 0.4,
+      "bin_end": 0.5,
+      "count": 6,
+      "avg_adjustment": 37.666666666666664
+    },
+    {
+      "bin_start": 0.5,
+      "bin_end": 0.6,
+      "count": 10,
+      "avg_adjustment": 44.8
+    },
+    {
+      "bin_start": 0.6,
+      "bin_end": 0.7,
+      "count": 8,
+      "avg_adjustment": 28.375
+    },
+    {
+      "bin_start": 0.7,
+      "bin_end": 0.7999999999999999,
+      "count": 18,
+      "avg_adjustment": 26.333333333333332
+    },
+    {
+      "bin_start": 0.7999999999999999,
+      "bin_end": 0.8999999999999999,
+      "count": 22,
+      "avg_adjustment": 15.409090909090908
+    },
+    {
+      "bin_start": 0.8999999999999999,
+      "bin_end": 0.9999999999999999,
+      "count": 14,
+      "avg_adjustment": 11.0
+    },
+    {
+      "bin_start": 0.9999999999999999,
+      "bin_end": 1.0999999999999999,
+      "count": 12,
+      "avg_adjustment": -6.666666666666667
+    },
+    {
+      "bin_start": 1.0999999999999999,
+      "bin_end": 1.2,
+      "count": 17,
+      "avg_adjustment": -4.823529411764706
+    },
+    {
+      "bin_start": 1.2,
+      "bin_end": 1.3,
+      "count": 16,
+      "avg_adjustment": -6.625
+    },
+    {
+      "bin_start": 1.3,
+      "bin_end": 1.4000000000000001,
+      "count": 13,
+      "avg_adjustment": -20.307692307692307
+    },
+    {
+      "bin_start": 1.4000000000000001,
+      "bin_end": 1.5000000000000002,
+      "count": 8,
+      "avg_adjustment": -19.875
+    },
+    {
+      "bin_start": 1.5000000000000002,
+      "bin_end": 1.6000000000000003,
+      "count": 7,
+      "avg_adjustment": -29.571428571428573
+    },
+    {
+      "bin_start": 1.6000000000000003,
+      "bin_end": 1.7000000000000004,
+      "count": 7,
+      "avg_adjustment": -21.428571428571427
+    },
+    {
+      "bin_start": 1.7000000000000004,
+      "bin_end": 1.8000000000000005,
+      "count": 4,
+      "avg_adjustment": -24.25
+    }
+  ],
+  "best_formula_index": 2,
+  "best_formula_error": 15.453467087040003,
+  "formula_descriptions": [
+    "Linear: 30 \u00d7 (1.0 - VI)",
+    "Step: 40 if VI<0.8, 20 if VI<1.0, -20 if VI>1.2, else 0",
+    "Piecewise: 50\u00d7(1-VI) if VI<1, -30\u00d7(VI-1) if VI>1",
+    "Quadratic: \u00b125\u00d7(deviation)\u00b2"
+  ]
+}

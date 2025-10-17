@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Harry Sheezel",
+    "team": "North Melbourne",
+    "price": 982000,
+    "position": "DEF",
+    "breakeven": 123,
+    "last3_avg": 115.3,
+    "last5_avg": 112.7
+  },
+  {
+    "name": "Jayden Short",
+    "team": "Richmond",
+    "price": 909000,
+    "position": "DEF",
+    "breakeven": 98,
+    "last3_avg": 108.0,
+    "last5_avg": 105.2
+  },
+  {
+    "name": "Matt Roberts",
+    "team": "Sydney",
+    "price": 785000,
+    "position": "DEF",
+    "breakeven": 89,
+    "last3_avg": 95.6,
+    "last5_avg": 92.1
+  },
+  {
+    "name": "Riley Bice",
+    "team": "Carlton",
+    "price": 203000,
+    "position": "DEF",
+    "breakeven": -24,
+    "last3_avg": 45.0,
+    "last5_avg": 43.2
+  },
+  {
+    "name": "Jaxon Prior",
+    "team": "Brisbane",
+    "price": 557000,
+    "position": "DEF",
+    "breakeven": 72,
+    "last3_avg": 82.1,
+    "last5_avg": 78.9
+  },
+  {
+    "name": "Zach Reid",
+    "team": "Essendon",
+    "price": 498000,
+    "position": "DEF",
+    "breakeven": 65,
+    "last3_avg": 76.3,
+    "last5_avg": 73.2
+  },
+  {
+    "name": "Finn O'Sullivan",
+    "team": "Western Bulldogs",
+    "price": 205000,
+    "position": "DEF",
+    "breakeven": -28,
+    "last3_avg": 47.2,
+    "last5_avg": 45.3
+  },
+  {
+    "name": "Connor Stone",
+    "team": "Hawthorn",
+    "price": 228000,
+    "position": "DEF",
+    "breakeven": -15,
+    "last3_avg": 52.8,
+    "last5_avg": 50.6
+  },
+  {
+    "name": "Jordan Dawson",
+    "team": "Adelaide",
+    "price": 943000,
+    "position": "MID",
+    "breakeven": 115,
+    "last3_avg": 118.7,
+    "last5_avg": 114.9
+  },
+  {
+    "name": "Andrew Brayshaw",
+    "team": "Fremantle",
+    "price": 875000,
+    "position": "MID",
+    "breakeven": 105,
+    "last3_avg": 112.3,
+    "last5_avg": 108.7
+  },
+  {
+    "name": "Nick Daicos",
+    "team": "Collingwood",
+    "price": 1025000,
+    "position": "MID",
+    "breakeven": 132,
+    "last3_avg": 128.9,
+    "last5_avg": 125.4
+  },
+  {
+    "name": "Connor Rozee",
+    "team": "Port Adelaide",
+    "price": 892000,
+    "position": "MID",
+    "breakeven": 108,
+    "last3_avg": 113.5,
+    "last5_avg": 109.8
+  },
+  {
+    "name": "Zach Merrett",
+    "team": "Essendon",
+    "price": 967000,
+    "position": "MID",
+    "breakeven": 120,
+    "last3_avg": 122.1,
+    "last5_avg": 118.3
+  },
+  {
+    "name": "Clayton Oliver",
+    "team": "Melbourne",
+    "price": 935000,
+    "position": "MID",
+    "breakeven": 112,
+    "last3_avg": 117.8,
+    "last5_avg": 114.2
+  },
+  {
+    "name": "Levi Ashcroft",
+    "team": "Brisbane",
+    "price": 415000,
+    "position": "MID",
+    "breakeven": 38,
+    "last3_avg": 72.5,
+    "last5_avg": 69.8
+  },
+  {
+    "name": "Xavier Lindsay",
+    "team": "Gold Coast",
+    "price": 186000,
+    "position": "MID",
+    "breakeven": -36,
+    "last3_avg": 42.3,
+    "last5_avg": 40.7
+  },
+  {
+    "name": "Hugh Boxshall",
+    "team": "Richmond",
+    "price": 178000,
+    "position": "MID",
+    "breakeven": -42,
+    "last3_avg": 38.9,
+    "last5_avg": 37.5
+  },
+  {
+    "name": "Isaac Kako",
+    "team": "Carlton",
+    "price": 193000,
+    "position": "MID",
+    "breakeven": -32,
+    "last3_avg": 44.1,
+    "last5_avg": 42.3
+  },
+  {
+    "name": "Tristan Xerri",
+    "team": "North Melbourne",
+    "price": 745000,
+    "position": "RUCK",
+    "breakeven": 92,
+    "last3_avg": 103.5,
+    "last5_avg": 99.8
+  },
+  {
+    "name": "Tom De Koning",
+    "team": "Carlton",
+    "price": 682000,
+    "position": "RUCK",
+    "breakeven": 78,
+    "last3_avg": 94.2,
+    "last5_avg": 90.7
+  },
+  {
+    "name": "Harry Boyd",
+    "team": "Hawthorn",
+    "price": 236000,
+    "position": "RUCK",
+    "breakeven": -12,
+    "last3_avg": 54.8,
+    "last5_avg": 52.6
+  },
+  {
+    "name": "Isaac Rankine",
+    "team": "Gold Coast",
+    "price": 739000,
+    "position": "FWD",
+    "breakeven": 88,
+    "last3_avg": 99.5,
+    "last5_avg": 95.8
+  },
+  {
+    "name": "Christian Petracca",
+    "team": "Melbourne",
+    "price": 865000,
+    "position": "FWD",
+    "breakeven": 102,
+    "last3_avg": 111.2,
+    "last5_avg": 107.3
+  },
+  {
+    "name": "Bailey Smith",
+    "team": "Western Bulldogs",
+    "price": 828000,
+    "position": "FWD",
+    "breakeven": 95,
+    "last3_avg": 105.3,
+    "last5_avg": 101.8
+  },
+  {
+    "name": "Jack Macrae",
+    "team": "Western Bulldogs",
+    "price": 795000,
+    "position": "FWD",
+    "breakeven": 92,
+    "last3_avg": 102.7,
+    "last5_avg": 99.1
+  },
+  {
+    "name": "Caleb Daniel",
+    "team": "Western Bulldogs",
+    "price": 729000,
+    "position": "FWD",
+    "breakeven": 85,
+    "last3_avg": 97.3,
+    "last5_avg": 93.8
+  },
+  {
+    "name": "Sam Davidson",
+    "team": "Geelong",
+    "price": 236000,
+    "position": "FWD",
+    "breakeven": -15,
+    "last3_avg": 55.2,
+    "last5_avg": 53.3
+  },
+  {
+    "name": "Caiden Cleary",
+    "team": "Sydney",
+    "price": 189000,
+    "position": "FWD",
+    "breakeven": -38,
+    "last3_avg": 43.6,
+    "last5_avg": 42.1
+  },
+  {
+    "name": "Campbell Gray",
+    "team": "St Kilda",
+    "price": 158000,
+    "position": "FWD",
+    "breakeven": -45,
+    "last3_avg": 35.8,
+    "last5_avg": 34.5
+  },
+  {
+    "name": "James Leake",
+    "team": "Adelaide",
+    "price": 172000,
+    "position": "FWD",
+    "breakeven": -44,
+    "last3_avg": 38.4,
+    "last5_avg": 37.1
+  }
+]

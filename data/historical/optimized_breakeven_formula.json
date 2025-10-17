@@ -1,0 +1,20 @@
+{
+  "optimization_date": "2025-09-28",
+  "best_magic_number": 9750,
+  "avg_error_points": 10.271260106739959,
+  "avg_error_percentage": 30.52390265931025,
+  "within_5_points_pct": 27.586206896551722,
+  "within_10_pct_error": 31.03448275862069,
+  "formula_weights": {
+    "w1": 0.083,
+    "w2": 0.067,
+    "w3": 0.05,
+    "w4": 0.033,
+    "w5": 0.017
+  },
+  "improvements_made": [
+    "Zero score filtering",
+    "Magic number optimization",
+    "Score padding with averages"
+  ]
+}

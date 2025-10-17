@@ -1,0 +1,177 @@
+{
+  "analysis_date": "2025-09-28",
+  "total_players": 77,
+  "max_error": 60318.0,
+  "mean_error": 14569.818181818182,
+  "median_error": 11192.0,
+  "within_target": 14,
+  "within_target_pct": 18.181818181818183,
+  "top_20_outliers": [
+    {
+      "name": "Jimmy Webster",
+      "error": 60318.0,
+      "actual_change": 0.0,
+      "calculated_change": -60318.0,
+      "price": 505000.0,
+      "avg_score": 31.0
+    },
+    {
+      "name": "Josh Rachele",
+      "error": 46716.0,
+      "actual_change": 0.0,
+      "calculated_change": -46716.0,
+      "price": 593000.0,
+      "avg_score": 45.75
+    },
+    {
+      "name": "Jack Gunston",
+      "error": 46419.0,
+      "actual_change": 48000.0,
+      "calculated_change": 1581.0,
+      "price": 678000.0,
+      "avg_score": 68.8
+    },
+    {
+      "name": "Edward Allan",
+      "error": 36773.0,
+      "actual_change": -43000.0,
+      "calculated_change": -6227.0,
+      "price": 557000.0,
+      "avg_score": 53.8
+    },
+    {
+      "name": "Jeremy Cameron",
+      "error": 33964.0,
+      "actual_change": -10000.0,
+      "calculated_change": 23964.0,
+      "price": 886000.0,
+      "avg_score": 91.8
+    },
+    {
+      "name": "Hugo Ralphsmith",
+      "error": 32991.0,
+      "actual_change": 0.0,
+      "calculated_change": -32991.0,
+      "price": 557000.0,
+      "avg_score": 46.0
+    },
+    {
+      "name": "Connor Rozee",
+      "error": 31212.0,
+      "actual_change": -45000.0,
+      "calculated_change": -13788.0,
+      "price": 971000.0,
+      "avg_score": 97.4
+    },
+    {
+      "name": "Mitchell Hinge",
+      "error": 30574.0,
+      "actual_change": 16000.0,
+      "calculated_change": -14574.0,
+      "price": 559000.0,
+      "avg_score": 49.8
+    },
+    {
+      "name": "Callum Wilkie",
+      "error": 28056.0,
+      "actual_change": 0.0,
+      "calculated_change": 28056.0,
+      "price": 772000.0,
+      "avg_score": 84.2
+    },
+    {
+      "name": "Esava Ratugolea",
+      "error": 27356.0,
+      "actual_change": 0.0,
+      "calculated_change": -27356.0,
+      "price": 544000.0,
+      "avg_score": 57.2
+    },
+    {
+      "name": "Josh Daicos",
+      "error": 27226.0,
+      "actual_change": -47000.0,
+      "calculated_change": -19774.0,
+      "price": 978000.0,
+      "avg_score": 99.4
+    },
+    {
+      "name": "Lloyd Meek",
+      "error": 25193.0,
+      "actual_change": -29000.0,
+      "calculated_change": -3807.0,
+      "price": 981000.0,
+      "avg_score": 100.8
+    },
+    {
+      "name": "Sam Collins",
+      "error": 24803.0,
+      "actual_change": -9000.0,
+      "calculated_change": 15803.0,
+      "price": 578000.0,
+      "avg_score": 63.2
+    },
+    {
+      "name": "Sam Butler",
+      "error": 24696.0,
+      "actual_change": 0.0,
+      "calculated_change": 24696.0,
+      "price": 458000.0,
+      "avg_score": 59.0
+    },
+    {
+      "name": "Lachie Neale",
+      "error": 24645.0,
+      "actual_change": 0.0,
+      "calculated_change": 24645.0,
+      "price": 982000.0,
+      "avg_score": 110.4
+    },
+    {
+      "name": "Xavier Duursma",
+      "error": 24618.0,
+      "actual_change": 21000.0,
+      "calculated_change": -3618.0,
+      "price": 740000.0,
+      "avg_score": 76.4
+    },
+    {
+      "name": "Kai Lohmann",
+      "error": 23767.0,
+      "actual_change": 0.0,
+      "calculated_change": 23767.0,
+      "price": 553000.0,
+      "avg_score": 61.0
+    },
+    {
+      "name": "Archie Perkins",
+      "error": 22986.0,
+      "actual_change": 23000.0,
+      "calculated_change": 14.0,
+      "price": 464000.0,
+      "avg_score": 48.4
+    },
+    {
+      "name": "Corey Wagner",
+      "error": 22741.0,
+      "actual_change": -36000.0,
+      "calculated_change": -13259.0,
+      "price": 699000.0,
+      "avg_score": 68.0
+    },
+    {
+      "name": "Josh Sinn",
+      "error": 22446.0,
+      "actual_change": -23000.0,
+      "calculated_change": -554.0,
+      "price": 432000.0,
+      "avg_score": 41.4
+    }
+  ],
+  "pattern_analysis": {
+    "zero_changes_in_top20": 8,
+    "large_positive_in_top20": 3,
+    "large_negative_in_top20": 6,
+    "padded_scores_in_top20": 4
+  }
+}
