@@ -40,4 +40,34 @@
     background-color: #1f2937;
     border-radius: 0.5rem;
   }
+
+  /* Touch-friendly interactions */
+  .touch-manipulation {
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
+  }
+}
+
+@layer utilities {
+  /* Neon glow effects */
+  .neon-glow-blue {
+    box-shadow: 0 0 15px rgba(59, 130, 246, 0.5);
+  }
+
+  .neon-glow-red {
+    box-shadow: 0 0 15px rgba(239, 68, 68, 0.5);
+  }
+
+  .neon-glow-green {
+    box-shadow: 0 0 15px rgba(34, 197, 94, 0.5);
+  }
+
+  .neon-glow-yellow {
+    box-shadow: 0 0 15px rgba(234, 179, 8, 0.5);
+  }
+
+  /* Smooth transitions */
+  .smooth-transition {
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
 }
