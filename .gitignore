@@ -88,3 +88,7 @@ afl_fantasy_team_data.json
 *.tar.gz
 *.tar
 database_export/**
+
+# Placeholder icon files (to be replaced with real assets)
+public/icons/icon-192x192.png
+public/icons/icon-512x512.png
