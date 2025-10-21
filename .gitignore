@@ -80,6 +80,15 @@ user_team.json
 player_data.json
 afl_fantasy_team_data.json
 
+# Keep example/template files
+!user_team.example.json
+!player_data.example.json*.tar.gz
+
+# Archive files (prevent large backups)
+*.tar.gz
+*.tar
+database_export/**
+
 
 # Placeholder icon files (to be replaced with real assets)
 public/icons/icon-192x192.png
