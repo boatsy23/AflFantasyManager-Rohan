@@ -1,10 +1,6 @@
 /**
  * Creates a debounced function that delays invoking func until after wait milliseconds
  * have elapsed since the last time the debounced function was invoked.
- * 
- * @param func - The function to debounce
- * @param wait - The number of milliseconds to delay
- * @returns The debounced function
  */
 export function debounce<T extends (...args: any[]) => any>(
   func: T,
@@ -19,7 +15,7 @@ export function debounce<T extends (...args: any[]) => any>(
     };
 
     if (timeout !== null) {
-      clearTimeout(timeout);
+      clearTimeout(timeout as ReturnType<typeof setTimeout>);
     }
     timeout = setTimeout(later, wait);
   };
