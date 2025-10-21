@@ -1,3 +1,5 @@
+export const isClient = typeof window !== 'undefined';
+export const isServer = !isClient;
 /**
  * Check if code is running on the client side (browser)
  * Useful for preventing SSR errors with browser-specific APIs
