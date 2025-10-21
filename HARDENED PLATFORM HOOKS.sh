@@ -1,6 +1,6 @@
 #!/bin/bash
 set -euo pipefail
-echo "🎯 SCRIPT 2: HARDENED PLATFORM HOOK WITH DEBOUNCE"
+echo "🎯 SCRIPT 2: HARDENED PLATFORM HOOKS WITH DEBOUNCE"
 
 # Create platform detection hook with SSR safety and debouncing
 cat > client/src/hooks/platform/use-platform.ts << 'EOF'
@@ -128,4 +128,4 @@ export const useTouchOptimization = () => {
 };
 EOF
 
-echo "✅ Hardened platform hook created"
+echo "✅ Hardened platform hooks created"
