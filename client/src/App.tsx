@@ -17,6 +17,7 @@ import TeamPage from "@/pages/team-page";
 import UserProfile from "@/pages/profile";
 import TradeAnalyzer from "@/pages/trade-analyzer";
 import PreviewTool from "@/pages/preview-tool";
+import { ErrorBoundary } from "@/components/error/ErrorBoundary";
 
 function MainLayout({ children }: { children: React.ReactNode }) {
   const isMobile = useIsMobile();
@@ -94,12 +95,14 @@ function Router() {
 
 function App() {
   return (
-    <QueryClientProvider client={queryClient}>
-      <TooltipProvider>
-        <Toaster />
-        <Router />
-      </TooltipProvider>
-    </QueryClientProvider>
+    <ErrorBoundary>
+      <QueryClientProvider client={queryClient}>
+        <TooltipProvider>
+          <Toaster />
+          <Router />
+        </TooltipProvider>
+      </QueryClientProvider>
+    </ErrorBoundary>
   );
 }
 
