@@ -1,213 +1,127 @@
 #!/bin/bash
 set -euo pipefail
-echo "🎯 SCRIPT 3: HARDENED RESPONSIVE COMPONENTS"
+echo "🎯 SCRIPT 4: HARDENED ERROR HANDLING"
 
-# Create fallback button component if shadcn not available
-if [ ! -f "client/src/components/ui/button.tsx" ]; then
-    echo "🔧 Creating fallback button component..."
-    mkdir -p client/src/components/ui
-    cat > client/src/components/ui/button.tsx << 'EOF'
+# Create error boundary with proper TypeScript
+cat > client/src/components/error/ErrorBoundary.tsx << 'EOF'
 import React from 'react';
 
-export interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
-  variant?: 'default' | 'secondary' | 'outline';
-  size?: 'default' | 'sm' | 'lg';
-}
-
-export const Button: React.FC<ButtonProps> = ({ 
-  className = '', 
-  variant = 'default',
-  size = 'default',
-  ...props 
-}) => {
-  const baseClasses = 'inline-flex items-center justify-center rounded-md text-sm font-medium transition-colors focus-visible:outline-none disabled:opacity-50 disabled:pointer-events-none';
-  const variantClasses = {
-    default: 'bg-blue-600 text-white hover:bg-blue-700',
-    secondary: 'bg-gray-200 text-gray-900 hover:bg-gray-300',
-    outline: 'border border-gray-300 hover:bg-gray-50'
-  };
-  const sizeClasses = {
-    default: 'h-10 py-2 px-4',
-    sm: 'h-9 px-3',
-    lg: 'h-11 px-8'
-  };
-
-  return (
-    <button 
-      className={`${baseClasses} ${variantClasses[variant]} ${sizeClasses[size]} ${className}`}
-      {...props}
-    />
-  );
-};
-EOF
-fi
-
-# Create responsive container
-cat > client/src/components/responsive/ResponsiveContainer.tsx << 'EOF'
-import React from 'react';
-import { usePlatform } from '@/hooks/platform/use-platform';
-
-interface ResponsiveContainerProps {
+interface ErrorBoundaryProps {
   children: React.ReactNode;
-  mobileClass?: string;
-  tabletClass?: string;
-  desktopClass?: string;
-  className?: string;
+  fallback?: React.ComponentType<{ error: Error; resetError: () => void }>;
 }
 
-export const ResponsiveContainer: React.FC<ResponsiveContainerProps> = ({
-  children,
-  mobileClass = '',
-  tabletClass = '',
-  desktopClass = '',
-  className = '',
-}) => {
-  const { platform } = usePlatform();
-
-  const platformClass = {
-    mobile: mobileClass,
-    tablet: tabletClass,
-    desktop: desktopClass,
-  }[platform];
-
-  return <div className={`${className} ${platformClass}`}>{children}</div>;
-};
-EOF
-
-# Create touch-optimized button with accessibility
-cat > client/src/components/responsive/TouchButton.tsx << 'EOF'
-import React from 'react';
-import { Button, ButtonProps } from '@/components/ui/button';
-import { useTouchOptimization } from '@/hooks/platform/use-touch-optimization';
-
-interface TouchButtonProps extends ButtonProps {
-  touchSize?: 'sm' | 'md' | 'lg';
-  label: string;
+interface ErrorBoundaryState {
+  hasError: boolean;
+  error: Error | null;
 }
 
-export const TouchButton: React.FC<TouchButtonProps> = ({
-  touchSize = 'md',
-  className = '',
-  label,
-  children,
-  ...props
-}) => {
-  const { getTouchClass, getAriaProps } = useTouchOptimization();
-
-  return (
-    <Button
-      className={getTouchClass(className)}
-      {...getAriaProps(label)}
-      {...props}
-    >
-      {children}
-    </Button>
-  );
-};
-EOF
-
-# Create responsive data table with accessibility
-cat > client/src/components/responsive/ResponsiveDataTable.tsx << 'EOF'
-import React from 'react';
-import { usePlatform } from '@/hooks/platform/use-platform';
-
-interface Column {
-  key: string;
-  label: string;
-  mobileHidden?: boolean;
-}
-
-interface ResponsiveDataTableProps {
-  data: any[];
-  columns: Column[];
-  keyField: string;
-  onRowClick?: (row: any) => void;
-  className?: string;
-}
-
-export const ResponsiveDataTable: React.FC<ResponsiveDataTableProps> = ({
-  data,
-  columns,
-  keyField,
-  onRowClick,
-  className = '',
-}) => {
-  const { platform } = usePlatform();
-
-  if (platform === 'mobile') {
-    return <MobileDataView data={data} columns={columns} keyField={keyField} onRowClick={onRowClick} />;
+export class ErrorBoundary extends React.Component<ErrorBoundaryProps, ErrorBoundaryState> {
+  constructor(props: ErrorBoundaryProps) {
+    super(props);
+    this.state = { hasError: false, error: null };
   }
 
-  const visibleColumns = columns.filter(col => !col.mobileHidden);
+  static getDerivedStateFromError(error: Error): ErrorBoundaryState {
+    return { hasError: true, error };
+  }
 
+  componentDidCatch(error: Error, errorInfo: React.ErrorInfo) {
+    console.error('Error caught by boundary:', error, errorInfo);
+  }
+
+  resetError = () => {
+    this.setState({ hasError: false, error: null });
+  };
+
+  render() {
+    if (this.state.hasError) {
+      const FallbackComponent = this.props.fallback || DefaultErrorFallback;
+      return <FallbackComponent error={this.state.error!} resetError={this.resetError} />;
+    }
+
+    return this.props.children;
+  }
+}
+
+const DefaultErrorFallback: React.FC<{ error: Error; resetError: () => void }> = ({ 
+  error, 
+  resetError 
+}) => {
   return (
-    <div className={`border rounded-lg ${className}`}>
-      <table className="w-full">
-        <thead>
-          <tr className="border-b">
-            {visibleColumns.map((column) => (
-              <th key={column.key} className="text-left p-3 font-medium">
-                {column.label}
-              </th>
-            ))}
-          </tr>
-        </thead>
-        <tbody>
-          {data.map((row) => (
-            <tr 
-              key={row[keyField]} 
-              className="border-b hover:bg-gray-50 cursor-pointer"
-              onClick={() => onRowClick?.(row)}
-              tabIndex={0}
-              role="button"
-              aria-label={`View details for ${row.name || 'item'}`}
-              onKeyPress={(e) => e.key === 'Enter' && onRowClick?.(row)}
-            >
-              {visibleColumns.map((column) => (
-                <td key={column.key} className="p-3">
-                  {row[column.key]}
-                </td>
-              ))}
-            </tr>
-          ))}
-        </tbody>
-      </table>
-    </div>
-  );
-};
-
-const MobileDataView: React.FC<ResponsiveDataTableProps> = ({ data, columns, keyField, onRowClick }) => {
-  const visibleColumns = columns.filter(col => !col.mobileHidden);
-
-  return (
-    <div className="space-y-3">
-      {data.map((row) => (
-        <div 
-          key={row[keyField]} 
-          className="border rounded-lg p-4 hover:border-blue-500 cursor-pointer"
-          onClick={() => onRowClick?.(row)}
-          tabIndex={0}
-          role="button"
-          aria-label={`View details for ${row.name || 'item'}`}
-          onKeyPress={(e) => e.key === 'Enter' && onRowClick?.(row)}
-        >
-          <div className="space-y-2">
-            {visibleColumns.map((column) => (
-              <div key={column.key} className="flex justify-between items-center">
-                <span className="text-sm font-medium text-gray-600">
-                  {column.label}:
-                </span>
-                <span className="text-sm">
-                  {row[column.key]}
-                </span>
-              </div>
-            ))}
-          </div>
+    <div className="flex items-center justify-center min-h-[200px] p-6">
+      <div className="text-center max-w-md">
+        <div className="w-12 h-12 mx-auto mb-4 bg-red-100 rounded-full flex items-center justify-center">
+          <svg className="w-6 h-6 text-red-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
+          </svg>
         </div>
-      ))}
+        <h3 className="text-lg font-semibold mb-2">Something went wrong</h3>
+        <p className="text-gray-600 mb-4">Please try refreshing the page.</p>
+        <button
+          onClick={resetError}
+          className="px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700"
+        >
+          Try Again
+        </button>
+      </div>
     </div>
   );
 };
 EOF
 
-echo "✅ Hardened responsive components created"
+# Create tool-specific error boundary
+cat > client/src/components/error/ToolErrorBoundary.tsx << 'EOF'
+import React from 'react';
+import { ErrorBoundary } from './ErrorBoundary';
+
+interface ToolErrorBoundaryProps {
+  children: React.ReactNode;
+  toolName: string;
+}
+
+const ToolErrorFallback: React.FC<{ error: Error; resetError: () => void; toolName: string }> = ({ 
+  error, 
+  resetError,
+  toolName 
+}) => {
+  return (
+    <div className="p-4 border border-orange-200 bg-orange-50 rounded-lg">
+      <div className="flex items-start gap-3">
+        <div className="w-8 h-8 bg-orange-100 rounded-full flex items-center justify-center flex-shrink-0">
+          <svg className="w-4 h-4 text-orange-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
+          </svg>
+        </div>
+        <div className="flex-1">
+          <h4 className="font-medium text-orange-800">{toolName} unavailable</h4>
+          <p className="text-sm text-orange-700 mt-1">Please try again later.</p>
+          <button
+            onClick={resetError}
+            className="mt-3 px-3 py-1.5 text-sm bg-orange-100 text-orange-700 rounded-md border border-orange-200 hover:bg-orange-200"
+          >
+            Retry
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export const ToolErrorBoundary: React.FC<ToolErrorBoundaryProps> = ({ 
+  children, 
+  toolName 
+}) => {
+  return (
+    <ErrorBoundary
+      fallback={({ error, resetError }) => (
+        <ToolErrorFallback error={error} resetError={resetError} toolName={toolName} />
+      )}
+    >
+      {children}
+    </ErrorBoundary>
+  );
+};
+EOF
+
+echo "✅ Hardened error handling implemented"
