@@ -1,0 +1,18 @@
+{
+  "processing_timestamp": "20250720_204512",
+  "total_enhanced_players": 654,
+  "dfs_individual_files": 601,
+  "keeper_files": 24,
+  "round13_sheets": 1,
+  "data_sources_available": [
+    "dfs_individual",
+    "keeper_scraper",
+    "round13_live"
+  ],
+  "files_created": [
+    "player_data_enhanced_20250720_204512.json",
+    "dfs_individual_data_20250720_204512.json",
+    "keeper_data_20250720_204512.json",
+    "round13_live_20250720_204512.json"
+  ]
+}
