@@ -8,3 +8,7 @@ createRoot(document.getElementById("root")!).render(
     <App />
   </ThemeProvider>
 );
+
+// Register Service Worker for PWA
+import { registerServiceWorker } from '@/lib/pwa/register-service-worker';
+registerServiceWorker();
