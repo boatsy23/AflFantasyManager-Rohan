@@ -17,6 +17,7 @@ import TeamPage from "@/pages/team-page";
 import UserProfile from "@/pages/profile";
 import TradeAnalyzer from "@/pages/trade-analyzer";
 import PreviewTool from "@/pages/preview-tool";
+import HardenedDemo from "@/pages/hardened-demo";
 import { ErrorBoundary } from "@/components/error/ErrorBoundary";
 
 function MainLayout({ children }: { children: React.ReactNode }) {
@@ -88,6 +89,7 @@ function Router() {
           <PreviewTool />
         </MainLayout>
       )} />
+      <Route path="/hardened-demo" component={HardenedDemo} />
       <Route component={NotFound} />
     </Switch>
   );
