@@ -6,20 +6,30 @@ export type Breakpoint = 'xs' | 'sm' | 'md' | 'lg' | 'xl' | '2xl';
 
 const breakpoints = { xs: 480, sm: 768, md: 1024, lg: 1280, xl: 1536, '2xl': 1920 };
 
+// Helper to get breakpoint from width
+function getBreakpointFromWidth(width: number): Breakpoint {
+  if (width < breakpoints.xs) return 'xs';
+  else if (width < breakpoints.sm) return 'sm';
+  else if (width < breakpoints.md) return 'md';
+  else if (width < breakpoints.lg) return 'lg';
+  else if (width < breakpoints.xl) return 'xl';
+  else return '2xl';
+}
+
 export const useBreakpoint = (): Breakpoint => {
-  const [breakpoint, setBreakpoint] = useState<Breakpoint>('lg');
+  const [breakpoint, setBreakpoint] = useState<Breakpoint>(() => {
+    if (isClient && typeof window !== 'undefined' && typeof window.innerWidth === 'number') {
+      return getBreakpointFromWidth(window.innerWidth);
+    }
+    return 'xs'; // mobile-first default
+  });
 
   useEffect(() => {
     if (!isClient) return;
 
     const checkBreakpoint = () => {
       const width = window.innerWidth;
-      if (width < breakpoints.xs) setBreakpoint('xs');
-      else if (width < breakpoints.sm) setBreakpoint('sm');
-      else if (width < breakpoints.md) setBreakpoint('md');
-      else if (width < breakpoints.lg) setBreakpoint('lg');
-      else if (width < breakpoints.xl) setBreakpoint('xl');
-      else setBreakpoint('2xl');
+      setBreakpoint(getBreakpointFromWidth(width));
     };
 
     const debouncedResize = debounce(checkBreakpoint, 150);
