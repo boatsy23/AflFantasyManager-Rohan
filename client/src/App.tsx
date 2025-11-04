@@ -17,6 +17,9 @@ import TeamPage from "@/pages/team-page";
 import UserProfile from "@/pages/profile";
 import TradeAnalyzer from "@/pages/trade-analyzer";
 import PreviewTool from "@/pages/preview-tool";
+import { ErrorBoundary } from "@/components/error/ErrorBoundary";
+import { useEffect } from "react";
+import { registerServiceWorker } from "@/lib/pwa/register-service-worker";
 
 function MainLayout({ children }: { children: React.ReactNode }) {
   const isMobile = useIsMobile();
@@ -92,14 +95,28 @@ function Router() {
   );
 }
 
+function PWAProvider({ children }: { children: React.ReactNode }) {
+  useEffect(() => {
+    if (process.env.NODE_ENV === 'production') {
+      registerServiceWorker();
+    }
+  }, []);
+
+  return <>{children}</>;
+}
+
 function App() {
   return (
-    <QueryClientProvider client={queryClient}>
-      <TooltipProvider>
-        <Toaster />
-        <Router />
-      </TooltipProvider>
-    </QueryClientProvider>
+    <ErrorBoundary>
+      <QueryClientProvider client={queryClient}>
+        <PWAProvider>
+          <TooltipProvider>
+            <Toaster />
+            <Router />
+          </TooltipProvider>
+        </PWAProvider>
+      </QueryClientProvider>
+    </ErrorBoundary>
   );
 }
 
