@@ -20,7 +20,10 @@ export const TouchButton: React.FC<TouchButtonProps> = ({
   return (
     <Button
       className={getTouchClass(className)}
-      {...getAriaProps(label)}
+      {...(() => {
+        const { role, ...ariaProps } = getAriaProps(label);
+        return ariaProps;
+      })()}
       {...props}
     >
       {children}
