@@ -8,12 +8,12 @@ const breakpoints = { xs: 480, sm: 768, md: 1024, lg: 1280, xl: 1536, '2xl': 192
 
 // Helper to get breakpoint from width
 function getBreakpointFromWidth(width: number): Breakpoint {
-  if (width < breakpoints.xs) return 'xs';
-  else if (width < breakpoints.sm) return 'sm';
-  else if (width < breakpoints.md) return 'md';
-  else if (width < breakpoints.lg) return 'lg';
-  else if (width < breakpoints.xl) return 'xl';
-  else return '2xl';
+  if (width >= breakpoints['2xl']) return '2xl';
+  else if (width >= breakpoints.xl) return 'xl';
+  else if (width >= breakpoints.lg) return 'lg';
+  else if (width >= breakpoints.md) return 'md';
+  else if (width >= breakpoints.sm) return 'sm';
+  else return 'xs';
 }
 
 export const useBreakpoint = (): Breakpoint => {
