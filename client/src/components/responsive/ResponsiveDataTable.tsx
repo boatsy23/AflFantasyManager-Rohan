@@ -28,7 +28,9 @@ export const ResponsiveDataTable: React.FC<ResponsiveDataTableProps> = ({
     return <MobileDataView data={data} columns={columns} keyField={keyField} onRowClick={onRowClick} />;
   }
 
-  const visibleColumns = columns.filter(col => !col.mobileHidden);
+  const visibleColumns = platform === 'mobile'
+    ? columns.filter(col => !col.mobileHidden)
+    : columns;
 
   return (
     <div className={`border rounded-lg ${className}`}>
