@@ -45,7 +45,7 @@ import BottomNav from "@/components/layout/bottom-nav";
 // Hooks
 import { useIsMobile } from "@/hooks/use-mobile";
 
-// Pages (11 total)
+// Pages (12 total)
 import Dashboard from "@/pages/dashboard";
 import Lineup from "@/pages/lineup";
 import Leagues from "@/pages/leagues";
