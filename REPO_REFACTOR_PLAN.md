@@ -31,7 +31,7 @@ Files containing **potentially fabricated code** (fake APIs, Champion Data refer
 | `backend/src/utils/afl-dashboard-data.ts` | ⚠️ References `https://fantasy.afl.com.au` API endpoints that may not be real/accessible | **REVIEW** - Verify these endpoints exist |
 | `client/src/pages/profile.tsx` | ⚠️ All profile data is hardcoded placeholder (`username: "test"`, `email: "user@example.com"`) | **FLAG** - No real backend storage |
 | `client/src/pages/preview-tool.tsx` | ⚠️ Empty placeholder page - "No tools to preview at the moment" | **DELETE** - Serves no purpose |
-| `client/src/pages/hardened-demo.tsx` | ⚠️ Demo page with fake data (`Player 1`, `Team A`) | **REVIEW** - May be useful for testing only |
+| `client/src/pages/hardened-demo.tsx` | ⚠️ Demo page with fake data (`Player 1`, `Team A`) - Replit attempt at PWA/TWA with responsive touch functions | **DELETE** - Replit generated nonsense |
 | `client/src/pages/fantasy-tools.tsx` | 🚫 **NOT IN APP.TSX** - References `/api/fantasy/tools` which may not exist | **DELETE** - Redundant |
 
 ---
@@ -243,7 +243,7 @@ client/src/components/
 | CategoryHeaderMapper | `client/src/components/player-stats/category-header-mapper.ts` | stats.tsx | ✅ Verified (types/config) |
 | PlayerTable | `client/src/components/player-stats/player-table.tsx` | lineup.tsx (Player type) | ✅ Verified |
 | PlayerTypes | `client/src/components/player-stats/player-types.ts` | lineup.tsx | ✅ Verified (types) |
-| StatsKey | `client/src/components/player-stats/stats-key.tsx` | - | ⚠️ NOT USED - redundant |
+| StatsKey | `client/src/components/player-stats/stats-key.tsx` | - | ⚠️ NOT USED - redundant (CollapsibleStatsKey is the working version) |
 | ScoreBreakdownModule | `client/src/components/player-stats/score-breakdown-module.tsx` | - | ⚠️ NOT USED - redundant |
 
 ### Lineup Components ✅
@@ -380,16 +380,16 @@ Located at: `client/src/components/ui/` - **Standard library, auto-verified**
 
 ### 🚨 Redundant Components Identified in Phase 2
 
-| Component | Location | Reason |
-|-----------|----------|--------|
-| StatsKey | `player-stats/stats-key.tsx` | Not imported anywhere |
-| ScoreBreakdownModule | `player-stats/score-breakdown-module.tsx` | Not imported anywhere |
-| ResponsiveContainer | `responsive/ResponsiveContainer.tsx` | Only in flagged demo page |
-| ResponsiveDataTable | `responsive/ResponsiveDataTable.tsx` | Only in flagged demo page |
-| TouchButton | `responsive/TouchButton.tsx` | Only in flagged demo page |
-| ComplianceFooter | `layout/ComplianceFooter.tsx` | Only in flagged demo page |
-| ToolErrorBoundary | `error/ToolErrorBoundary.tsx` | Only in flagged demo page |
-| ~25 UI components | `ui/` folder | May be unused Shadcn templates |
+| Component | Location | Reason | Notes |
+|-----------|----------|--------|-------|
+| StatsKey | `player-stats/stats-key.tsx` | Not imported anywhere | ✅ **Verified**: `CollapsibleStatsKey` is the working version (imported in stats.tsx). This standalone version is redundant. Both translate abbreviations to full words. |
+| ScoreBreakdownModule | `player-stats/score-breakdown-module.tsx` | Not imported anywhere | Not used in any page |
+| ResponsiveContainer | `responsive/ResponsiveContainer.tsx` | Only in flagged demo page | Part of PWA/TWA attempt - Replit generated nonsense for responsive touch functions |
+| ResponsiveDataTable | `responsive/ResponsiveDataTable.tsx` | Only in flagged demo page | Part of PWA/TWA attempt - Replit generated nonsense for responsive touch functions |
+| TouchButton | `responsive/TouchButton.tsx` | Only in flagged demo page | Part of PWA/TWA attempt - Replit generated nonsense for responsive touch functions |
+| ComplianceFooter | `layout/ComplianceFooter.tsx` | Only in flagged demo page | Only used in `hardened-demo.tsx` |
+| ToolErrorBoundary | `error/ToolErrorBoundary.tsx` | Only in flagged demo page | Only used in `hardened-demo.tsx` |
+| ~25 UI components | `ui/` folder | May be unused Shadcn templates | Need detailed audit to determine which are truly unused |
 
 ---
 
