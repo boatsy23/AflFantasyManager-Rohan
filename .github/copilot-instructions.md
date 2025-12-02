@@ -21,9 +21,12 @@ This is an AFL Fantasy Manager application that helps users manage their AFL Fan
 │   ├── lib/             # Utility libraries
 │   ├── pages/           # Page components
 │   └── utils/           # Utility functions
-├── server/              # Entry point (proxy to public/server)
-├── public/server/       # Express backend
-│   ├── routes/          # API route handlers
+├── backend/             # Backend implementation
+│   └── src/
+│       ├── routes/      # API route handlers
+│       ├── services/    # Business logic services
+│       └── utils/       # Backend utilities
+├── public/server/       # Entry point (proxy to backend)
 │   └── data/            # Server data files
 ├── shared/              # Shared code (database schema)
 │   └── schema.ts        # Drizzle ORM schema definitions
