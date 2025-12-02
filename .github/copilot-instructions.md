@@ -60,6 +60,7 @@ This is an AFL Fantasy Manager application that helps users manage their AFL Fan
 ## Path Aliases
 - `@/*` → `./client/src/*`
 - `@shared/*` → `./shared/*`
+- `@assets/*` → `./attached_assets/*`
 
 ## Build and Development Commands
 - `npm run dev` - Start development server
