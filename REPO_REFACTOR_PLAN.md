@@ -1,6 +1,7 @@
 # Repository Refactor Plan
 **Generated from App.tsx Analysis**  
-**Date:** December 2, 2025
+**Date:** December 2, 2025  
+**Last Updated:** December 2, 2025 - Phase 1 Complete
 
 ---
 
@@ -8,11 +9,30 @@
 
 This document provides a comprehensive, phased plan for verifying and refactoring the AFL Fantasy Manager repository. It is based on **actual imports** from `client/src/App.tsx` and maps out every page, component, hook, utility, and dependency used in the application.
 
+### Key Principle
+**If it's not imported in App.tsx, treat it as redundant.** By the end of all phases, we will have a clear outline of what is used, what isn't used, what is broken, and what is working.
+
 ### Purpose
 1. Create a verified inventory of **what is actually being used**
 2. Provide a to-do workflow for systematically checking imports
 3. Identify naming inconsistencies, broken paths, and unused files
-4. Enable safe cleanup and restructuring
+4. **Flag fabricated/placeholder code** - especially Champion Data references, fake APIs, non-public AFL.com.au APIs
+5. Enable safe cleanup and restructuring
+
+---
+
+## 🚨 FLAGGED FILES FOR REVIEW
+
+Files containing **potentially fabricated code** (fake APIs, Champion Data references, placeholder data):
+
+| File | Issue | Recommendation |
+|------|-------|----------------|
+| `backend/src/routes/champion-data-routes.ts` | 🚫 **Champion Data API** - Champion Data only supplies statistics to AFL and partners, no public API | **DELETE** - Stubbed out, returns fake data |
+| `backend/src/utils/afl-dashboard-data.ts` | ⚠️ References `https://fantasy.afl.com.au` API endpoints that may not be real/accessible | **REVIEW** - Verify these endpoints exist |
+| `client/src/pages/profile.tsx` | ⚠️ All profile data is hardcoded placeholder (`username: "test"`, `email: "user@example.com"`) | **FLAG** - No real backend storage |
+| `client/src/pages/preview-tool.tsx` | ⚠️ Empty placeholder page - "No tools to preview at the moment" | **DELETE** - Serves no purpose |
+| `client/src/pages/hardened-demo.tsx` | ⚠️ Demo page with fake data (`Player 1`, `Team A`) | **REVIEW** - May be useful for testing only |
+| `client/src/pages/fantasy-tools.tsx` | 🚫 **NOT IN APP.TSX** - References `/api/fantasy/tools` which may not exist | **DELETE** - Redundant |
 
 ---
 
@@ -62,37 +82,89 @@ import NotFound from "@/pages/not-found";
 
 ---
 
-## 📄 PHASE 1: Verify Pages
+## 📄 PHASE 1: Verify Pages ✅ COMPLETE
 
-**Goal:** Confirm all 12 pages imported in App.tsx exist and have correct imports.
+**Goal:** Confirm all 12 pages imported in App.tsx exist and analyze their imports.
 
-### Pages Checklist
+### Pages Verification Results
 
-| # | Page Component | File Path | Route | Status |
-|---|----------------|-----------|-------|--------|
-| 1 | Dashboard | `client/src/pages/dashboard.tsx` | `/` | ⬜ To verify |
-| 2 | PlayerStats | `client/src/pages/player-stats.tsx` | `/player-stats` | ⬜ To verify |
-| 3 | Lineup | `client/src/pages/lineup.tsx` | `/lineup` | ⬜ To verify |
-| 4 | Leagues | `client/src/pages/leagues.tsx` | `/leagues` | ⬜ To verify |
-| 5 | Stats | `client/src/pages/stats.tsx` | `/stats` | ⬜ To verify |
-| 6 | UserProfile | `client/src/pages/profile.tsx` | `/profile` | ⬜ To verify |
-| 7 | TradeAnalyzer | `client/src/pages/trade-analyzer.tsx` | `/trade-analyzer` | ⬜ To verify |
-| 8 | ToolsAccordion | `client/src/pages/tools-accordion.tsx` | `/tools-accordion` | ⬜ To verify |
-| 9 | TeamPage | `client/src/pages/team-page.tsx` | `/team` | ⬜ To verify |
-| 10 | PreviewTool | `client/src/pages/preview-tool.tsx` | `/preview-tool` | ⬜ To verify |
-| 11 | HardenedDemo | `client/src/pages/hardened-demo.tsx` | `/hardened-demo` | ⬜ To verify |
-| 12 | NotFound | `client/src/pages/not-found.tsx` | (catch-all) | ⬜ To verify |
+| # | Page Component | File Path | Route | Status | Notes |
+|---|----------------|-----------|-------|--------|-------|
+| 1 | Dashboard | `client/src/pages/dashboard.tsx` | `/` | ✅ Exists | Uses `/api/team/fantasy-data` API - needs backend verification |
+| 2 | PlayerStats | `client/src/pages/player-stats.tsx` | `/player-stats` | ✅ Exists | Uses `/api/master-stats/players` API |
+| 3 | Lineup | `client/src/pages/lineup.tsx` | `/lineup` | ✅ Exists | Uses `/api/team/lineup`, `/api/scrape-team` APIs |
+| 4 | Leagues | `client/src/pages/leagues.tsx` | `/leagues` | ✅ Exists | Uses `/api/leagues/user/1` - **hardcoded user ID** |
+| 5 | Stats | `client/src/pages/stats.tsx` | `/stats` | ✅ Exists | Uses legacy import `@/legacy/new-player-stats` |
+| 6 | UserProfile | `client/src/pages/profile.tsx` | `/profile` | ⚠️ **FLAGGED** | All data is hardcoded placeholder, no API calls |
+| 7 | TradeAnalyzer | `client/src/pages/trade-analyzer.tsx` | `/trade-analyzer` | ✅ Exists | Simple wrapper for trade-analyzer component |
+| 8 | ToolsAccordion | `client/src/pages/tools-accordion.tsx` | `/tools-accordion` | ✅ Exists | Imports many tool components - needs verification |
+| 9 | TeamPage | `client/src/pages/team-page.tsx` | `/team` | ✅ Exists | Mentions FootyWire and DFS Australia data sources |
+| 10 | PreviewTool | `client/src/pages/preview-tool.tsx` | `/preview-tool` | ⚠️ **FLAGGED** | Empty placeholder - no functionality |
+| 11 | HardenedDemo | `client/src/pages/hardened-demo.tsx` | `/hardened-demo` | ⚠️ **FLAGGED** | Demo page with fake sample data |
+| 12 | NotFound | `client/src/pages/not-found.tsx` | (catch-all) | ✅ Exists | Standard 404 page |
 
-### Unused Pages (found in folder but not in App.tsx)
-- `client/src/pages/fantasy-tools.tsx` - ⚠️ Not imported in App.tsx
+### Redundant Pages (NOT in App.tsx - recommend DELETE)
 
-### Verification Workflow for Each Page:
-1. ☐ Open page file
-2. ☐ Record all imports with full paths
-3. ☐ Verify each imported component/hook/util exists
-4. ☐ Note any `@/` alias usages
-5. ☐ Check for TypeScript errors
-6. ☐ Document any broken/missing imports
+| File | Reason for Redundancy |
+|------|----------------------|
+| `client/src/pages/fantasy-tools.tsx` | Not imported in App.tsx, references unknown API `/api/fantasy/tools` |
+
+### Legacy Files (in `client/src/legacy/`)
+
+| File | Used By | Action |
+|------|---------|--------|
+| `new-player-stats.tsx` | `stats.tsx` | **KEEP** - actively used |
+| `services/teamService.ts` | `lineup.tsx` | **KEEP** - actively used |
+| `App.tsx.bak` | Nothing | **DELETE** - backup file |
+| `heat-map-view.tsx.rollback` | Nothing | **DELETE** - rollback file |
+| `player-stats-redesign.tsx` | Nothing | **REVIEW** - may be unused |
+| `stats.tsx.fixed` | Nothing | **DELETE** - fixed version backup |
+
+### Page Import Analysis
+
+#### dashboard.tsx
+- **Components**: `@/components/dashboard/score-card`, `@/components/dashboard/performance-chart`, `@/components/dashboard/team-structure`
+- **Utils**: `@/utils` (calculatePlayerTypesByPosition, categorizePlayersByPrice)
+- **API**: `/api/team/fantasy-data`
+
+#### player-stats.tsx  
+- **Components**: `@/components/player-stats/simple-player-table`, `@/components/ui/alert`
+- **API**: `/api/master-stats/players`
+
+#### lineup.tsx
+- **Components**: `@/components/lineup/team-summary-new`, `@/components/lineup/team-summary-grid`, `@/components/lineup/team-lineup`, `@/components/player-stats/player-detail-modal`, `@/components/tools/trade/trade-calculator-modal`
+- **Legacy**: `@/legacy/services/teamService`
+- **API**: `/api/team/lineup`, `/api/scrape-team`, `/api/team/fantasy-data/roles`
+
+#### leagues.tsx
+- **Components**: `@/components/leagues/league-ladder`, `@/components/leagues/live-matchups`, `@/components/leagues/leagues-list`
+- **API**: `/api/leagues/user/1` (⚠️ hardcoded user ID), `/api/leagues/{id}/teams`, `/api/leagues/{id}/matchups/{round}`
+
+#### stats.tsx
+- **Components**: Many UI components, `@/components/player-stats/*`
+- **Legacy**: `@/legacy/new-player-stats`
+- **API**: `/api/master-stats/players`, `/api/score-projection/all-players`, `/api/stats/dvp-matrix`
+
+#### profile.tsx ⚠️ FLAGGED
+- **No API calls** - all data hardcoded
+- Placeholder values: `username: "test"`, `email: "user@example.com"`, `teamName: "Bont's Brigade"`
+
+#### trade-analyzer.tsx
+- **Components**: `@/components/tools/trade/trade-analyzer`
+
+#### tools-accordion.tsx
+- **Components**: Many tool imports from `@/components/tools/captain`, `@/components/tools/cash`, `@/components/tools/risk`, `@/components/tools/team-manager`, `@/components/tools/fixture`
+
+#### team-page.tsx
+- **Components**: `@/components/tools/trade/team-uploader`
+- **Note**: Mentions "FootyWire and DFS Australia" data sources
+
+#### preview-tool.tsx ⚠️ FLAGGED
+- Empty placeholder - just returns "No tools to preview at the moment"
+
+#### hardened-demo.tsx ⚠️ FLAGGED
+- Demo page with hardcoded sample data (`Player 1`, `Team A`, etc.)
+- Uses responsive/platform detection hooks
 
 ---
 
