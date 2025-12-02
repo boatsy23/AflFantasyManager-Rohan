@@ -1,7 +1,7 @@
 # Repository Refactor Plan
 **Generated from App.tsx Analysis**  
 **Date:** December 2, 2025  
-**Last Updated:** December 2, 2025 - Phase 1 Complete
+**Last Updated:** December 2, 2025 - Phase 2 Complete
 
 ---
 
@@ -168,7 +168,7 @@ import NotFound from "@/pages/not-found";
 
 ---
 
-## 📦 PHASE 2: Verify Components
+## 📦 PHASE 2: Verify Components ✅ COMPLETE
 
 **Goal:** Map all components used across pages and verify their locations.
 
@@ -176,207 +176,220 @@ import NotFound from "@/pages/not-found";
 
 ```
 client/src/components/
-├── dashboard/           # Dashboard page components
-├── error/              # Error boundary components
-├── layout/             # Header, BottomNav, ComplianceFooter
-├── leagues/            # Leagues page components
-├── lineup/             # Lineup page components
-├── player-stats/       # Player statistics components
-├── responsive/         # Responsive UI wrappers
-├── tools/              # Fantasy tools (organized by category)
-│   ├── captain/
-│   ├── cash/
-│   ├── fixture/
-│   ├── risk/
-│   ├── team-manager/
-│   └── trade/
-└── ui/                 # Shadcn/UI components (50 files)
+├── dashboard/           # Dashboard page components (3 files) ✅
+├── error/              # Error boundary components (2 files) ✅
+├── layout/             # Header, BottomNav, ComplianceFooter (3 files) ✅
+├── leagues/            # Leagues page components (3 files) ✅
+├── lineup/             # Lineup page components (4 files) ✅
+├── player-stats/       # Player statistics components (12 files) ✅
+├── responsive/         # Responsive UI wrappers (3 files) - only used by flagged demo page
+├── tools/              # Fantasy tools (organized by category) ✅
+│   ├── captain/        # 3 files
+│   ├── cash/           # 7 files
+│   ├── fixture/        # 3 files
+│   ├── risk/           # 6 files
+│   ├── team-manager/   # 5 files
+│   └── trade/          # 3 files
+└── ui/                 # Shadcn/UI components (50 files) - Standard library
 ```
 
-### Layout Components Checklist
+### Phase 2 Summary
+
+| Category | Files | Used By | Status |
+|----------|-------|---------|--------|
+| Layout | 3 | App.tsx, hardened-demo.tsx | ✅ Verified |
+| Dashboard | 3 | dashboard.tsx | ✅ Verified |
+| Player Stats | 12 | player-stats.tsx, stats.tsx, lineup.tsx | ✅ Verified |
+| Lineup | 4 | lineup.tsx | ✅ Verified |
+| Leagues | 3 | leagues.tsx | ✅ Verified |
+| Error | 2 | App.tsx, hardened-demo.tsx | ✅ Verified |
+| Responsive | 3 | hardened-demo.tsx only | ⚠️ Only used by flagged page |
+| Tools - Captain | 3 | tools-accordion.tsx | ✅ Verified |
+| Tools - Cash | 7 | tools-accordion.tsx | ✅ Verified |
+| Tools - Fixture | 3 | tools-accordion.tsx | ✅ Verified |
+| Tools - Risk | 6 | tools-accordion.tsx | ✅ Verified |
+| Tools - Team Manager | 5 | tools-accordion.tsx | ✅ Verified |
+| Tools - Trade | 3 | trade-analyzer.tsx, lineup.tsx, team-page.tsx | ✅ Verified |
+| CollapsibleTool | 1 | tools-accordion.tsx | ✅ Verified |
+| UI (Shadcn) | 50 | Multiple pages | ✅ Standard library |
+
+### Layout Components ✅
 
 | Component | File Path | Used In | Status |
 |-----------|-----------|---------|--------|
-| Header | `client/src/components/layout/header.tsx` | App.tsx | ⬜ To verify |
-| BottomNav | `client/src/components/layout/bottom-nav.tsx` | App.tsx | ⬜ To verify |
-| ComplianceFooter | `client/src/components/layout/ComplianceFooter.tsx` | hardened-demo.tsx | ⬜ To verify |
+| Header | `client/src/components/layout/header.tsx` | App.tsx | ✅ Exists, working |
+| BottomNav | `client/src/components/layout/bottom-nav.tsx` | App.tsx | ✅ Exists, working |
+| ComplianceFooter | `client/src/components/layout/ComplianceFooter.tsx` | hardened-demo.tsx | ⚠️ Only in flagged demo page |
 
-### Dashboard Components Checklist
-
-| Component | File Path | Used In | Status |
-|-----------|-----------|---------|--------|
-| ScoreCard | `client/src/components/dashboard/score-card.tsx` | dashboard.tsx | ⬜ To verify |
-| PerformanceChart | `client/src/components/dashboard/performance-chart.tsx` | dashboard.tsx | ⬜ To verify |
-| TeamStructure | `client/src/components/dashboard/team-structure.tsx` | dashboard.tsx | ⬜ To verify |
-
-### Player Stats Components Checklist
+### Dashboard Components ✅
 
 | Component | File Path | Used In | Status |
 |-----------|-----------|---------|--------|
-| SimplePlayerTable | `client/src/components/player-stats/simple-player-table.tsx` | player-stats.tsx | ⬜ To verify |
-| PlayerDetailModal | `client/src/components/player-stats/player-detail-modal.tsx` | lineup.tsx, stats.tsx | ⬜ To verify |
-| DVPAnalysis | `client/src/components/player-stats/dvp-analysis.tsx` | stats.tsx | ⬜ To verify |
-| InjuryReports | `client/src/components/player-stats/injury-reports.tsx` | stats.tsx | ⬜ To verify |
-| PlayerValueAnalysis | `client/src/components/player-stats/player-value-analysis.tsx` | stats.tsx | ⬜ To verify |
-| PlayerDvpGraph | `client/src/components/player-stats/player-dvp-graph.tsx` | stats.tsx | ⬜ To verify |
-| CollapsibleStatsKey | `client/src/components/player-stats/collapsible-stats-key.tsx` | stats.tsx | ⬜ To verify |
-| CategoryHeaderMapper | `client/src/components/player-stats/category-header-mapper.ts` | stats.tsx | ⬜ To verify |
-| PlayerTable | `client/src/components/player-stats/player-table.tsx` | lineup.tsx | ⬜ To verify |
-| PlayerTypes | `client/src/components/player-stats/player-types.ts` | lineup.tsx | ⬜ To verify |
-| StatsKey | `client/src/components/player-stats/stats-key.tsx` | - | ⬜ To verify |
-| ScoreBreakdownModule | `client/src/components/player-stats/score-breakdown-module.tsx` | - | ⬜ To verify |
+| ScoreCard | `client/src/components/dashboard/score-card.tsx` | dashboard.tsx | ✅ Verified |
+| PerformanceChart | `client/src/components/dashboard/performance-chart.tsx` | dashboard.tsx | ✅ Verified |
+| TeamStructure | `client/src/components/dashboard/team-structure.tsx` | dashboard.tsx | ✅ Verified |
 
-### Lineup Components Checklist
+### Player Stats Components ✅
 
 | Component | File Path | Used In | Status |
 |-----------|-----------|---------|--------|
-| TeamSummaryNew | `client/src/components/lineup/team-summary-new.tsx` | lineup.tsx | ⬜ To verify |
-| TeamSummaryGrid | `client/src/components/lineup/team-summary-grid.tsx` | lineup.tsx | ⬜ To verify |
-| TeamLineup | `client/src/components/lineup/team-lineup.tsx` | lineup.tsx | ⬜ To verify |
-| TeamTypes | `client/src/components/lineup/team-types.ts` | teamService.ts | ⬜ To verify |
+| SimplePlayerTable | `client/src/components/player-stats/simple-player-table.tsx` | player-stats.tsx | ✅ Verified |
+| PlayerDetailModal | `client/src/components/player-stats/player-detail-modal.tsx` | lineup.tsx | ✅ Verified |
+| DVPAnalysis | `client/src/components/player-stats/dvp-analysis.tsx` | stats.tsx | ✅ Verified |
+| InjuryReports | `client/src/components/player-stats/injury-reports.tsx` | stats.tsx | ✅ Verified |
+| PlayerValueAnalysis | `client/src/components/player-stats/player-value-analysis.tsx` | stats.tsx | ✅ Verified |
+| PlayerDvpGraph | `client/src/components/player-stats/player-dvp-graph.tsx` | stats.tsx | ✅ Verified |
+| CollapsibleStatsKey | `client/src/components/player-stats/collapsible-stats-key.tsx` | stats.tsx | ✅ Verified |
+| CategoryHeaderMapper | `client/src/components/player-stats/category-header-mapper.ts` | stats.tsx | ✅ Verified (types/config) |
+| PlayerTable | `client/src/components/player-stats/player-table.tsx` | lineup.tsx (Player type) | ✅ Verified |
+| PlayerTypes | `client/src/components/player-stats/player-types.ts` | lineup.tsx | ✅ Verified (types) |
+| StatsKey | `client/src/components/player-stats/stats-key.tsx` | - | ⚠️ NOT USED - redundant |
+| ScoreBreakdownModule | `client/src/components/player-stats/score-breakdown-module.tsx` | - | ⚠️ NOT USED - redundant |
 
-### Leagues Components Checklist
-
-| Component | File Path | Used In | Status |
-|-----------|-----------|---------|--------|
-| LeagueLadder | `client/src/components/leagues/league-ladder.tsx` | leagues.tsx | ⬜ To verify |
-| LiveMatchups | `client/src/components/leagues/live-matchups.tsx` | leagues.tsx | ⬜ To verify |
-| LeaguesList | `client/src/components/leagues/leagues-list.tsx` | leagues.tsx | ⬜ To verify |
-
-### Error Components Checklist
-
-| Component | File Path | Used In | Status |
-|-----------|-----------|---------|--------|
-| ErrorBoundary | `client/src/components/error/ErrorBoundary.tsx` | App.tsx, hardened-demo.tsx | ⬜ To verify |
-| ToolErrorBoundary | `client/src/components/error/ToolErrorBoundary.tsx` | hardened-demo.tsx | ⬜ To verify |
-
-### Responsive Components Checklist
+### Lineup Components ✅
 
 | Component | File Path | Used In | Status |
 |-----------|-----------|---------|--------|
-| ResponsiveContainer | `client/src/components/responsive/ResponsiveContainer.tsx` | hardened-demo.tsx | ⬜ To verify |
-| ResponsiveDataTable | `client/src/components/responsive/ResponsiveDataTable.tsx` | hardened-demo.tsx | ⬜ To verify |
-| TouchButton | `client/src/components/responsive/TouchButton.tsx` | hardened-demo.tsx | ⬜ To verify |
+| TeamSummaryNew | `client/src/components/lineup/team-summary-new.tsx` | lineup.tsx | ✅ Verified |
+| TeamSummaryGrid | `client/src/components/lineup/team-summary-grid.tsx` | lineup.tsx | ✅ Verified |
+| TeamLineup | `client/src/components/lineup/team-lineup.tsx` | lineup.tsx | ✅ Verified (imported but may not be used) |
+| TeamTypes | `client/src/components/lineup/team-types.ts` | teamService.ts | ✅ Verified (types) |
 
-### Tools Components - Captain
-
-| Component | File Path | Used In | Status |
-|-----------|-----------|---------|--------|
-| CaptainScorePredictor | `client/src/components/tools/captain/captain-score-predictor.tsx` | tools-accordion.tsx | ⬜ To verify |
-| LoopHole | `client/src/components/tools/captain/loop-hole.tsx` | tools-accordion.tsx | ⬜ To verify |
-| index.ts | `client/src/components/tools/captain/index.ts` | tools-accordion.tsx | ⬜ To verify |
-
-### Tools Components - Cash
+### Leagues Components ✅
 
 | Component | File Path | Used In | Status |
 |-----------|-----------|---------|--------|
-| BuySellTimingTool | `client/src/components/tools/cash/buy-sell-timing-tool.tsx` | tools-accordion.tsx | ⬜ To verify |
-| CashCeilingFloorTracker | `client/src/components/tools/cash/cash-ceiling-floor-tracker.tsx` | tools-accordion.tsx | ⬜ To verify |
-| PricePredictorCalculator | `client/src/components/tools/cash/price-predictor-calculator.tsx` | tools-accordion.tsx | ⬜ To verify |
-| DowngradeTargetFinder | `client/src/components/tools/cash/downgrade-target-finder.tsx` | tools-accordion.tsx | ⬜ To verify |
-| PriceScoreScatter | `client/src/components/tools/cash/price-score-scatter.tsx` | tools-accordion.tsx | ⬜ To verify |
-| ValueTracker | `client/src/components/tools/cash/value-tracker.tsx` | tools-accordion.tsx | ⬜ To verify |
-| index.ts | `client/src/components/tools/cash/index.ts` | tools-accordion.tsx | ⬜ To verify |
+| LeagueLadder | `client/src/components/leagues/league-ladder.tsx` | leagues.tsx | ✅ Verified |
+| LiveMatchups | `client/src/components/leagues/live-matchups.tsx` | leagues.tsx | ✅ Verified |
+| LeaguesList | `client/src/components/leagues/leagues-list.tsx` | leagues.tsx | ✅ Verified |
 
-### Tools Components - Risk
+### Error Components ✅
 
 | Component | File Path | Used In | Status |
 |-----------|-----------|---------|--------|
-| TagWatchTable | `client/src/components/tools/risk/tag-watch-table.tsx` | tools-accordion.tsx | ⬜ To verify |
-| VolatilityIndexTable | `client/src/components/tools/risk/volatility-index-table.tsx` | tools-accordion.tsx | ⬜ To verify |
-| ConsistencyScoreTable | `client/src/components/tools/risk/consistency-score-table.tsx` | tools-accordion.tsx | ⬜ To verify |
-| InjuryRiskTable | `client/src/components/tools/risk/injury-risk-table.tsx` | tools-accordion.tsx | ⬜ To verify |
-| SortableTable | `client/src/components/tools/risk/sortable-table.tsx` | - | ⬜ To verify |
-| index.ts | `client/src/components/tools/risk/index.ts` | tools-accordion.tsx | ⬜ To verify |
+| ErrorBoundary | `client/src/components/error/ErrorBoundary.tsx` | App.tsx, hardened-demo.tsx | ✅ Verified |
+| ToolErrorBoundary | `client/src/components/error/ToolErrorBoundary.tsx` | hardened-demo.tsx | ⚠️ Only in flagged demo page |
 
-### Tools Components - Team Manager
+### Responsive Components ⚠️
 
 | Component | File Path | Used In | Status |
 |-----------|-----------|---------|--------|
-| TradeSuggester | `client/src/components/tools/team-manager/trade-suggester.tsx` | tools-accordion.tsx | ⬜ To verify |
-| BenchHygiene | `client/src/components/tools/team-manager/bench-hygiene.tsx` | tools-accordion.tsx | ⬜ To verify |
-| TradeScore | `client/src/components/tools/team-manager/trade-score.tsx` | tools-accordion.tsx | ⬜ To verify |
-| RageTrades | `client/src/components/tools/team-manager/rage-trades.tsx` | tools-accordion.tsx | ⬜ To verify |
-| index.ts | `client/src/components/tools/team-manager/index.ts` | tools-accordion.tsx | ⬜ To verify |
+| ResponsiveContainer | `client/src/components/responsive/ResponsiveContainer.tsx` | hardened-demo.tsx | ⚠️ Only in flagged demo |
+| ResponsiveDataTable | `client/src/components/responsive/ResponsiveDataTable.tsx` | hardened-demo.tsx | ⚠️ Only in flagged demo |
+| TouchButton | `client/src/components/responsive/TouchButton.tsx` | hardened-demo.tsx | ⚠️ Only in flagged demo |
 
-### Tools Components - Fixture
+### Tools Components - Captain ✅
 
 | Component | File Path | Used In | Status |
 |-----------|-----------|---------|--------|
-| FixtureSwingRadar | `client/src/components/tools/fixture/fixture-swing-radar.tsx` | tools-accordion.tsx | ⬜ To verify |
-| MatchupDVPAnalyzer | `client/src/components/tools/fixture/matchup-dvp-analyzer.tsx` | tools-accordion.tsx | ⬜ To verify |
-| index.ts | `client/src/components/tools/fixture/index.ts` | tools-accordion.tsx | ⬜ To verify |
+| CaptainScorePredictor | `client/src/components/tools/captain/captain-score-predictor.tsx` | tools-accordion.tsx | ✅ Verified - Uses `/api/master-stats/players` |
+| LoopHole | `client/src/components/tools/captain/loop-hole.tsx` | tools-accordion.tsx | ✅ Verified |
+| index.ts | `client/src/components/tools/captain/index.ts` | tools-accordion.tsx | ✅ Verified - exports both |
 
-### Tools Components - Trade
-
-| Component | File Path | Used In | Status |
-|-----------|-----------|---------|--------|
-| TradeAnalyzer | `client/src/components/tools/trade/trade-analyzer.tsx` | trade-analyzer.tsx | ⬜ To verify |
-| TradeCalculatorModal | `client/src/components/tools/trade/trade-calculator-modal.tsx` | lineup.tsx | ⬜ To verify |
-| TeamUploader | `client/src/components/tools/trade/team-uploader.tsx` | team-page.tsx | ⬜ To verify |
-
-### Tools Components - Other
+### Tools Components - Cash ✅
 
 | Component | File Path | Used In | Status |
 |-----------|-----------|---------|--------|
-| CollapsibleTool | `client/src/components/tools/collapsible-tool.tsx` | tools-accordion.tsx | ⬜ To verify |
+| BuySellTimingTool | `client/src/components/tools/cash/buy-sell-timing-tool.tsx` | tools-accordion.tsx | ✅ Verified - Uses `/api/master-stats/players` |
+| CashCeilingFloorTracker | `client/src/components/tools/cash/cash-ceiling-floor-tracker.tsx` | tools-accordion.tsx | ✅ Verified |
+| PricePredictorCalculator | `client/src/components/tools/cash/price-predictor-calculator.tsx` | tools-accordion.tsx | ✅ Verified |
+| DowngradeTargetFinder | `client/src/components/tools/cash/downgrade-target-finder.tsx` | tools-accordion.tsx | ✅ Verified |
+| PriceScoreScatter | `client/src/components/tools/cash/price-score-scatter.tsx` | tools-accordion.tsx | ✅ Imported but not rendered |
+| ValueTracker | `client/src/components/tools/cash/value-tracker.tsx` | tools-accordion.tsx | ✅ Verified |
+| index.ts | `client/src/components/tools/cash/index.ts` | tools-accordion.tsx | ✅ Verified - exports all |
 
-### UI Components (Shadcn/UI) - 50 files
+### Tools Components - Risk ✅
 
-Located at: `client/src/components/ui/`
+| Component | File Path | Used In | Status |
+|-----------|-----------|---------|--------|
+| TagWatchTable | `client/src/components/tools/risk/tag-watch-table.tsx` | tools-accordion.tsx | ✅ Verified - Uses `/api/master-stats/players` |
+| VolatilityIndexTable | `client/src/components/tools/risk/volatility-index-table.tsx` | tools-accordion.tsx | ✅ Verified |
+| ConsistencyScoreTable | `client/src/components/tools/risk/consistency-score-table.tsx` | tools-accordion.tsx | ✅ Verified |
+| InjuryRiskTable | `client/src/components/tools/risk/injury-risk-table.tsx` | tools-accordion.tsx | ✅ Verified |
+| SortableTable | `client/src/components/tools/risk/sortable-table.tsx` | captain-score-predictor.tsx | ✅ Verified - internal utility |
+| index.ts | `client/src/components/tools/risk/index.ts` | tools-accordion.tsx | ✅ Verified - exports 4 tools |
 
-| Component | Status |
-|-----------|--------|
-| accordion.tsx | ⬜ To verify |
-| alert-dialog.tsx | ⬜ To verify |
-| alert.tsx | ⬜ To verify |
-| aspect-ratio.tsx | ⬜ To verify |
-| avatar.tsx | ⬜ To verify |
-| badge.tsx | ⬜ To verify |
-| breadcrumb.tsx | ⬜ To verify |
-| button.tsx | ⬜ To verify |
-| calendar.tsx | ⬜ To verify |
-| card.tsx | ⬜ To verify |
-| carousel.tsx | ⬜ To verify |
-| chart.tsx | ⬜ To verify |
-| checkbox.tsx | ⬜ To verify |
-| collapsible.tsx | ⬜ To verify |
-| command.tsx | ⬜ To verify |
-| context-menu.tsx | ⬜ To verify |
-| dialog.tsx | ⬜ To verify |
-| drawer.tsx | ⬜ To verify |
-| dropdown-menu.tsx | ⬜ To verify |
-| error-boundary.tsx | ⬜ To verify |
-| form.tsx | ⬜ To verify |
-| hover-card.tsx | ⬜ To verify |
-| input-otp.tsx | ⬜ To verify |
-| input.tsx | ⬜ To verify |
-| label.tsx | ⬜ To verify |
-| loading-skeleton.tsx | ⬜ To verify |
-| menubar.tsx | ⬜ To verify |
-| navigation-menu.tsx | ⬜ To verify |
-| pagination.tsx | ⬜ To verify |
-| player-link.tsx | ⬜ To verify |
-| popover.tsx | ⬜ To verify |
-| progress.tsx | ⬜ To verify |
-| radio-group.tsx | ⬜ To verify |
-| resizable.tsx | ⬜ To verify |
-| scroll-area.tsx | ⬜ To verify |
-| select.tsx | ⬜ To verify |
-| separator.tsx | ⬜ To verify |
-| sheet.tsx | ⬜ To verify |
-| sidebar.tsx | ⬜ To verify |
-| skeleton.tsx | ⬜ To verify |
-| slider.tsx | ⬜ To verify |
-| switch.tsx | ⬜ To verify |
-| table.tsx | ⬜ To verify |
-| tabs.tsx | ⬜ To verify |
-| textarea.tsx | ⬜ To verify |
-| toast.tsx | ⬜ To verify |
-| toaster.tsx | ⬜ To verify |
-| toggle-group.tsx | ⬜ To verify |
-| toggle.tsx | ⬜ To verify |
-| tooltip.tsx | ⬜ To verify |
+### Tools Components - Team Manager ✅
+
+| Component | File Path | Used In | Status |
+|-----------|-----------|---------|--------|
+| TradeSuggester | `client/src/components/tools/team-manager/trade-suggester.tsx` | tools-accordion.tsx | ✅ Verified |
+| BenchHygiene | `client/src/components/tools/team-manager/bench-hygiene.tsx` | tools-accordion.tsx | ✅ Verified |
+| TradeScore | `client/src/components/tools/team-manager/trade-score.tsx` | tools-accordion.tsx | ✅ Verified |
+| RageTrades | `client/src/components/tools/team-manager/rage-trades.tsx` | tools-accordion.tsx | ✅ Verified |
+| index.ts | `client/src/components/tools/team-manager/index.ts` | tools-accordion.tsx | ✅ Verified - exports 4 tools |
+
+### Tools Components - Fixture ✅
+
+| Component | File Path | Used In | Status |
+|-----------|-----------|---------|--------|
+| FixtureSwingRadar | `client/src/components/tools/fixture/fixture-swing-radar.tsx` | tools-accordion.tsx | ✅ Verified |
+| MatchupDVPAnalyzer | `client/src/components/tools/fixture/matchup-dvp-analyzer.tsx` | tools-accordion.tsx | ✅ Verified |
+| index.ts | `client/src/components/tools/fixture/index.ts` | tools-accordion.tsx | ✅ Verified - exports both |
+
+### Tools Components - Trade ✅
+
+| Component | File Path | Used In | Status |
+|-----------|-----------|---------|--------|
+| TradeAnalyzer | `client/src/components/tools/trade/trade-analyzer.tsx` | trade-analyzer.tsx | ✅ Verified |
+| TradeCalculatorModal | `client/src/components/tools/trade/trade-calculator-modal.tsx` | lineup.tsx | ✅ Verified |
+| TeamUploader | `client/src/components/tools/trade/team-uploader.tsx` | team-page.tsx | ✅ Verified |
+
+### Tools Components - Other ✅
+
+| Component | File Path | Used In | Status |
+|-----------|-----------|---------|--------|
+| CollapsibleTool | `client/src/components/tools/collapsible-tool.tsx` | tools-accordion.tsx | ✅ Verified |
+
+### UI Components (Shadcn/UI) - 50 files ✅
+
+Located at: `client/src/components/ui/` - **Standard library, auto-verified**
+
+**UI Components USED in pages:**
+| Component | Used In |
+|-----------|---------|
+| accordion.tsx | stats.tsx |
+| alert.tsx | lineup.tsx, player-stats.tsx |
+| avatar.tsx | header.tsx, profile.tsx |
+| badge.tsx | multiple tools |
+| button.tsx | Many pages |
+| card.tsx | Many pages |
+| dialog.tsx | stats.tsx, trade-analyzer.tsx |
+| dropdown-menu.tsx | stats.tsx |
+| input.tsx | Many pages |
+| label.tsx | profile.tsx |
+| scroll-area.tsx | stats.tsx |
+| select.tsx | stats.tsx, profile.tsx |
+| separator.tsx | stats.tsx |
+| skeleton.tsx | tools |
+| switch.tsx | profile.tsx |
+| table.tsx | stats.tsx, player-stats.tsx |
+| tabs.tsx | lineup.tsx, leagues.tsx, stats.tsx, profile.tsx |
+| textarea.tsx | lineup.tsx |
+| toast.tsx | (via toaster) |
+| toaster.tsx | App.tsx |
+| tooltip.tsx | App.tsx |
+
+**UI Components NOT VERIFIED as used (may be unused):**
+- alert-dialog.tsx, aspect-ratio.tsx, breadcrumb.tsx, calendar.tsx, carousel.tsx
+- chart.tsx, checkbox.tsx, collapsible.tsx, command.tsx, context-menu.tsx
+- drawer.tsx, error-boundary.tsx (duplicate?), form.tsx, hover-card.tsx
+- input-otp.tsx, loading-skeleton.tsx, menubar.tsx, navigation-menu.tsx
+- pagination.tsx, player-link.tsx, popover.tsx, progress.tsx, radio-group.tsx
+- resizable.tsx, sheet.tsx, sidebar.tsx, slider.tsx, toggle-group.tsx, toggle.tsx
+
+### 🚨 Redundant Components Identified in Phase 2
+
+| Component | Location | Reason |
+|-----------|----------|--------|
+| StatsKey | `player-stats/stats-key.tsx` | Not imported anywhere |
+| ScoreBreakdownModule | `player-stats/score-breakdown-module.tsx` | Not imported anywhere |
+| ResponsiveContainer | `responsive/ResponsiveContainer.tsx` | Only in flagged demo page |
+| ResponsiveDataTable | `responsive/ResponsiveDataTable.tsx` | Only in flagged demo page |
+| TouchButton | `responsive/TouchButton.tsx` | Only in flagged demo page |
+| ComplianceFooter | `layout/ComplianceFooter.tsx` | Only in flagged demo page |
+| ToolErrorBoundary | `error/ToolErrorBoundary.tsx` | Only in flagged demo page |
+| ~25 UI components | `ui/` folder | May be unused Shadcn templates |
 
 ---
 
