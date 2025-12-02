@@ -655,16 +655,24 @@ PHASE 8: Types         ━━━━━━━━━━━━━━━━━━━
 
 ### Verification Statistics
 
-| Phase | Items Verified | Active/Working | Flagged/Redundant |
-|-------|----------------|----------------|-------------------|
-| **Phase 1: Pages** | 12 | 9 | 3 (profile, preview-tool, hardened-demo) |
-| **Phase 2: Components** | 100+ | 92+ | 8 (stats-key, score-breakdown, responsive x3, etc.) |
-| **Phase 3: Hooks** | 5 | 2 | 3 (platform/responsive hooks) |
-| **Phase 4: Libs/Utils** | 11 | 6 | 5 (debounce, ssr, pwa-utils, etc.) |
-| **Phase 5: Routes** | 12 | 9 | 3 (same as flagged pages) |
-| **Phase 6: Dependencies** | 15+ | 15+ | 0 (all verified) |
-| **Phase 7: Environment** | 1 | 1 | 0 |
-| **Phase 8: Types** | 7 | 7 | 0 |
+| Phase | Items Verified | Active/Working | Flagged/Redundant | Notes |
+|-------|----------------|----------------|-------------------|-------|
+| **Phase 1: Pages** | 13 files | 9 | 4 | profile, preview-tool, hardened-demo, fantasy-tools |
+| **Phase 2: Components** | 108 files | 50 UI + ~40 | ~15+ | UI library + custom, many untested |
+| **Phase 3: Hooks** | 5 files | 2 | 3 | platform/responsive hooks unused |
+| **Phase 4: Libs/Utils** | 10 files | ~5 | ~5 | debounce, ssr, pwa-utils unused |
+| **Phase 5: Routes** | 12 routes | 9 | 3 | Same as flagged pages |
+| **Phase 6: Dependencies** | 15+ packages | 15+ | 0 | All are dependencies |
+| **Phase 7: Environment** | 1 var | 1 | 0 | Only PROD check |
+| **Phase 8: Types** | 7 files | 7 | 0 | Type definitions |
+| **Legacy** | 11 files | 2 | ~9 | Backup/rollback/unused services |
+
+**ACCURATE TOTALS:**
+- **Total TS/TSX files in client/src**: 152 files
+- **Files actually audited for imports**: ~152 files
+- **Confirmed working**: ~65-75 files (needs testing to verify)
+- **Flagged for deletion**: 19 confirmed + ~30-40 potentially unused
+- **UI Components (Shadcn)**: 50 files (many may be unused templates)
 
 ### 🚨 Complete List of Redundant/Fabricated Files
 
@@ -720,24 +728,86 @@ PHASE 8: Types         ━━━━━━━━━━━━━━━━━━━
 **Lib/Utils (6)**
 - ✅ queryClient, utils.ts, register-service-worker, utils/index.ts, utils/utils.ts, utils/team-utils.ts
 
+### 📊 Detailed File Breakdown (All 152 Files)
+
+**Pages: 13 files**
+- 9 confirmed used from App.tsx
+- 4 flagged for deletion (profile, preview-tool, hardened-demo, fantasy-tools)
+
+**Components: 108 files total**
+- UI (Shadcn): 50 files (library templates - usage needs testing)
+- Custom components: 58 files
+  - Layout: 3 (2 used, 1 flagged)
+  - Dashboard: 3 (all used)
+  - Player Stats: 12 (10 used, 2 redundant)
+  - Lineup: 4 (all used)
+  - Leagues: 3 (all used)
+  - Error: 2 (1 used, 1 flagged)
+  - Responsive: 3 (all flagged)
+  - Tools: 28 (27 used, 1 utility)
+
+**Hooks: 5 files**
+- 2 used (useIsMobile, useToast)
+- 3 flagged (platform/responsive - demo only)
+
+**Lib: 6 files**
+- 3 used (queryClient, utils.ts, register-service-worker)
+- 3 potentially unused (debounce, ssr, pwa folder)
+
+**Utils: 4 files**
+- 3 used (index.ts, utils.ts, team-utils.ts)
+- 1 needs verification (positions.ts)
+
+**Legacy: 11 files**
+- 2 used (new-player-stats.tsx, teamService.ts)
+- 9 likely unused (backup files + old services)
+
+**Other: ~5 files** (App.tsx, main.tsx, etc.)
+
 ### 📋 Recommendations
 
-1. **Delete Fabricated Files**: Remove all 19 flagged files (6 pages/backend + 13 components/hooks/utils)
-2. **Clean Legacy**: Review and remove .bak/.rollback files
-3. **Consolidate Types**: Create central `types/` directory for shared types
-4. **Verify Positions/Team Utils**: Check if `positions.ts` and `team-utils.ts` are actually used
-5. **Review UI Components**: Audit 50 Shadcn UI components to see which are truly needed
+1. **IMMEDIATE DELETION** (19 confirmed): Fabricated/redundant files with no imports
+2. **TESTING REQUIRED** (~50-70 files): Files imported but functionality unverified
+3. **AUDIT UI COMPONENTS** (50 files): Shadcn templates - need to test which are used
+4. **REVIEW LEGACY** (9 files): Backup files and old services to remove
+5. **CONSOLIDATE TYPES**: Create central types/ directory
+6. **VERIFY UTILITIES**: Test positions.ts and check lib/utils usage
 
-### 🎉 Verification Complete
+### Next Steps After This Document
 
-All 8 phases have been systematically verified. The codebase now has a clear distinction between:
-- ✅ **Working code** (backed by actual imports from App.tsx)
-- 🚫 **Fabricated code** (Replit-generated nonsense with fake APIs)
-- ⚠️ **Redundant code** (unused files that can be safely removed)
+1. **Run the application** and test each page
+2. **Test each component** to verify functionality
+3. **Check API endpoints** to see which actually exist
+4. **Review console errors** for broken imports
+5. **Remove confirmed unused files** (start with the 19 flagged)
+6. **Then audit UI components** to see which are actually rendered
 
-**Total files audited**: 150+  
-**Files flagged for removal**: 19+  
-**Working files confirmed**: 130+
+### 🎉 Verification Complete - BUT Testing Required
+
+All 8 phases have been systematically verified **by tracing imports from App.tsx**. However, **actual functionality testing has not been performed yet**.
+
+The codebase now has a clear distinction between:
+- ✅ **Imported from App.tsx** (traced through import chain from App.tsx)
+- 🚫 **Fabricated code** (Replit-generated nonsense with fake APIs - 19 files)
+- ⚠️ **Not imported** (unused files that can be safely removed - est. 30-40 more)
+- ❓ **Unknown functionality** (imported but not tested - may be broken)
+
+### ⚠️ IMPORTANT DISCLAIMER
+
+**This verification was done via static analysis only (import tracing)**:
+- ✅ We know which files are imported from App.tsx
+- ✅ We identified obvious fabricated code (Champion Data, etc.)
+- ❌ We have NOT tested if any components actually work
+- ❌ We have NOT verified API endpoints exist
+- ❌ We have NOT tested the 50 UI components to see which are used
+
+**The "working" count assumes files are working because they're imported - this needs validation through testing.**
+
+**Total files in client/src**: 152 TS/TSX files  
+**Files with confirmed imports from App.tsx**: ~65-75 files  
+**Files flagged for definite deletion**: 19 confirmed  
+**Files likely unused** (need testing): ~30-40 additional  
+**UI library templates** (Shadcn): 50 files (usage unclear without testing)
 
 ### How to Use This Document
 
