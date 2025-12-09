@@ -1,4 +1,5 @@
-import { isClient } from '@/lib/utils/ssr';
+// Inline isClient check since ssr.ts was deleted (unused)
+const isClient = typeof window !== 'undefined';
 
 export const registerServiceWorker = async (): Promise<void> => {
   if (!isClient || !('serviceWorker' in navigator)) return;
