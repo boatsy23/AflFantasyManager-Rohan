@@ -170,7 +170,13 @@ All active pages return HTTP 200:
 - `/api/master-stats/players` returns 500 error
 - Error message: "Failed to fetch player data"
 - This is a **pre-existing issue**, not caused by our cleanup
-- Used by PlayerStats page - page may show error state
+- **ROOT CAUSE**: Database connection not configured (DATABASE_URL issue)
+
+**⚠️ CRITICAL FINDING**: This is a **major infrastructure issue**:
+- Used by **17 files** (2 pages, 15 components)
+- Powers PlayerStats page, Stats page, and all trade/risk/captain tools
+- Database-backed endpoint but DATABASE_URL not properly set
+- **See DATABASE_API_ANALYSIS.md for detailed analysis**
 
 ---
 
