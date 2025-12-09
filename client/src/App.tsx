@@ -14,10 +14,8 @@ import Stats from "@/pages/stats";
 import PlayerStats from "@/pages/player-stats";
 import ToolsAccordion from "@/pages/tools-accordion";
 import TeamPage from "@/pages/team-page";
-import UserProfile from "@/pages/profile";
 import TradeAnalyzer from "@/pages/trade-analyzer";
-import PreviewTool from "@/pages/preview-tool";
-import HardenedDemo from "@/pages/hardened-demo";
+// Removed redundant pages: profile, preview-tool, hardened-demo
 import { ErrorBoundary } from "@/components/error/ErrorBoundary";
 
 function MainLayout({ children }: { children: React.ReactNode }) {
@@ -64,11 +62,6 @@ function Router() {
           <Stats />
         </MainLayout>
       )} />
-      <Route path="/profile" component={() => (
-        <MainLayout>
-          <UserProfile />
-        </MainLayout>
-      )} />
       <Route path="/trade-analyzer" component={() => (
         <MainLayout>
           <TradeAnalyzer />
@@ -84,12 +77,7 @@ function Router() {
           <TeamPage />
         </MainLayout>
       )} />
-      <Route path="/preview-tool" component={() => (
-        <MainLayout>
-          <PreviewTool />
-        </MainLayout>
-      )} />
-      <Route path="/hardened-demo" component={HardenedDemo} />
+      {/* Removed redundant routes: /profile, /preview-tool, /hardened-demo */}
       <Route component={NotFound} />
     </Switch>
   );

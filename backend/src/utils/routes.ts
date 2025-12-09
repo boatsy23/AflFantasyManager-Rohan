@@ -17,7 +17,7 @@ import teamApi from "../routes/team-api";
 import statsRoutes from "../routes/stats-routes";
 import aflDataRoutes from "../routes/afl-data-routes";
 import dataIntegrationRoutes from "../routes/data-integration-routes";
-import championDataRoutes from "../routes/champion-data-routes";
+// championDataRoutes removed - fake Champion Data API
 import statsToolsRoutes from "../routes/stats-tools-routes";
 import algorithmRoutes from "../routes/algorithm-routes";
 import scoreProjectionRoutes from "../routes/score-projection-routes";
@@ -598,9 +598,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
   app.use('/api/integration', dataIntegrationRoutes);
   console.log("Data integration API registered");
   
-  // Register Champion Data AFL Sports API routes
-  app.use('/api/champion-data', championDataRoutes);
-  console.log("Champion Data API registered");
+  // Champion Data API removed - no public API exists
   
   // Register Stats and Tools API routes
   app.use('/api/stats-tools', statsToolsRoutes);
